@@ -146,7 +146,8 @@ def sample_image() -> Image.Image | None:
     if not candidates:
         return None
     rng = np.random.default_rng()
-    return Image.open(candidates[int(rng.integers(0, len(candidates)))])
+    with Image.open(candidates[int(rng.integers(0, len(candidates)))]) as source:
+        return source.convert("RGB")
 
 
 # --------------------------------------------------------------------------- #

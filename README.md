@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/imahrous13/alzheimer-mri-classification/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Tests](https://img.shields.io/badge/tests-13%20passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-15%20passing-brightgreen)
 ![Ruff](https://img.shields.io/badge/lint-ruff-261230)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CPU-ee4c2c)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f7931e)
@@ -176,8 +176,9 @@ python -m alzheimer_mri.predict          path/to/scan.jpg --output cnn_predictio
 ## Development
 
 ```bash
+pip install -r requirements-dev.txt   # runtime + notebook + lint/test tooling
 make help        # list targets
-make test        # 13 unit tests (incl. a Streamlit app smoke test)
+make test        # 15 unit tests (incl. a Streamlit app smoke test)
 make lint        # ruff (configured in pyproject.toml)
 make figures     # regenerate docs/figures
 make dashboard   # rebuild dashboard/index.html

@@ -105,7 +105,7 @@ def create_splits(
         group for group, split in assignments.items() if split in {"validation", "test"}
     }
     augmented_holdout_matches = (
-        (usable["dataset"] == "augmented") & usable["leakage_group"].isin(held_out_groups)
+        (usable["dataset"] != "original") & usable["leakage_group"].isin(held_out_groups)
     )
     usable.loc[augmented_holdout_matches, "split"] = "excluded_leakage_guard"
 

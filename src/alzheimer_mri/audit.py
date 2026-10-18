@@ -18,6 +18,18 @@ from .paths import PROCESSED_DATA_DIR, RAW_DATA_DIR, RESULTS_DIR, ensure_output_
 
 SUPPORTED_SUFFIXES = {".jpg", ".jpeg", ".png", ".bmp", ".webp", ".tif", ".tiff"}
 
+# The Kaggle archive uses verbose folder names; the pipeline works with the canonical
+# "original" / "augmented" names so the leakage guard always applies.
+DATASET_ALIASES = {
+    "originaldataset": "original",
+    "augmentedalzheimerdataset": "augmented",
+}
+
+
+def normalize_dataset_name(name: str) -> str:
+    key = name.lower().replace(" ", "").replace("_", "").replace("-", "")
+    return DATASET_ALIASES.get(key, name.lower())
+
 
 def entropy(array: np.ndarray) -> float:
     """Shannon entropy (bits) of an 8-bit grayscale array."""
@@ -91,7 +103,9 @@ def discover(raw_dir: Path) -> list[tuple[Path, str, str]]:
         for label_dir in sorted(path for path in dataset_dir.iterdir() if path.is_dir()):
             for image_path in sorted(label_dir.rglob("*")):
                 if image_path.is_file() and image_path.suffix.lower() in SUPPORTED_SUFFIXES:
-                    discovered.append((image_path, dataset_dir.name, label_dir.name))
+                    discovered.append(
+                        (image_path, normalize_dataset_name(dataset_dir.name), label_dir.name)
+                    )
     return discovered
 
 

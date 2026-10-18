@@ -25,7 +25,7 @@ dependencies = [
 
 [project.optional-dependencies]
 app = ["streamlit>=1.30"]
-dev = ["jupyterlab>=4.0", "nbclient>=0.10", "nbformat>=5.9", "plotly>=5.20", "streamlit>=1.30", "pytest>=8.0"]
+dev = ["jupyterlab>=4.0", "nbclient>=0.10", "nbformat>=5.9", "streamlit>=1.30", "pytest>=8.0", "ruff>=0.5"]
 
 [project.scripts]
 alzheimer-audit = "alzheimer_mri.audit:main"
@@ -45,6 +45,7 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["src"]
 
 [tool.ruff]
 line-length = 110

@@ -1,0 +1,11 @@
+# Development and reproducibility tooling (not required to run the app or use the models).
+-r requirements.txt
+
+# Notebooks / pipeline
+jupyterlab>=4.0
+nbformat>=5.9
+nbconvert>=7.0
+
+# Quality gates
+pytest>=8.0
+ruff>=0.5

@@ -23,9 +23,8 @@ data/
 
 ```bash
 kaggle datasets download -d uraninjo/augmented-alzheimer-mri-dataset -p data/raw --unzip
-# rename the extracted folders so the pipeline finds them:
-#   AugmentedAlzheimerDataset -> augmented
-#   OriginalDataset           -> original
+# The archive extracts as AugmentedAlzheimerDataset/ and OriginalDataset/.
+# The pipeline recognizes these names and normalizes them to augmented/ and original/.
 ```
 
 Source: <https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset>.
