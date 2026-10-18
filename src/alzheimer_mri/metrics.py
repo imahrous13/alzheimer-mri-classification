@@ -20,7 +20,7 @@ def expected_calibration_error(
     predictions = probabilities.argmax(axis=1)
     edges = np.linspace(0, 1, bins + 1)
     ece = 0.0
-    for lower, upper in zip(edges[:-1], edges[1:]):
+    for lower, upper in zip(edges[:-1], edges[1:], strict=False):
         mask = (confidences > lower) & (confidences <= upper)
         if not mask.any():
             continue

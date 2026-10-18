@@ -29,7 +29,7 @@ def main() -> None:
     probabilities = bundle["model"].predict_proba(features)
     class_names = bundle["class_names"]
     rows = []
-    for path, scores in zip(paths, probabilities):
+    for path, scores in zip(paths, probabilities, strict=False):
         best = int(scores.argmax())
         row = {
             "path": path.as_posix(),

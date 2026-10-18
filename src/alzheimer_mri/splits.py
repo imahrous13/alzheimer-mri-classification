@@ -58,7 +58,7 @@ def assign_holdout_groups(
 ) -> dict[str, str]:
     rng = random.Random(seed)
     assignments: dict[str, str] = {}
-    for label, label_rows in original.groupby("label"):
+    for _label, label_rows in original.groupby("label"):
         groups = sorted(label_rows["leakage_group"].unique())
         rng.shuffle(groups)
         total = len(groups)

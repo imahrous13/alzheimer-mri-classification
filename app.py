@@ -30,10 +30,9 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 import torch  # noqa: E402
 from PIL import Image  # noqa: E402
-from skimage.feature import hog  # noqa: E402
 from torch.nn import functional as F  # noqa: E402
 
-from alzheimer_mri.baseline import image_features  # noqa: E402
+from alzheimer_mri.baseline import hog_histogram_features  # noqa: E402
 from alzheimer_mri.dataset import CLASS_NAMES  # noqa: E402
 from alzheimer_mri.explain import grad_cam  # noqa: E402
 from alzheimer_mri.model import build_model  # noqa: E402
@@ -82,25 +81,8 @@ def read_json(path: Path) -> dict | None:
 
 
 def baseline_probabilities(bundle: dict, image: Image.Image) -> np.ndarray:
-    features = image_features_from_array(bundle["image_size"], image)
+    features = hog_histogram_features(image, bundle["image_size"])
     return bundle["model"].predict_proba([features])[0]
-
-
-def image_features_from_array(image_size: int, image: Image.Image) -> np.ndarray:
-    """HOG + histogram descriptor computed from an in-memory image."""
-    gray = image.convert("L").resize((image_size, image_size), Image.Resampling.BILINEAR)
-    pixels = np.asarray(gray, dtype=np.float32) / 255.0
-    gradients = hog(
-        pixels,
-        orientations=9,
-        pixels_per_cell=(8, 8),
-        cells_per_block=(2, 2),
-        block_norm="L2-Hys",
-        feature_vector=True,
-    ).astype(np.float32)
-    histogram, _ = np.histogram(pixels, bins=16, range=(0.0, 1.0), density=True)
-    histogram = (histogram / (histogram.sum() + 1e-8)).astype(np.float32)
-    return np.concatenate([gradients, histogram])
 
 
 def cnn_probabilities(model, checkpoint, device, image: Image.Image):
@@ -137,7 +119,7 @@ def render_prediction(image: Image.Image, probabilities: np.ndarray, threshold: 
     confidence = float(probabilities[best])
     left, right = st.columns([1, 1.3])
     with left:
-        st.image(image, caption="Input MRI", use_container_width=True)
+        st.image(image, caption="Input MRI", width="stretch")
     with right:
         st.markdown(f"### Predicted class: `{CLASS_NAMES[best]}`")
         st.metric("Confidence", f"{confidence * 100:.1f}%")
@@ -152,7 +134,7 @@ def render_prediction(image: Image.Image, probabilities: np.ndarray, threshold: 
                 {"class": CLASS_NAMES, "probability": np.round(probabilities, 4)}
             ),
             hide_index=True,
-            use_container_width=True,
+            width="stretch",
         )
 
 
@@ -224,7 +206,7 @@ def tab_predict() -> None:
             if show_gradcam:
                 best = int(np.argmax(probabilities))
                 figure = gradcam_figure(model, tensor, best, image, checkpoint["image_size"])
-                st.pyplot(figure, use_container_width=False)
+                st.pyplot(figure, width="content")
                 plt.close(figure)
         st.divider()
 
@@ -246,7 +228,7 @@ def tab_performance() -> None:
         rows.append({"model": "Compact CNN (original only)", **{k: cnn[k] for k in ("accuracy", "balanced_accuracy", "macro_f1")}})
 
     if rows:
-        st.dataframe(pd.DataFrame(rows).set_index("model").style.format("{:.3f}"), use_container_width=True)
+        st.dataframe(pd.DataFrame(rows).set_index("model").style.format("{:.3f}"), width="stretch")
     else:
         st.info("No metrics found. Run the evaluation steps of the pipeline.")
 

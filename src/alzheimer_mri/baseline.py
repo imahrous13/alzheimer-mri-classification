@@ -13,6 +13,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from PIL import Image
+from skimage.feature import hog
 from sklearn.linear_model import SGDClassifier
 from sklearn.metrics import (
     accuracy_score,
@@ -21,17 +22,15 @@ from sklearn.metrics import (
     confusion_matrix,
     f1_score,
 )
-from skimage.feature import hog
 from tqdm import tqdm
 
 from .dataset import CLASS_NAMES, CLASS_TO_INDEX, load_split_rows
 from .paths import MODELS_DIR, PROCESSED_DATA_DIR, RAW_DATA_DIR, RESULTS_DIR, ensure_output_dirs
 
 
-def image_features(path: Path, image_size: int = 64) -> np.ndarray:
-    """Extract contrast-normalized HOG plus a coarse intensity histogram."""
-    with Image.open(path) as source:
-        gray = source.convert("L").resize((image_size, image_size), Image.Resampling.BILINEAR)
+def hog_histogram_features(image: Image.Image, image_size: int = 64) -> np.ndarray:
+    """Contrast-normalized HOG plus a coarse intensity histogram for one image."""
+    gray = image.convert("L").resize((image_size, image_size), Image.Resampling.BILINEAR)
     pixels = np.asarray(gray, dtype=np.float32) / 255.0
     gradients = hog(
         pixels,
@@ -44,6 +43,12 @@ def image_features(path: Path, image_size: int = 64) -> np.ndarray:
     histogram, _ = np.histogram(pixels, bins=16, range=(0.0, 1.0), density=True)
     histogram = (histogram / (histogram.sum() + 1e-8)).astype(np.float32)
     return np.concatenate([gradients, histogram])
+
+
+def image_features(path: Path, image_size: int = 64) -> np.ndarray:
+    """Extract HOG + intensity-histogram features from an image file."""
+    with Image.open(path) as source:
+        return hog_histogram_features(source, image_size)
 
 
 def featurize(

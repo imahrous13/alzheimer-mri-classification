@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import torch
-from sklearn.metrics import balanced_accuracy_score, roc_curve, auc
+from sklearn.metrics import auc, balanced_accuracy_score, roc_curve
 from sklearn.preprocessing import label_binarize
 from torch.nn import functional as F
 from tqdm import tqdm
@@ -92,7 +92,7 @@ def save_reliability(labels: np.ndarray, probabilities: np.ndarray, output: Path
     correct = probabilities.argmax(axis=1) == labels
     edges = np.linspace(0, 1, 11)
     centers, accuracies, counts = [], [], []
-    for lower, upper in zip(edges[:-1], edges[1:]):
+    for lower, upper in zip(edges[:-1], edges[1:], strict=False):
         mask = (confidence > lower) & (confidence <= upper)
         if mask.any():
             centers.append(confidence[mask].mean())
@@ -101,7 +101,7 @@ def save_reliability(labels: np.ndarray, probabilities: np.ndarray, output: Path
     fig, ax = plt.subplots(figsize=(7.5, 6))
     ax.plot([0, 1], [0, 1], linestyle="--", color="0.45", label="Perfect calibration")
     ax.plot(centers, accuracies, marker="o", color="#2457A7", label="Model")
-    for x_value, y_value, count in zip(centers, accuracies, counts):
+    for x_value, y_value, count in zip(centers, accuracies, counts, strict=False):
         ax.annotate(str(count), (x_value, y_value), xytext=(0, 7), textcoords="offset points", ha="center", fontsize=8)
     ax.set(
         title="Reliability curve on the original-image test set",

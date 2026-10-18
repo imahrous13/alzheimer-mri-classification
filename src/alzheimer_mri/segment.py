@@ -48,7 +48,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     figure, axes = plt.subplots(2, 2, figsize=(9, 9))
-    for axis, label in zip(axes.flat, CLASS_NAMES):
+    for axis, label in zip(axes.flat, CLASS_NAMES, strict=False):
         image_path = sorted((args.dataset / label).glob("*"))[0]
         image, initial, contour = segment_brain_outline(image_path)
         axis.imshow(image, cmap="gray")

@@ -5,13 +5,11 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 from sklearn.metrics import accuracy_score, balanced_accuracy_score, f1_score
 
 from alzheimer_mri.dataset import CLASS_NAMES, CLASS_TO_INDEX
 from alzheimer_mri.metrics import bootstrap_interval, classification_metrics
-
 
 ROOT = Path(__file__).resolve().parents[1]
 

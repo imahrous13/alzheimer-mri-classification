@@ -16,7 +16,6 @@ from tqdm import tqdm
 from .dataset import CLASS_NAMES
 from .paths import PROCESSED_DATA_DIR, RAW_DATA_DIR, RESULTS_DIR, ensure_output_dirs
 
-
 SUPPORTED_SUFFIXES = {".jpg", ".jpeg", ".png", ".bmp", ".webp", ".tif", ".tiff"}
 
 

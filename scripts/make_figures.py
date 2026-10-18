@@ -25,7 +25,6 @@ from sklearn.decomposition import PCA
 from alzheimer_mri.dataset import CLASS_NAMES
 from alzheimer_mri.paths import PROCESSED_DATA_DIR, RAW_DATA_DIR, RESULTS_DIR
 
-
 ROOT = Path(__file__).resolve().parents[1]
 FIGURES = ROOT / "docs" / "figures"
 
@@ -213,7 +212,7 @@ def figure_leakage(inputs: dict) -> None:
     paths += [(f"Augmented #{i + 1}", RAW_DATA_DIR / row["path"]) for i, (_, row) in enumerate(augmented.iterrows())]
 
     fig, axes = plt.subplots(1, len(paths), figsize=(4 * len(paths), 4.4))
-    for axis, (title, path) in zip(axes, paths):
+    for axis, (title, path) in zip(axes, paths, strict=False):
         with Image.open(path) as image:
             axis.imshow(image.convert("L"), cmap="gray")
         axis.set_title(title, color="#1F4E79" if title == "Original" else "#E08A1E")
@@ -243,7 +242,7 @@ def figure_source_statistics(inputs: dict) -> None:
         ("sharpness_mean", "Sharpness (Laplacian var.)"),
     ]
     fig, axes = plt.subplots(1, 4, figsize=(16, 4.2))
-    for axis, (key, title) in zip(axes, metrics):
+    for axis, (key, title) in zip(axes, metrics, strict=False):
         sns.barplot(
             data=stats, x="dataset", y=key, hue="dataset",
             palette=SOURCE_COLORS, legend=False, ax=axis,
@@ -349,7 +348,7 @@ def figure_calibration(inputs: dict) -> None:
     correct = predictions["prediction"].to_numpy() == labels_true
     edges = np.linspace(0, 1, 11)
     centers, accuracies, counts = [], [], []
-    for lower, upper in zip(edges[:-1], edges[1:]):
+    for lower, upper in zip(edges[:-1], edges[1:], strict=False):
         mask = (confidence > lower) & (confidence <= upper)
         if mask.any():
             centers.append(confidence[mask].mean())
@@ -358,7 +357,7 @@ def figure_calibration(inputs: dict) -> None:
     fig, ax = plt.subplots(figsize=(7.4, 6.6))
     ax.plot([0, 1], [0, 1], "--", color="0.5", label="Perfect calibration")
     ax.plot(centers, accuracies, marker="o", color="#1F4E79", linewidth=2, label="HOG baseline")
-    for x_value, y_value, count in zip(centers, accuracies, counts):
+    for x_value, y_value, count in zip(centers, accuracies, counts, strict=False):
         ax.annotate(str(count), (x_value, y_value), xytext=(0, 8),
                     textcoords="offset points", ha="center", fontsize=8)
     ece = inputs["baseline"]["test_metrics"].get("expected_calibration_error")
@@ -379,7 +378,7 @@ def figure_errors(inputs: dict) -> None:
     if wrong.empty:
         return
     fig, axes = plt.subplots(2, 4, figsize=(14, 7))
-    for axis, (_, row) in zip(axes.flat, wrong.iterrows()):
+    for axis, (_, row) in zip(axes.flat, wrong.iterrows(), strict=False):
         with Image.open(RAW_DATA_DIR / row["path"]) as image:
             axis.imshow(image.convert("L"), cmap="gray")
         axis.set_title(f"true: {row['label']}\npred: {row['prediction']} ({row['confidence']:.2f})",

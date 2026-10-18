@@ -12,10 +12,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-from sklearn.metrics import auc, roc_curve
-
 from build_data_snapshot import build_snapshot
-
+from sklearn.metrics import auc, roc_curve
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "dashboard" / "index.html"
@@ -363,7 +361,7 @@ def add_analytics(snapshot: dict) -> None:
     correct = predictions["prediction"].to_numpy() == labels
     edges = np.linspace(0, 1, 11)
     centers, accuracies, counts = [], [], []
-    for lower, upper in zip(edges[:-1], edges[1:]):
+    for lower, upper in zip(edges[:-1], edges[1:], strict=False):
         mask = (confidence > lower) & (confidence <= upper)
         if mask.any():
             centers.append(float(confidence[mask].mean()))

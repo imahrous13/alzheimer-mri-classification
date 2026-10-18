@@ -10,7 +10,6 @@ from torchvision import transforms
 
 from .paths import RAW_DATA_DIR
 
-
 CLASS_NAMES = (
     "MildDemented",
     "ModerateDemented",

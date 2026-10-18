@@ -2,7 +2,8 @@
 
 ![CI](https://github.com/imahrous13/alzheimer-mri-classification/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Tests](https://img.shields.io/badge/tests-5%20passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-13%20passing-brightgreen)
+![Ruff](https://img.shields.io/badge/lint-ruff-261230)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CPU-ee4c2c)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f7931e)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B)
@@ -170,6 +171,20 @@ python -m alzheimer_mri.predict          path/to/scan.jpg --output cnn_predictio
 - [Data card](docs/DATA_CARD.md) · [Methodology](docs/METHODOLOGY.md) · [Model card](docs/MODEL_CARD.md)
 - [Data-quality report](reports/DATA_QUALITY_REPORT.md) · [Project report](reports/PROJECT_REPORT.md)
 - Interactive [dashboard](dashboard/index.html) · executed [notebook](notebooks/alzheimer_mri_audit_and_results.ipynb)
+- Where to place the dataset: [data/README.md](data/README.md)
+
+## Development
+
+```bash
+make help        # list targets
+make test        # 13 unit tests (incl. a Streamlit app smoke test)
+make lint        # ruff (configured in pyproject.toml)
+make figures     # regenerate docs/figures
+make dashboard   # rebuild dashboard/index.html
+make app         # launch the Streamlit demo
+```
+
+CI (GitHub Actions) runs ruff, a compile check, and the test suite on Python 3.10 and 3.11.
 
 ## Limitations & ethics
 
