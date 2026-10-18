@@ -1,0 +1,25 @@
+{
+  "device": "cpu",
+  "duration_seconds": 788.67,
+  "best_validation_macro_f1": 0.5180161300993487,
+  "train_rows": 4476,
+  "validation_rows": 961,
+  "train_source": "original",
+  "checkpoint": "models/best_model.pt",
+  "arguments": {
+    "splits": "D:\\College\\6th term\\Computer Vision\\READY_FOR_GITHUB\\alzheimer-mri-classification\\data\\processed\\dataset_splits.csv",
+    "epochs": 12,
+    "batch_size": 128,
+    "image_size": 64,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.35,
+    "patience": 3,
+    "workers": 0,
+    "seed": 42,
+    "max_train_samples": null,
+    "train_source": "original",
+    "checkpoint_name": "best_model.pt",
+    "run_dir": "results\\training"
+  }
+}

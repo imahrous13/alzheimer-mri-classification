@@ -1,0 +1,4 @@
+dataset,width,height,count
+augmented,200,190,27584
+augmented,180,180,6400
+original,176,208,6400

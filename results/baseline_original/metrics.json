@@ -1,0 +1,37 @@
+{
+  "model": "HOG features + class-balanced SGD logistic classifier",
+  "train_source": "original",
+  "selection_metric": "validation macro-F1",
+  "best_validation_macro_f1": 0.6789247824068408,
+  "selected_alpha": 3e-05,
+  "test_metrics": {
+    "accuracy": 0.6261682242990654,
+    "balanced_accuracy": 0.6480973581380093,
+    "macro_precision": 0.5599142284951486,
+    "macro_recall": 0.6480973581380093,
+    "macro_f1": 0.5926521354487482,
+    "weighted_f1": 0.6294340886774906,
+    "expected_calibration_error": 0.351235751827622,
+    "macro_roc_auc_ovr": 0.8308613105567657
+  },
+  "train_rows": 4476,
+  "validation_rows": 961,
+  "test_rows": 963,
+  "duration_seconds": 14.9,
+  "model_path": "models/hog_sgd_classifier_original.joblib",
+  "bootstrap_intervals": {
+    "accuracy_95pct": [
+      0.5960539979231568,
+      0.6573208722741433
+    ],
+    "balanced_accuracy_95pct": [
+      0.5712563511583657,
+      0.7096862617191539
+    ],
+    "macro_f1_95pct": [
+      0.5214789714588798,
+      0.6475869879470532
+    ]
+  },
+  "evaluation_note": "Percentile bootstrap intervals use 1,000 row-level resamples. They do not account for unknown patient clustering because patient identifiers are unavailable."
+}

@@ -1,0 +1,81 @@
+{
+  "accuracy": 0.5804776739356179,
+  "balanced_accuracy": 0.5861890313848377,
+  "macro_precision": 0.6838834970483065,
+  "macro_recall": 0.5861890313848377,
+  "macro_f1": 0.4841036977791302,
+  "weighted_f1": 0.5549852410474597,
+  "expected_calibration_error": 0.14035116911305817,
+  "confusion_matrix": [
+    [
+      8,
+      5,
+      0,
+      121
+    ],
+    [
+      0,
+      9,
+      0,
+      1
+    ],
+    [
+      0,
+      3,
+      255,
+      227
+    ],
+    [
+      0,
+      4,
+      43,
+      287
+    ]
+  ],
+  "classification_report": {
+    "MildDemented": {
+      "precision": 1.0,
+      "recall": 0.05970149253731343,
+      "f1-score": 0.11267605633802817,
+      "support": 134.0
+    },
+    "ModerateDemented": {
+      "precision": 0.42857142857142855,
+      "recall": 0.9,
+      "f1-score": 0.5806451612903226,
+      "support": 10.0
+    },
+    "NonDemented": {
+      "precision": 0.8557046979865772,
+      "recall": 0.5257731958762887,
+      "f1-score": 0.6513409961685823,
+      "support": 485.0
+    },
+    "VeryMildDemented": {
+      "precision": 0.45125786163522014,
+      "recall": 0.8592814371257484,
+      "f1-score": 0.5917525773195876,
+      "support": 334.0
+    },
+    "accuracy": 0.5804776739356179,
+    "macro avg": {
+      "precision": 0.6838834970483065,
+      "recall": 0.5861890313848377,
+      "f1-score": 0.4841036977791302,
+      "support": 963.0
+    },
+    "weighted avg": {
+      "precision": 0.7310722934531337,
+      "recall": 0.5804776739356179,
+      "f1-score": 0.5549852410474597,
+      "support": 963.0
+    }
+  },
+  "macro_roc_auc_ovr": 0.8512701332314065,
+  "balanced_accuracy_95ci": [
+    0.5281000447641676,
+    0.6243767150950847
+  ],
+  "test_rows": 963,
+  "test_source": "Original MRI images only"
+}

@@ -1,0 +1,964 @@
+path,actual_index,actual_label,predicted_index,predicted_label,confidence,correct,probability_MildDemented,probability_ModerateDemented,probability_NonDemented,probability_VeryMildDemented
+original/MildDemented/26 (23).jpg,0,MildDemented,3,VeryMildDemented,0.8423813,False,0.08855861,9.641843e-05,0.06896369,0.8423813
+original/MildDemented/27 (22).jpg,0,MildDemented,3,VeryMildDemented,0.54678714,False,0.32271892,0.0033183552,0.12717563,0.54678714
+original/MildDemented/27 (24).jpg,0,MildDemented,3,VeryMildDemented,0.62586755,False,0.30533803,7.598114e-05,0.06871839,0.62586755
+original/MildDemented/27 (26).jpg,0,MildDemented,3,VeryMildDemented,0.5048514,False,0.2850328,0.059577294,0.15053853,0.5048514
+original/MildDemented/28 (10).jpg,0,MildDemented,1,ModerateDemented,0.4547934,False,0.33396018,0.4547934,0.033740588,0.17750588
+original/MildDemented/28 (11).jpg,0,MildDemented,3,VeryMildDemented,0.5557693,False,0.3287346,0.0008852016,0.114610866,0.5557693
+original/MildDemented/28 (21).jpg,0,MildDemented,3,VeryMildDemented,0.6773219,False,0.10897473,0.009024854,0.2046785,0.6773219
+original/MildDemented/28 (26).jpg,0,MildDemented,3,VeryMildDemented,0.45083487,False,0.31528658,0.09276503,0.14111347,0.45083487
+original/MildDemented/28 (9).jpg,0,MildDemented,1,ModerateDemented,0.3814821,False,0.28012148,0.3814821,0.05542318,0.28297326
+original/MildDemented/29 (25).jpg,0,MildDemented,3,VeryMildDemented,0.62526053,False,0.2563778,0.012442055,0.10591965,0.62526053
+original/MildDemented/29 (28).jpg,0,MildDemented,3,VeryMildDemented,0.70380783,False,0.050965134,0.00071076374,0.24451631,0.70380783
+original/MildDemented/29 (7).jpg,0,MildDemented,3,VeryMildDemented,0.6801562,False,0.22717649,0.0016214225,0.09104592,0.6801562
+original/MildDemented/29 (9).jpg,0,MildDemented,1,ModerateDemented,0.3890774,False,0.2637902,0.3890774,0.047891624,0.29924077
+original/MildDemented/30 (11).jpg,0,MildDemented,3,VeryMildDemented,0.5128405,False,0.3941059,0.00667367,0.08637997,0.5128405
+original/MildDemented/30 (19).jpg,0,MildDemented,3,VeryMildDemented,0.41942638,False,0.17546812,0.3396546,0.06545087,0.41942638
+original/MildDemented/30 (3).jpg,0,MildDemented,3,VeryMildDemented,0.55257297,False,0.16352977,0.12287563,0.16102165,0.55257297
+original/MildDemented/30 (7).jpg,0,MildDemented,3,VeryMildDemented,0.6801126,False,0.23086333,0.0012369468,0.08778709,0.6801126
+original/MildDemented/31 (11).jpg,0,MildDemented,3,VeryMildDemented,0.50186706,False,0.4218457,0.01223652,0.06405078,0.50186706
+original/MildDemented/31 (20).jpg,0,MildDemented,3,VeryMildDemented,0.6031125,False,0.28110018,0.0033541815,0.112433076,0.6031125
+original/MildDemented/31 (7).jpg,0,MildDemented,3,VeryMildDemented,0.6994618,False,0.20390536,0.001707953,0.094924785,0.6994618
+original/MildDemented/32 (21).jpg,0,MildDemented,3,VeryMildDemented,0.57607615,False,0.20971292,0.014432192,0.1997787,0.57607615
+original/MildDemented/32 (28).jpg,0,MildDemented,3,VeryMildDemented,0.69306135,False,0.10416218,0.0029062552,0.19987023,0.69306135
+original/MildDemented/32 (3).jpg,0,MildDemented,3,VeryMildDemented,0.57945156,False,0.19303386,0.05759646,0.16991813,0.57945156
+original/MildDemented/32 (6).jpg,0,MildDemented,1,ModerateDemented,0.69869906,False,0.12573442,0.69869906,0.022907443,0.15265906
+original/MildDemented/32 (9).jpg,0,MildDemented,3,VeryMildDemented,0.60815865,False,0.20467329,0.11022284,0.0769452,0.60815865
+original/MildDemented/mildDem0.jpg,0,MildDemented,3,VeryMildDemented,0.94655895,False,0.03345437,9.754228e-05,0.019889163,0.94655895
+original/MildDemented/mildDem101.jpg,0,MildDemented,3,VeryMildDemented,0.7633544,False,0.15548001,7.702605e-05,0.08108854,0.7633544
+original/MildDemented/mildDem102.jpg,0,MildDemented,3,VeryMildDemented,0.78535545,False,0.09397766,0.057823174,0.06284368,0.78535545
+original/MildDemented/mildDem105.jpg,0,MildDemented,3,VeryMildDemented,0.7463655,False,0.06397656,0.0039435783,0.18571436,0.7463655
+original/MildDemented/mildDem112.jpg,0,MildDemented,1,ModerateDemented,0.3675199,False,0.27129728,0.3675199,0.021591991,0.33959088
+original/MildDemented/mildDem113.jpg,0,MildDemented,3,VeryMildDemented,0.5024682,False,0.38250622,0.05625829,0.058767233,0.5024682
+original/MildDemented/mildDem121.jpg,0,MildDemented,3,VeryMildDemented,0.6898024,False,0.20462327,0.0071724337,0.09840188,0.6898024
+original/MildDemented/mildDem125.jpg,0,MildDemented,3,VeryMildDemented,0.65981567,False,0.19639951,0.002543709,0.14124112,0.65981567
+original/MildDemented/mildDem127.jpg,0,MildDemented,3,VeryMildDemented,0.6142338,False,0.31423843,0.00036130138,0.07116651,0.6142338
+original/MildDemented/mildDem129.jpg,0,MildDemented,3,VeryMildDemented,0.6341704,False,0.25292283,0.00036967994,0.112537086,0.6341704
+original/MildDemented/mildDem130.jpg,0,MildDemented,3,VeryMildDemented,0.8223259,False,0.1010163,0.013975512,0.06268232,0.8223259
+original/MildDemented/mildDem131.jpg,0,MildDemented,3,VeryMildDemented,0.68091404,False,0.05939335,0.0013163551,0.2583762,0.68091404
+original/MildDemented/mildDem132.jpg,0,MildDemented,3,VeryMildDemented,0.6573132,False,0.23913236,0.030989978,0.072564416,0.6573132
+original/MildDemented/mildDem133.jpg,0,MildDemented,3,VeryMildDemented,0.77268326,False,0.09149942,0.0034545164,0.13236283,0.77268326
+original/MildDemented/mildDem134.jpg,0,MildDemented,3,VeryMildDemented,0.8542208,False,0.057674617,0.00015768775,0.08794694,0.8542208
+original/MildDemented/mildDem137.jpg,0,MildDemented,3,VeryMildDemented,0.6558331,False,0.28966674,0.008815463,0.045684725,0.6558331
+original/MildDemented/mildDem139.jpg,0,MildDemented,3,VeryMildDemented,0.73919004,False,0.11548275,0.001944877,0.14338233,0.73919004
+original/MildDemented/mildDem141.jpg,0,MildDemented,3,VeryMildDemented,0.5037586,False,0.39566842,0.036081377,0.064491525,0.5037586
+original/MildDemented/mildDem158.jpg,0,MildDemented,3,VeryMildDemented,0.8294,False,0.10442268,0.004672087,0.061505284,0.8294
+original/MildDemented/mildDem166.jpg,0,MildDemented,3,VeryMildDemented,0.6807098,False,0.25556737,0.002676565,0.061046276,0.6807098
+original/MildDemented/mildDem169.jpg,0,MildDemented,3,VeryMildDemented,0.5348214,False,0.3773819,0.015295719,0.072501,0.5348214
+original/MildDemented/mildDem181.jpg,0,MildDemented,3,VeryMildDemented,0.69943863,False,0.13533928,0.00023073406,0.16499142,0.69943863
+original/MildDemented/mildDem182.jpg,0,MildDemented,3,VeryMildDemented,0.6126011,False,0.33873272,0.0012842984,0.047381863,0.6126011
+original/MildDemented/mildDem185.jpg,0,MildDemented,3,VeryMildDemented,0.81103635,False,0.12476451,4.9211685e-05,0.06414996,0.81103635
+original/MildDemented/mildDem187.jpg,0,MildDemented,3,VeryMildDemented,0.6824985,False,0.18067995,0.0011785573,0.13564305,0.6824985
+original/MildDemented/mildDem19.jpg,0,MildDemented,3,VeryMildDemented,0.6915084,False,0.17572956,0.004759385,0.12800269,0.6915084
+original/MildDemented/mildDem197.jpg,0,MildDemented,3,VeryMildDemented,0.5482475,False,0.37493488,0.00914735,0.06767031,0.5482475
+original/MildDemented/mildDem200.jpg,0,MildDemented,3,VeryMildDemented,0.7502474,False,0.20950179,3.0577874e-05,0.04022018,0.7502474
+original/MildDemented/mildDem213.jpg,0,MildDemented,3,VeryMildDemented,0.77319086,False,0.16827227,0.00010652859,0.058430362,0.77319086
+original/MildDemented/mildDem214.jpg,0,MildDemented,3,VeryMildDemented,0.77122253,False,0.14547402,0.003603566,0.079699904,0.77122253
+original/MildDemented/mildDem227.jpg,0,MildDemented,3,VeryMildDemented,0.7459484,False,0.12162904,0.0014108138,0.13101178,0.7459484
+original/MildDemented/mildDem231.jpg,0,MildDemented,3,VeryMildDemented,0.70039463,False,0.11054224,8.3022074e-05,0.18898016,0.70039463
+original/MildDemented/mildDem242.jpg,0,MildDemented,3,VeryMildDemented,0.74499756,False,0.15264976,0.0088778045,0.093474865,0.74499756
+original/MildDemented/mildDem245.jpg,0,MildDemented,3,VeryMildDemented,0.7723612,False,0.06633905,0.0010794466,0.16022032,0.7723612
+original/MildDemented/mildDem266.jpg,0,MildDemented,3,VeryMildDemented,0.70185006,False,0.24538754,0.00034156247,0.05242081,0.70185006
+original/MildDemented/mildDem280.jpg,0,MildDemented,0,MildDemented,0.6639818,True,0.6639818,0.047857415,0.022526843,0.26563394
+original/MildDemented/mildDem281.jpg,0,MildDemented,3,VeryMildDemented,0.4968908,False,0.4152085,0.0052583474,0.082642406,0.4968908
+original/MildDemented/mildDem282.jpg,0,MildDemented,3,VeryMildDemented,0.71756625,False,0.20177013,0.0044676685,0.07619587,0.71756625
+original/MildDemented/mildDem288.jpg,0,MildDemented,3,VeryMildDemented,0.5369985,False,0.34631768,0.0068564955,0.109827355,0.5369985
+original/MildDemented/mildDem290.jpg,0,MildDemented,0,MildDemented,0.5437567,True,0.5437567,0.00073363236,0.023253404,0.43225622
+original/MildDemented/mildDem294.jpg,0,MildDemented,3,VeryMildDemented,0.5593865,False,0.37368855,0.00055959827,0.06636534,0.5593865
+original/MildDemented/mildDem296.jpg,0,MildDemented,3,VeryMildDemented,0.6278136,False,0.27556545,0.003416343,0.093204655,0.6278136
+original/MildDemented/mildDem302.jpg,0,MildDemented,3,VeryMildDemented,0.5605117,False,0.36850345,0.0004154277,0.07056943,0.5605117
+original/MildDemented/mildDem31.jpg,0,MildDemented,3,VeryMildDemented,0.6794024,False,0.2169013,0.000420865,0.10327544,0.6794024
+original/MildDemented/mildDem315.jpg,0,MildDemented,3,VeryMildDemented,0.59306616,False,0.29273513,8.591953e-05,0.114112794,0.59306616
+original/MildDemented/mildDem317.jpg,0,MildDemented,3,VeryMildDemented,0.49581063,False,0.4531132,0.00017174419,0.05090454,0.49581063
+original/MildDemented/mildDem321.jpg,0,MildDemented,0,MildDemented,0.4924412,True,0.4924412,0.00017734864,0.06789914,0.4394823
+original/MildDemented/mildDem33.jpg,0,MildDemented,3,VeryMildDemented,0.7577984,False,0.14515302,0.0021250697,0.094923586,0.7577984
+original/MildDemented/mildDem334.jpg,0,MildDemented,3,VeryMildDemented,0.60015714,False,0.29522675,0.032782797,0.07183334,0.60015714
+original/MildDemented/mildDem341.jpg,0,MildDemented,3,VeryMildDemented,0.64404196,False,0.27982712,0.00034897836,0.075781874,0.64404196
+original/MildDemented/mildDem342.jpg,0,MildDemented,3,VeryMildDemented,0.78174335,False,0.13029258,0.0023544964,0.0856096,0.78174335
+original/MildDemented/mildDem345.jpg,0,MildDemented,3,VeryMildDemented,0.5324254,False,0.41740173,0.00014730515,0.05002561,0.5324254
+original/MildDemented/mildDem353.jpg,0,MildDemented,3,VeryMildDemented,0.843071,False,0.124382146,4.041381e-05,0.032506395,0.843071
+original/MildDemented/mildDem361.jpg,0,MildDemented,3,VeryMildDemented,0.60073584,False,0.33150935,0.008986399,0.058768425,0.60073584
+original/MildDemented/mildDem363.jpg,0,MildDemented,3,VeryMildDemented,0.5637943,False,0.31209385,0.0015844431,0.122527316,0.5637943
+original/MildDemented/mildDem377.jpg,0,MildDemented,3,VeryMildDemented,0.56083876,False,0.34920177,0.00090100523,0.08905849,0.56083876
+original/MildDemented/mildDem381.jpg,0,MildDemented,3,VeryMildDemented,0.8130307,False,0.13897921,5.4593667e-05,0.047935497,0.8130307
+original/MildDemented/mildDem384.jpg,0,MildDemented,3,VeryMildDemented,0.59380203,False,0.27495497,0.054295193,0.07694782,0.59380203
+original/MildDemented/mildDem39.jpg,0,MildDemented,3,VeryMildDemented,0.60938007,False,0.21948332,0.089432545,0.08170405,0.60938007
+original/MildDemented/mildDem406.jpg,0,MildDemented,3,VeryMildDemented,0.5752281,False,0.3477434,0.00014904651,0.07687942,0.5752281
+original/MildDemented/mildDem407.jpg,0,MildDemented,0,MildDemented,0.51427567,True,0.51427567,0.000108316635,0.06526995,0.42034605
+original/MildDemented/mildDem416.jpg,0,MildDemented,3,VeryMildDemented,0.41769886,False,0.25052035,0.2842657,0.04751501,0.41769886
+original/MildDemented/mildDem418.jpg,0,MildDemented,3,VeryMildDemented,0.46855953,False,0.27903754,0.1770649,0.07533802,0.46855953
+original/MildDemented/mildDem426.jpg,0,MildDemented,3,VeryMildDemented,0.8324047,False,0.08067675,0.0017544794,0.08516411,0.8324047
+original/MildDemented/mildDem427.jpg,0,MildDemented,3,VeryMildDemented,0.6587676,False,0.24727681,0.0010542532,0.09290139,0.6587676
+original/MildDemented/mildDem429.jpg,0,MildDemented,3,VeryMildDemented,0.56148,False,0.36526525,0.0064347293,0.06682003,0.56148
+original/MildDemented/mildDem434.jpg,0,MildDemented,3,VeryMildDemented,0.5841602,False,0.3303402,0.0023645551,0.083135046,0.5841602
+original/MildDemented/mildDem447.jpg,0,MildDemented,3,VeryMildDemented,0.52120304,False,0.32699746,0.008333115,0.14346631,0.52120304
+original/MildDemented/mildDem451.jpg,0,MildDemented,3,VeryMildDemented,0.5772196,False,0.33641744,0.018822854,0.06754008,0.5772196
+original/MildDemented/mildDem452.jpg,0,MildDemented,3,VeryMildDemented,0.65849453,False,0.25586337,0.009133289,0.07650876,0.65849453
+original/MildDemented/mildDem461.jpg,0,MildDemented,3,VeryMildDemented,0.5898259,False,0.31260538,0.0020444735,0.09552422,0.5898259
+original/MildDemented/mildDem467.jpg,0,MildDemented,3,VeryMildDemented,0.7499326,False,0.14864339,0.009420365,0.09200359,0.7499326
+original/MildDemented/mildDem471.jpg,0,MildDemented,3,VeryMildDemented,0.5049138,False,0.2586859,0.17179401,0.06460623,0.5049138
+original/MildDemented/mildDem478.jpg,0,MildDemented,3,VeryMildDemented,0.69671255,False,0.20517376,0.0027645414,0.09534914,0.69671255
+original/MildDemented/mildDem484.jpg,0,MildDemented,3,VeryMildDemented,0.45071077,False,0.40222564,0.0012370945,0.1458265,0.45071077
+original/MildDemented/mildDem49.jpg,0,MildDemented,3,VeryMildDemented,0.7488462,False,0.028728155,0.00090114435,0.22152452,0.7488462
+original/MildDemented/mildDem491.jpg,0,MildDemented,0,MildDemented,0.5459393,True,0.5459393,0.00018800996,0.051441584,0.40243113
+original/MildDemented/mildDem499.jpg,0,MildDemented,3,VeryMildDemented,0.49590358,False,0.26848394,0.16419013,0.07142238,0.49590358
+original/MildDemented/mildDem501.jpg,0,MildDemented,3,VeryMildDemented,0.58327794,False,0.3379389,0.0022453945,0.07653773,0.58327794
+original/MildDemented/mildDem506.jpg,0,MildDemented,3,VeryMildDemented,0.7206428,False,0.1859246,0.006601402,0.086831145,0.7206428
+original/MildDemented/mildDem513.jpg,0,MildDemented,3,VeryMildDemented,0.54838777,False,0.33924747,0.03441399,0.077950716,0.54838777
+original/MildDemented/mildDem516.jpg,0,MildDemented,3,VeryMildDemented,0.791172,False,0.10593846,0.00029455518,0.10259493,0.791172
+original/MildDemented/mildDem521.jpg,0,MildDemented,3,VeryMildDemented,0.579451,False,0.35044906,0.00042934043,0.06967056,0.579451
+original/MildDemented/mildDem528.jpg,0,MildDemented,3,VeryMildDemented,0.4908807,False,0.19694176,0.24190974,0.070267804,0.4908807
+original/MildDemented/mildDem530.jpg,0,MildDemented,3,VeryMildDemented,0.43979055,False,0.32673174,0.10518365,0.12829408,0.43979055
+original/MildDemented/mildDem536.jpg,0,MildDemented,0,MildDemented,0.5004099,True,0.5004099,0.0052973335,0.04715248,0.44714037
+original/MildDemented/mildDem537.jpg,0,MildDemented,3,VeryMildDemented,0.7276124,False,0.19652902,0.0024025477,0.07345606,0.7276124
+original/MildDemented/mildDem553.jpg,0,MildDemented,3,VeryMildDemented,0.76822996,False,0.13220485,0.00050689635,0.0990583,0.76822996
+original/MildDemented/mildDem56.jpg,0,MildDemented,3,VeryMildDemented,0.9091088,False,0.07142817,0.00033568655,0.019127274,0.9091088
+original/MildDemented/mildDem569.jpg,0,MildDemented,0,MildDemented,0.5202008,True,0.5202008,0.06433796,0.08183324,0.33362803
+original/MildDemented/mildDem572.jpg,0,MildDemented,3,VeryMildDemented,0.6883178,False,0.18877068,0.01280744,0.110104114,0.6883178
+original/MildDemented/mildDem583.jpg,0,MildDemented,3,VeryMildDemented,0.56001484,False,0.30187166,0.037295096,0.10081842,0.56001484
+original/MildDemented/mildDem59.jpg,0,MildDemented,3,VeryMildDemented,0.71226954,False,0.20295662,0.00025967596,0.08451411,0.71226954
+original/MildDemented/mildDem594.jpg,0,MildDemented,3,VeryMildDemented,0.78577524,False,0.08201658,0.00019029883,0.13201793,0.78577524
+original/MildDemented/mildDem599.jpg,0,MildDemented,3,VeryMildDemented,0.60398644,False,0.29433498,0.0061954553,0.095483124,0.60398644
+original/MildDemented/mildDem617.jpg,0,MildDemented,0,MildDemented,0.58148164,True,0.58148164,0.0016807693,0.05918955,0.35764802
+original/MildDemented/mildDem631.jpg,0,MildDemented,3,VeryMildDemented,0.48078918,False,0.4705808,2.7522485e-05,0.048602566,0.48078918
+original/MildDemented/mildDem637.jpg,0,MildDemented,3,VeryMildDemented,0.6698037,False,0.21854533,0.00079927855,0.11085171,0.6698037
+original/MildDemented/mildDem651.jpg,0,MildDemented,3,VeryMildDemented,0.56925964,False,0.32288688,0.0011079253,0.10674549,0.56925964
+original/MildDemented/mildDem653.jpg,0,MildDemented,3,VeryMildDemented,0.51090854,False,0.36881757,0.002629879,0.117644094,0.51090854
+original/MildDemented/mildDem663.jpg,0,MildDemented,3,VeryMildDemented,0.7295134,False,0.087290585,0.00019180858,0.18300426,0.7295134
+original/MildDemented/mildDem665.jpg,0,MildDemented,3,VeryMildDemented,0.6292173,False,0.24978691,0.0013391239,0.119656675,0.6292173
+original/MildDemented/mildDem668.jpg,0,MildDemented,3,VeryMildDemented,0.65878224,False,0.22413269,0.0030630447,0.11402209,0.65878224
+original/MildDemented/mildDem676.jpg,0,MildDemented,3,VeryMildDemented,0.70575976,False,0.24844855,0.0010930035,0.044698752,0.70575976
+original/MildDemented/mildDem697.jpg,0,MildDemented,3,VeryMildDemented,0.49438453,False,0.4262841,0.018940581,0.060390815,0.49438453
+original/MildDemented/mildDem712.jpg,0,MildDemented,3,VeryMildDemented,0.47372904,False,0.41547838,0.0010753468,0.10971727,0.47372904
+original/MildDemented/mildDem75.jpg,0,MildDemented,3,VeryMildDemented,0.7406812,False,0.06004915,0.0005395998,0.1987301,0.7406812
+original/MildDemented/mildDem85.jpg,0,MildDemented,3,VeryMildDemented,0.48872313,False,0.27888414,0.17331277,0.05908003,0.48872313
+original/MildDemented/mildDem96.jpg,0,MildDemented,3,VeryMildDemented,0.75040084,False,0.15287875,0.009407258,0.08731316,0.75040084
+original/ModerateDemented/27.jpg,1,ModerateDemented,1,ModerateDemented,0.95522565,True,0.013676595,0.95522565,0.004842037,0.026255805
+original/ModerateDemented/moderateDem0.jpg,1,ModerateDemented,3,VeryMildDemented,0.47825882,False,0.17072818,0.3066194,0.044393618,0.47825882
+original/ModerateDemented/moderateDem13.jpg,1,ModerateDemented,1,ModerateDemented,0.592536,True,0.06575469,0.592536,0.03929394,0.30241543
+original/ModerateDemented/moderateDem17.jpg,1,ModerateDemented,1,ModerateDemented,0.6244726,True,0.07203496,0.6244726,0.03683317,0.2666593
+original/ModerateDemented/moderateDem21.jpg,1,ModerateDemented,1,ModerateDemented,0.7416553,True,0.07126925,0.7416553,0.02611726,0.16095822
+original/ModerateDemented/moderateDem30.jpg,1,ModerateDemented,1,ModerateDemented,0.8974917,True,0.024263008,0.8974917,0.012922037,0.06532324
+original/ModerateDemented/moderateDem38.jpg,1,ModerateDemented,1,ModerateDemented,0.9532099,True,0.018024208,0.9532099,0.0074132658,0.021352628
+original/ModerateDemented/moderateDem48.jpg,1,ModerateDemented,1,ModerateDemented,0.9965899,True,0.0016724912,0.9965899,0.00025729035,0.0014802499
+original/ModerateDemented/moderateDem51.jpg,1,ModerateDemented,1,ModerateDemented,0.9495491,True,0.016094927,0.9495491,0.006447669,0.027908199
+original/ModerateDemented/moderateDem7.jpg,1,ModerateDemented,1,ModerateDemented,0.8411605,True,0.034619723,0.8411605,0.012385418,0.11183433
+original/NonDemented/26 (69).jpg,2,NonDemented,2,NonDemented,0.5202515,True,0.0049677268,0.00011705412,0.5202515,0.4746637
+original/NonDemented/26 (72).jpg,2,NonDemented,3,VeryMildDemented,0.6665945,False,0.028672237,0.00070538366,0.30402786,0.6665945
+original/NonDemented/26 (73).jpg,2,NonDemented,3,VeryMildDemented,0.7371133,False,0.05713041,3.282025e-05,0.2057235,0.7371133
+original/NonDemented/26 (74).jpg,2,NonDemented,3,VeryMildDemented,0.81861633,False,0.06627445,0.00021638723,0.11489281,0.81861633
+original/NonDemented/26 (89).jpg,2,NonDemented,3,VeryMildDemented,0.6323673,False,0.22136386,0.0014922202,0.14477661,0.6323673
+original/NonDemented/26 (91).jpg,2,NonDemented,3,VeryMildDemented,0.6273536,False,0.007888282,5.145952e-05,0.36470667,0.6273536
+original/NonDemented/26 (95).jpg,2,NonDemented,2,NonDemented,0.70460826,True,0.0008270644,0.00012096729,0.70460826,0.29444367
+original/NonDemented/26 (96).jpg,2,NonDemented,2,NonDemented,0.8684478,True,0.0003776589,1.7779726e-05,0.8684478,0.1311568
+original/NonDemented/27 (13).jpg,2,NonDemented,2,NonDemented,0.95526356,True,5.5227174e-05,2.056457e-05,0.95526356,0.044660624
+original/NonDemented/27 (16).jpg,2,NonDemented,2,NonDemented,0.69580394,True,0.0071071014,0.00015905175,0.69580394,0.29692987
+original/NonDemented/27 (27).jpg,2,NonDemented,2,NonDemented,0.6889758,True,0.012141792,0.00025146428,0.6889758,0.2986309
+original/NonDemented/27 (31).jpg,2,NonDemented,3,VeryMildDemented,0.5676801,False,0.3383329,0.00086115376,0.093125835,0.5676801
+original/NonDemented/27 (32).jpg,2,NonDemented,2,NonDemented,0.9750377,True,1.3617588e-05,5.2884193e-06,0.9750377,0.02494333
+original/NonDemented/27 (38).jpg,2,NonDemented,3,VeryMildDemented,0.59671694,False,0.20363377,0.0059750164,0.19367425,0.59671694
+original/NonDemented/27 (41).jpg,2,NonDemented,3,VeryMildDemented,0.6382092,False,0.021975093,0.00027038454,0.33954528,0.6382092
+original/NonDemented/27 (46).jpg,2,NonDemented,3,VeryMildDemented,0.6063603,False,0.02038163,0.0008528235,0.3724053,0.6063603
+original/NonDemented/27 (47).jpg,2,NonDemented,2,NonDemented,0.7525032,True,0.0005746671,5.816108e-05,0.7525032,0.24686387
+original/NonDemented/27 (49).jpg,2,NonDemented,3,VeryMildDemented,0.7500827,False,0.13392724,0.015428751,0.10056138,0.7500827
+original/NonDemented/27 (6).jpg,2,NonDemented,2,NonDemented,0.8278366,True,0.00058602187,0.00035441093,0.8278366,0.1712229
+original/NonDemented/27 (66).jpg,2,NonDemented,2,NonDemented,0.8265194,True,0.0009315864,0.00020565896,0.8265194,0.17234336
+original/NonDemented/27 (83).jpg,2,NonDemented,2,NonDemented,0.7752861,True,0.00031649636,7.5104894e-05,0.7752861,0.22432229
+original/NonDemented/28 (15).jpg,2,NonDemented,3,VeryMildDemented,0.6968355,False,0.13469976,0.021897396,0.14656734,0.6968355
+original/NonDemented/28 (19).jpg,2,NonDemented,2,NonDemented,0.94477,True,0.00010398844,3.2911914e-05,0.94477,0.0550931
+original/NonDemented/28 (29).jpg,2,NonDemented,3,VeryMildDemented,0.7021852,False,0.11600097,0.003818359,0.17799549,0.7021852
+original/NonDemented/28 (30).jpg,2,NonDemented,3,VeryMildDemented,0.77003014,False,0.052219994,0.0046429834,0.1731069,0.77003014
+original/NonDemented/28 (40).jpg,2,NonDemented,2,NonDemented,0.8645371,True,0.000507131,6.077037e-05,0.8645371,0.13489504
+original/NonDemented/28 (46).jpg,2,NonDemented,2,NonDemented,0.5227432,True,0.009502632,0.0005321163,0.5227432,0.46722212
+original/NonDemented/28 (47).jpg,2,NonDemented,2,NonDemented,0.65395755,True,0.0012921406,7.649082e-05,0.65395755,0.34467387
+original/NonDemented/28 (51).jpg,2,NonDemented,3,VeryMildDemented,0.58530426,False,0.012537585,0.00062618934,0.40153188,0.58530426
+original/NonDemented/28 (57).jpg,2,NonDemented,2,NonDemented,0.7671548,True,0.003327305,0.0034024823,0.7671548,0.22611535
+original/NonDemented/28 (59).jpg,2,NonDemented,3,VeryMildDemented,0.67700547,False,0.07432852,0.019508343,0.22915772,0.67700547
+original/NonDemented/28 (60).jpg,2,NonDemented,3,VeryMildDemented,0.7247294,False,0.12698801,0.00063883775,0.14764377,0.7247294
+original/NonDemented/28 (73).jpg,2,NonDemented,3,VeryMildDemented,0.7448685,False,0.07740385,0.00012582663,0.17760178,0.7448685
+original/NonDemented/28 (74).jpg,2,NonDemented,3,VeryMildDemented,0.81520706,False,0.0682666,0.00032662853,0.11619967,0.81520706
+original/NonDemented/28 (80).jpg,2,NonDemented,3,VeryMildDemented,0.69998664,False,0.09119855,0.00087411504,0.20794062,0.69998664
+original/NonDemented/28 (87).jpg,2,NonDemented,2,NonDemented,0.96842825,True,2.2408221e-05,8.207863e-06,0.96842825,0.031541083
+original/NonDemented/28 (90).jpg,2,NonDemented,2,NonDemented,0.6203975,True,0.0043627545,0.00022807838,0.6203975,0.37501168
+original/NonDemented/28 (91).jpg,2,NonDemented,3,VeryMildDemented,0.71523494,False,0.021087788,0.0001071571,0.26357007,0.71523494
+original/NonDemented/28 (94).jpg,2,NonDemented,3,VeryMildDemented,0.7135026,False,0.10019934,0.0001461586,0.18615188,0.7135026
+original/NonDemented/28 (97).jpg,2,NonDemented,2,NonDemented,0.7563442,True,0.002270383,0.0010728539,0.7563442,0.24031258
+original/NonDemented/29 (12).jpg,2,NonDemented,2,NonDemented,0.7585226,True,0.0013878524,0.002051286,0.7585226,0.23803826
+original/NonDemented/29 (13).jpg,2,NonDemented,2,NonDemented,0.95587176,True,7.8677884e-05,2.7769582e-05,0.95587176,0.0440218
+original/NonDemented/29 (18).jpg,2,NonDemented,2,NonDemented,0.5018725,True,0.04340394,0.005921482,0.5018725,0.44880208
+original/NonDemented/29 (19).jpg,2,NonDemented,2,NonDemented,0.9625859,True,5.726573e-05,2.633765e-05,0.9625859,0.037330486
+original/NonDemented/29 (20).jpg,2,NonDemented,2,NonDemented,0.70900756,True,0.0008114284,6.018221e-05,0.70900756,0.29012087
+original/NonDemented/29 (21).jpg,2,NonDemented,3,VeryMildDemented,0.66661316,False,0.013075625,9.763402e-05,0.32021356,0.66661316
+original/NonDemented/29 (26).jpg,2,NonDemented,3,VeryMildDemented,0.66154546,False,0.015346293,0.000447506,0.3226607,0.66154546
+original/NonDemented/29 (27).jpg,2,NonDemented,2,NonDemented,0.56293756,True,0.018119644,0.00048646357,0.56293756,0.4184563
+original/NonDemented/29 (34).jpg,2,NonDemented,2,NonDemented,0.83157265,True,0.0009912131,4.969938e-05,0.83157265,0.16738644
+original/NonDemented/29 (38).jpg,2,NonDemented,3,VeryMildDemented,0.5851186,False,0.107263744,0.0013498227,0.30626783,0.5851186
+original/NonDemented/29 (44).jpg,2,NonDemented,2,NonDemented,0.9721584,True,1.8220571e-05,7.286279e-06,0.9721584,0.027816137
+original/NonDemented/29 (45).jpg,2,NonDemented,3,VeryMildDemented,0.68376386,False,0.1938385,0.013074476,0.10932311,0.68376386
+original/NonDemented/29 (54).jpg,2,NonDemented,2,NonDemented,0.78761023,True,0.001401993,0.0006812705,0.78761023,0.21030653
+original/NonDemented/29 (61).jpg,2,NonDemented,2,NonDemented,0.7943723,True,0.0007373018,0.00015587502,0.7943723,0.20473458
+original/NonDemented/29 (68).jpg,2,NonDemented,3,VeryMildDemented,0.60851854,False,0.28961045,0.0007167266,0.10115436,0.60851854
+original/NonDemented/29 (70).jpg,2,NonDemented,2,NonDemented,0.9703129,True,2.532004e-05,3.757712e-05,0.9703129,0.029624164
+original/NonDemented/29 (8).jpg,2,NonDemented,2,NonDemented,0.67457044,True,0.003425331,0.00041759174,0.67457044,0.3215866
+original/NonDemented/29 (88).jpg,2,NonDemented,3,VeryMildDemented,0.5610567,False,0.03794357,0.0016723378,0.39932743,0.5610567
+original/NonDemented/29 (96).jpg,2,NonDemented,2,NonDemented,0.8946833,True,0.0003590715,9.79795e-05,0.8946833,0.10485963
+original/NonDemented/29 (99).jpg,2,NonDemented,3,VeryMildDemented,0.6728399,False,0.14851823,0.0030807054,0.1755612,0.6728399
+original/NonDemented/30 (16).jpg,2,NonDemented,2,NonDemented,0.739781,True,0.0034953079,0.00019683591,0.739781,0.25652686
+original/NonDemented/30 (20).jpg,2,NonDemented,2,NonDemented,0.7556451,True,0.0005241156,5.9428683e-05,0.7556451,0.24377134
+original/NonDemented/30 (22).jpg,2,NonDemented,2,NonDemented,0.88426965,True,0.00025632346,0.00014790522,0.88426965,0.115326054
+original/NonDemented/30 (47).jpg,2,NonDemented,2,NonDemented,0.6759855,True,0.0020264464,0.00029028364,0.6759855,0.32169774
+original/NonDemented/30 (56).jpg,2,NonDemented,3,VeryMildDemented,0.75466245,False,0.10516603,0.008056556,0.13211496,0.75466245
+original/NonDemented/30 (58).jpg,2,NonDemented,3,VeryMildDemented,0.68374676,False,0.03947453,0.0002919362,0.27648675,0.68374676
+original/NonDemented/30 (61).jpg,2,NonDemented,2,NonDemented,0.724847,True,0.0019147652,0.00023571968,0.724847,0.27300256
+original/NonDemented/30 (68).jpg,2,NonDemented,3,VeryMildDemented,0.6657474,False,0.2214379,0.00058238435,0.11223225,0.6657474
+original/NonDemented/30 (78).jpg,2,NonDemented,2,NonDemented,0.8548383,True,0.0012665545,0.00014630829,0.8548383,0.14374873
+original/NonDemented/30 (84).jpg,2,NonDemented,2,NonDemented,0.7758737,True,0.001280186,0.00040148225,0.7758737,0.2224446
+original/NonDemented/30 (86).jpg,2,NonDemented,2,NonDemented,0.9774892,True,2.3478404e-05,2.1711818e-05,0.9774892,0.022465639
+original/NonDemented/30 (93).jpg,2,NonDemented,2,NonDemented,0.8922072,True,0.00012235227,4.9355032e-05,0.8922072,0.10762114
+original/NonDemented/31 (12).jpg,2,NonDemented,2,NonDemented,0.91317827,True,0.00014569768,0.0013567811,0.91317827,0.08531928
+original/NonDemented/31 (17).jpg,2,NonDemented,3,VeryMildDemented,0.55825686,False,0.23815207,0.00012626812,0.20346476,0.55825686
+original/NonDemented/31 (35).jpg,2,NonDemented,3,VeryMildDemented,0.7733768,False,0.15028393,0.00036326426,0.07597598,0.7733768
+original/NonDemented/31 (38).jpg,2,NonDemented,3,VeryMildDemented,0.6302214,False,0.13086036,0.0019212732,0.23699695,0.6302214
+original/NonDemented/31 (4).jpg,2,NonDemented,2,NonDemented,0.9638573,True,3.7330534e-05,0.00017252956,0.9638573,0.035932966
+original/NonDemented/31 (41).jpg,2,NonDemented,3,VeryMildDemented,0.72102815,False,0.061308112,0.00039222836,0.21727152,0.72102815
+original/NonDemented/31 (54).jpg,2,NonDemented,2,NonDemented,0.9074256,True,0.0002660548,0.000418025,0.9074256,0.091890335
+original/NonDemented/31 (55).jpg,2,NonDemented,3,VeryMildDemented,0.59574574,False,0.019480033,0.00060170674,0.38417247,0.59574574
+original/NonDemented/31 (84).jpg,2,NonDemented,2,NonDemented,0.803989,True,0.0010796615,0.0006767906,0.803989,0.1942546
+original/NonDemented/31 (85).jpg,2,NonDemented,2,NonDemented,0.7536442,True,0.005933665,0.0011631547,0.7536442,0.23925897
+original/NonDemented/31 (90).jpg,2,NonDemented,2,NonDemented,0.6658039,True,0.0022255192,5.1117833e-05,0.6658039,0.33191946
+original/NonDemented/31 (91).jpg,2,NonDemented,2,NonDemented,0.52438956,True,0.0034910843,0.0001848393,0.52438956,0.47193453
+original/NonDemented/32 (11).jpg,2,NonDemented,3,VeryMildDemented,0.7094821,False,0.16167277,0.0152033195,0.11364183,0.7094821
+original/NonDemented/32 (36).jpg,2,NonDemented,2,NonDemented,0.877212,True,0.00053264,0.00014885988,0.877212,0.122106574
+original/NonDemented/32 (38).jpg,2,NonDemented,3,VeryMildDemented,0.651684,False,0.15744866,0.0017064905,0.18916084,0.651684
+original/NonDemented/32 (54).jpg,2,NonDemented,2,NonDemented,0.95487475,True,5.9630653e-05,0.0001387097,0.95487475,0.044926982
+original/NonDemented/32 (62).jpg,2,NonDemented,2,NonDemented,0.6025813,True,0.019295065,0.007794836,0.6025813,0.3703288
+original/NonDemented/32 (66).jpg,2,NonDemented,2,NonDemented,0.9323142,True,8.651399e-05,0.00017086208,0.9323142,0.06742838
+original/NonDemented/32 (69).jpg,2,NonDemented,2,NonDemented,0.8646953,True,0.0003526794,0.0007795178,0.8646953,0.13417245
+original/NonDemented/32 (72).jpg,2,NonDemented,3,VeryMildDemented,0.56808734,False,0.03177733,0.0039074575,0.39622793,0.56808734
+original/NonDemented/32 (81).jpg,2,NonDemented,2,NonDemented,0.87730324,True,0.000665602,0.00012763006,0.87730324,0.121903434
+original/NonDemented/nonDem1003.jpg,2,NonDemented,2,NonDemented,0.93281764,True,0.00018512303,3.0938463e-05,0.93281764,0.06696632
+original/NonDemented/nonDem1004.jpg,2,NonDemented,2,NonDemented,0.9748677,True,2.441084e-05,1.9028666e-05,0.9748677,0.025088778
+original/NonDemented/nonDem1012.jpg,2,NonDemented,2,NonDemented,0.81521034,True,0.0018041553,0.00053462613,0.81521034,0.18245094
+original/NonDemented/nonDem1019.jpg,2,NonDemented,3,VeryMildDemented,0.6301156,False,0.06369598,0.000235338,0.305953,0.6301156
+original/NonDemented/nonDem1021.jpg,2,NonDemented,3,VeryMildDemented,0.5744186,False,0.29930925,0.00055600295,0.12571609,0.5744186
+original/NonDemented/nonDem1026.jpg,2,NonDemented,3,VeryMildDemented,0.5428668,False,0.034680877,2.1558479e-05,0.42243072,0.5428668
+original/NonDemented/nonDem1031.jpg,2,NonDemented,3,VeryMildDemented,0.5694163,False,0.041035064,0.0010380526,0.38851056,0.5694163
+original/NonDemented/nonDem1050.jpg,2,NonDemented,3,VeryMildDemented,0.83202744,False,0.051196843,0.0011273385,0.115648344,0.83202744
+original/NonDemented/nonDem1052.jpg,2,NonDemented,2,NonDemented,0.9365197,True,0.00019591699,0.00020291444,0.9365197,0.06308154
+original/NonDemented/nonDem1053.jpg,2,NonDemented,3,VeryMildDemented,0.54946166,False,0.020191133,0.000704671,0.4296425,0.54946166
+original/NonDemented/nonDem1060.jpg,2,NonDemented,3,VeryMildDemented,0.6519206,False,0.19663265,8.3760955e-05,0.15136297,0.6519206
+original/NonDemented/nonDem1061.jpg,2,NonDemented,3,VeryMildDemented,0.70651376,False,0.15295143,0.001756218,0.13877858,0.70651376
+original/NonDemented/nonDem1066.jpg,2,NonDemented,3,VeryMildDemented,0.6333975,False,0.28466347,0.0033551427,0.07858385,0.6333975
+original/NonDemented/nonDem1071.jpg,2,NonDemented,3,VeryMildDemented,0.6438552,False,0.23613437,0.0064375387,0.11357289,0.6438552
+original/NonDemented/nonDem108.jpg,2,NonDemented,3,VeryMildDemented,0.56806546,False,0.12037244,0.0011203054,0.31044176,0.56806546
+original/NonDemented/nonDem1080.jpg,2,NonDemented,2,NonDemented,0.57047725,True,0.003916527,0.0002123746,0.57047725,0.42539388
+original/NonDemented/nonDem1092.jpg,2,NonDemented,2,NonDemented,0.8662014,True,0.00028796378,3.3874123e-05,0.8662014,0.13347667
+original/NonDemented/nonDem11.jpg,2,NonDemented,2,NonDemented,0.9457332,True,0.00019665106,8.17604e-05,0.9457332,0.05398846
+original/NonDemented/nonDem1108.jpg,2,NonDemented,3,VeryMildDemented,0.6676742,False,0.15327747,0.00019907932,0.1788493,0.6676742
+original/NonDemented/nonDem1115.jpg,2,NonDemented,3,VeryMildDemented,0.7352622,False,0.17696708,0.00074320554,0.08702748,0.7352622
+original/NonDemented/nonDem1117.jpg,2,NonDemented,2,NonDemented,0.8937534,True,0.0001674856,9.33004e-06,0.8937534,0.106069714
+original/NonDemented/nonDem1124.jpg,2,NonDemented,3,VeryMildDemented,0.57129985,False,0.2979383,0.0042547043,0.1265071,0.57129985
+original/NonDemented/nonDem1127.jpg,2,NonDemented,2,NonDemented,0.93693125,True,0.00013351293,2.2316719e-05,0.93693125,0.06291289
+original/NonDemented/nonDem1136.jpg,2,NonDemented,3,VeryMildDemented,0.74962604,False,0.100422315,0.00010779769,0.14984384,0.74962604
+original/NonDemented/nonDem1157.jpg,2,NonDemented,2,NonDemented,0.8736923,True,0.0007642163,0.0001167752,0.8736923,0.12542671
+original/NonDemented/nonDem1166.jpg,2,NonDemented,3,VeryMildDemented,0.579321,False,0.32423526,0.008138579,0.08830516,0.579321
+original/NonDemented/nonDem1169.jpg,2,NonDemented,3,VeryMildDemented,0.5958227,False,0.012371692,0.0003043633,0.39150122,0.5958227
+original/NonDemented/nonDem1171.jpg,2,NonDemented,3,VeryMildDemented,0.6365632,False,0.24014631,0.014708165,0.10858235,0.6365632
+original/NonDemented/nonDem1174.jpg,2,NonDemented,2,NonDemented,0.69327396,True,0.006475429,0.00013092157,0.69327396,0.30011964
+original/NonDemented/nonDem1178.jpg,2,NonDemented,3,VeryMildDemented,0.66011256,False,0.20047897,0.00047563508,0.13893284,0.66011256
+original/NonDemented/nonDem1179.jpg,2,NonDemented,2,NonDemented,0.95433855,True,3.649514e-05,5.962795e-06,0.95433855,0.045619007
+original/NonDemented/nonDem118.jpg,2,NonDemented,3,VeryMildDemented,0.5578672,False,0.014156437,0.00029922737,0.42767718,0.5578672
+original/NonDemented/nonDem1186.jpg,2,NonDemented,2,NonDemented,0.50266016,True,0.018648814,0.0012067283,0.50266016,0.4774843
+original/NonDemented/nonDem120.jpg,2,NonDemented,2,NonDemented,0.9317549,True,0.00029170883,9.0679e-05,0.9317549,0.06786272
+original/NonDemented/nonDem1203.jpg,2,NonDemented,2,NonDemented,0.8262654,True,0.0016410676,0.00012701175,0.8262654,0.17196654
+original/NonDemented/nonDem1204.jpg,2,NonDemented,2,NonDemented,0.95387644,True,0.0001216687,6.248781e-05,0.95387644,0.0459393
+original/NonDemented/nonDem1206.jpg,2,NonDemented,3,VeryMildDemented,0.6257103,False,0.23533578,0.0013086331,0.13764523,0.6257103
+original/NonDemented/nonDem1208.jpg,2,NonDemented,3,VeryMildDemented,0.662611,False,0.18901919,0.00027079048,0.14809902,0.662611
+original/NonDemented/nonDem1213.jpg,2,NonDemented,2,NonDemented,0.4978965,True,0.0100872,7.116899e-05,0.4978965,0.4919452
+original/NonDemented/nonDem1215.jpg,2,NonDemented,3,VeryMildDemented,0.75685644,False,0.13437505,0.00067582115,0.1080926,0.75685644
+original/NonDemented/nonDem1217.jpg,2,NonDemented,2,NonDemented,0.8339408,True,0.0005105511,1.7618471e-05,0.8339408,0.16553101
+original/NonDemented/nonDem1224.jpg,2,NonDemented,3,VeryMildDemented,0.5580167,False,0.29255754,0.005132368,0.14429332,0.5580167
+original/NonDemented/nonDem1237.jpg,2,NonDemented,2,NonDemented,0.90898615,True,0.00024003285,6.292089e-05,0.90898615,0.09071087
+original/NonDemented/nonDem1241.jpg,2,NonDemented,3,VeryMildDemented,0.52328765,False,0.011386594,0.00011424498,0.46521154,0.52328765
+original/NonDemented/nonDem1242.jpg,2,NonDemented,3,VeryMildDemented,0.7565215,False,0.026781546,0.0009128424,0.21578406,0.7565215
+original/NonDemented/nonDem1249.jpg,2,NonDemented,2,NonDemented,0.8110967,True,0.001577378,0.0003569448,0.8110967,0.18696901
+original/NonDemented/nonDem1257.jpg,2,NonDemented,2,NonDemented,0.8168244,True,0.0009579439,0.00020761293,0.8168244,0.18201008
+original/NonDemented/nonDem1270.jpg,2,NonDemented,3,VeryMildDemented,0.7761443,False,0.053770803,0.0007319863,0.16935296,0.7761443
+original/NonDemented/nonDem1278.jpg,2,NonDemented,3,VeryMildDemented,0.6520399,False,0.21102117,0.00041232907,0.1365266,0.6520399
+original/NonDemented/nonDem128.jpg,2,NonDemented,3,VeryMildDemented,0.7046781,False,0.21646352,0.0009731891,0.077885225,0.7046781
+original/NonDemented/nonDem1280.jpg,2,NonDemented,3,VeryMildDemented,0.7301234,False,0.04850661,0.00057075603,0.22079928,0.7301234
+original/NonDemented/nonDem1306.jpg,2,NonDemented,3,VeryMildDemented,0.64500684,False,0.21622778,0.014730921,0.124034464,0.64500684
+original/NonDemented/nonDem1312.jpg,2,NonDemented,2,NonDemented,0.8858234,True,0.00038327373,7.84012e-05,0.8858234,0.11371488
+original/NonDemented/nonDem1327.jpg,2,NonDemented,2,NonDemented,0.93732524,True,0.00012781596,1.8611227e-05,0.93732524,0.0625284
+original/NonDemented/nonDem1337.jpg,2,NonDemented,2,NonDemented,0.8535241,True,0.00050576066,0.0001371477,0.8535241,0.14583299
+original/NonDemented/nonDem1345.jpg,2,NonDemented,3,VeryMildDemented,0.74966747,False,0.027451431,5.7995254e-05,0.22282308,0.74966747
+original/NonDemented/nonDem1361.jpg,2,NonDemented,3,VeryMildDemented,0.5915678,False,0.28499547,0.0018847547,0.121551916,0.5915678
+original/NonDemented/nonDem1367.jpg,2,NonDemented,2,NonDemented,0.95639,True,8.923202e-05,3.1611293e-05,0.95639,0.04348913
+original/NonDemented/nonDem1370.jpg,2,NonDemented,3,VeryMildDemented,0.8158147,False,0.05228462,0.0013890325,0.1305117,0.8158147
+original/NonDemented/nonDem138.jpg,2,NonDemented,2,NonDemented,0.9930856,True,3.260173e-06,3.2460043e-06,0.9930856,0.0069079073
+original/NonDemented/nonDem1381.jpg,2,NonDemented,2,NonDemented,0.8873575,True,0.00027715153,3.808042e-05,0.8873575,0.11232729
+original/NonDemented/nonDem1389.jpg,2,NonDemented,2,NonDemented,0.57900316,True,0.007131936,0.00036013112,0.57900316,0.41350484
+original/NonDemented/nonDem1399.jpg,2,NonDemented,3,VeryMildDemented,0.7032925,False,0.1653733,0.000441364,0.1308928,0.7032925
+original/NonDemented/nonDem1401.jpg,2,NonDemented,2,NonDemented,0.79385966,True,0.0013863873,6.9417736e-05,0.79385966,0.20468457
+original/NonDemented/nonDem141.jpg,2,NonDemented,2,NonDemented,0.72406274,True,0.0036164436,4.8191636e-05,0.72406274,0.2722726
+original/NonDemented/nonDem1418.jpg,2,NonDemented,3,VeryMildDemented,0.69865185,False,0.056321714,0.0012766153,0.24374981,0.69865185
+original/NonDemented/nonDem1422.jpg,2,NonDemented,3,VeryMildDemented,0.5631406,False,0.17354615,0.1808498,0.08246352,0.5631406
+original/NonDemented/nonDem1427.jpg,2,NonDemented,2,NonDemented,0.9469027,True,0.00011528414,1.871988e-05,0.9469027,0.052963298
+original/NonDemented/nonDem143.jpg,2,NonDemented,3,VeryMildDemented,0.62999266,False,0.045139477,0.0001642028,0.32470363,0.62999266
+original/NonDemented/nonDem1436.jpg,2,NonDemented,3,VeryMildDemented,0.74544716,False,0.035828866,0.00025693752,0.21846706,0.74544716
+original/NonDemented/nonDem1447.jpg,2,NonDemented,3,VeryMildDemented,0.65176135,False,0.19555767,0.03245974,0.12022125,0.65176135
+original/NonDemented/nonDem1448.jpg,2,NonDemented,2,NonDemented,0.52905303,True,0.018840522,0.002096571,0.52905303,0.45000985
+original/NonDemented/nonDem1459.jpg,2,NonDemented,2,NonDemented,0.8418373,True,0.00043347685,1.785031e-05,0.8418373,0.15771145
+original/NonDemented/nonDem1464.jpg,2,NonDemented,3,VeryMildDemented,0.76519537,False,0.12000202,0.0012683204,0.113534294,0.76519537
+original/NonDemented/nonDem1476.jpg,2,NonDemented,2,NonDemented,0.9713003,True,3.7534875e-05,2.2377559e-05,0.9713003,0.028639877
+original/NonDemented/nonDem1481.jpg,2,NonDemented,2,NonDemented,0.9047555,True,0.00016050323,3.437865e-05,0.9047555,0.09504964
+original/NonDemented/nonDem1483.jpg,2,NonDemented,3,VeryMildDemented,0.51498735,False,0.07067448,0.0055656754,0.40877253,0.51498735
+original/NonDemented/nonDem1484.jpg,2,NonDemented,2,NonDemented,0.9762047,True,1.9095512e-05,9.971493e-06,0.9762047,0.02376616
+original/NonDemented/nonDem1485.jpg,2,NonDemented,2,NonDemented,0.9808185,True,7.845989e-06,1.3944674e-05,0.9808185,0.019159751
+original/NonDemented/nonDem1493.jpg,2,NonDemented,3,VeryMildDemented,0.6732176,False,0.14361951,0.0009213753,0.18224144,0.6732176
+original/NonDemented/nonDem1503.jpg,2,NonDemented,2,NonDemented,0.8899071,True,0.000105314066,2.9384666e-05,0.8899071,0.10995813
+original/NonDemented/nonDem151.jpg,2,NonDemented,3,VeryMildDemented,0.6317552,False,0.052239884,0.00066859607,0.3153364,0.6317552
+original/NonDemented/nonDem1511.jpg,2,NonDemented,2,NonDemented,0.9722749,True,4.8652768e-05,1.52236635e-05,0.9722749,0.027661217
+original/NonDemented/nonDem1515.jpg,2,NonDemented,3,VeryMildDemented,0.60230994,False,0.25872627,0.00790768,0.13105612,0.60230994
+original/NonDemented/nonDem1518.jpg,2,NonDemented,3,VeryMildDemented,0.7068858,False,0.090885766,0.0020728444,0.20015566,0.7068858
+original/NonDemented/nonDem1522.jpg,2,NonDemented,3,VeryMildDemented,0.64560705,False,0.17816754,0.10176316,0.07446227,0.64560705
+original/NonDemented/nonDem1523.jpg,2,NonDemented,3,VeryMildDemented,0.7725716,False,0.07863986,0.00035499403,0.14843352,0.7725716
+original/NonDemented/nonDem1527.jpg,2,NonDemented,2,NonDemented,0.9624589,True,4.5095985e-05,9.544021e-06,0.9624589,0.037486453
+original/NonDemented/nonDem1535.jpg,2,NonDemented,2,NonDemented,0.6177091,True,0.0026806402,9.673553e-05,0.6177091,0.37951356
+original/NonDemented/nonDem1537.jpg,2,NonDemented,2,NonDemented,0.77330476,True,0.001333941,0.00072421925,0.77330476,0.22463717
+original/NonDemented/nonDem1541.jpg,2,NonDemented,3,VeryMildDemented,0.61723405,False,0.009688264,0.00011864535,0.37295905,0.61723405
+original/NonDemented/nonDem1553.jpg,2,NonDemented,3,VeryMildDemented,0.67953354,False,0.09570906,0.002010907,0.22274646,0.67953354
+original/NonDemented/nonDem1556.jpg,2,NonDemented,3,VeryMildDemented,0.725976,False,0.14041716,0.002581697,0.1310252,0.725976
+original/NonDemented/nonDem1563.jpg,2,NonDemented,3,VeryMildDemented,0.52241826,False,0.024789337,0.0069512194,0.4458412,0.52241826
+original/NonDemented/nonDem1566.jpg,2,NonDemented,3,VeryMildDemented,0.62718284,False,0.24857904,7.725287e-05,0.124160856,0.62718284
+original/NonDemented/nonDem1572.jpg,2,NonDemented,3,VeryMildDemented,0.73840976,False,0.16701466,0.0003334578,0.09424215,0.73840976
+original/NonDemented/nonDem1573.jpg,2,NonDemented,2,NonDemented,0.7038161,True,0.0015254893,0.00043824158,0.7038161,0.29422018
+original/NonDemented/nonDem1574.jpg,2,NonDemented,2,NonDemented,0.65262294,True,0.009141556,0.00044376575,0.65262294,0.33779165
+original/NonDemented/nonDem1581.jpg,2,NonDemented,2,NonDemented,0.8988963,True,0.0001644771,5.296179e-05,0.8988963,0.10088629
+original/NonDemented/nonDem1591.jpg,2,NonDemented,3,VeryMildDemented,0.674359,False,0.17970389,0.009324428,0.13661271,0.674359
+original/NonDemented/nonDem1598.jpg,2,NonDemented,3,VeryMildDemented,0.68226945,False,0.13882783,0.0024775027,0.17642523,0.68226945
+original/NonDemented/nonDem1599.jpg,2,NonDemented,3,VeryMildDemented,0.64418364,False,0.20683329,0.00042051176,0.14856257,0.64418364
+original/NonDemented/nonDem1602.jpg,2,NonDemented,3,VeryMildDemented,0.60976857,False,0.26405612,0.003960245,0.12221509,0.60976857
+original/NonDemented/nonDem1604.jpg,2,NonDemented,2,NonDemented,0.899836,True,0.0005996475,0.00016287803,0.899836,0.099401355
+original/NonDemented/nonDem1607.jpg,2,NonDemented,2,NonDemented,0.9273881,True,0.000109771434,1.06232255e-05,0.9273881,0.07249152
+original/NonDemented/nonDem1612.jpg,2,NonDemented,2,NonDemented,0.6977569,True,0.002734615,0.0002917049,0.6977569,0.2992168
+original/NonDemented/nonDem1635.jpg,2,NonDemented,2,NonDemented,0.71559405,True,0.0015707474,9.267356e-05,0.71559405,0.2827425
+original/NonDemented/nonDem1639.jpg,2,NonDemented,3,VeryMildDemented,0.772311,False,0.09241077,0.0026030852,0.13267511,0.772311
+original/NonDemented/nonDem1644.jpg,2,NonDemented,3,VeryMildDemented,0.67989147,False,0.20471083,0.02417848,0.09121927,0.67989147
+original/NonDemented/nonDem1646.jpg,2,NonDemented,2,NonDemented,0.569913,True,0.0020174084,0.00017106433,0.569913,0.42789853
+original/NonDemented/nonDem1647.jpg,2,NonDemented,3,VeryMildDemented,0.6636528,False,0.18588862,0.020317992,0.1301406,0.6636528
+original/NonDemented/nonDem1664.jpg,2,NonDemented,3,VeryMildDemented,0.79806125,False,0.05626509,0.0011292042,0.14454445,0.79806125
+original/NonDemented/nonDem1674.jpg,2,NonDemented,2,NonDemented,0.6951272,True,0.0046369615,0.0002729438,0.6951272,0.2999629
+original/NonDemented/nonDem1678.jpg,2,NonDemented,3,VeryMildDemented,0.6558013,False,0.20153317,0.0011679655,0.14149758,0.6558013
+original/NonDemented/nonDem1679.jpg,2,NonDemented,2,NonDemented,0.85343385,True,0.00060267583,0.00015000156,0.85343385,0.14581347
+original/NonDemented/nonDem1702.jpg,2,NonDemented,3,VeryMildDemented,0.60643363,False,0.2514722,0.010068768,0.13202535,0.60643363
+original/NonDemented/nonDem1705.jpg,2,NonDemented,2,NonDemented,0.9750104,True,1.8040797e-05,1.3909082e-05,0.9750104,0.024957627
+original/NonDemented/nonDem1710.jpg,2,NonDemented,2,NonDemented,0.9875409,True,4.9651626e-06,5.803258e-06,0.9875409,0.012448412
+original/NonDemented/nonDem1711.jpg,2,NonDemented,2,NonDemented,0.9253013,True,0.00036736278,3.939944e-05,0.9253013,0.07429188
+original/NonDemented/nonDem1717.jpg,2,NonDemented,2,NonDemented,0.49689668,True,0.011069223,0.0005053417,0.49689668,0.49152878
+original/NonDemented/nonDem1720.jpg,2,NonDemented,2,NonDemented,0.788756,True,0.0028547023,0.00010520973,0.788756,0.20828408
+original/NonDemented/nonDem1721.jpg,2,NonDemented,3,VeryMildDemented,0.7332245,False,0.16853444,0.00018006236,0.098060995,0.7332245
+original/NonDemented/nonDem1724.jpg,2,NonDemented,3,VeryMildDemented,0.6727088,False,0.17771015,0.00079339294,0.14878769,0.6727088
+original/NonDemented/nonDem173.jpg,2,NonDemented,2,NonDemented,0.8213099,True,0.00073720486,0.00023066913,0.8213099,0.17772223
+original/NonDemented/nonDem1739.jpg,2,NonDemented,3,VeryMildDemented,0.7649569,False,0.06937237,0.0012095753,0.16446118,0.7649569
+original/NonDemented/nonDem1743.jpg,2,NonDemented,3,VeryMildDemented,0.7463245,False,0.09505188,0.0054551433,0.15316854,0.7463245
+original/NonDemented/nonDem1755.jpg,2,NonDemented,2,NonDemented,0.9605786,True,3.7413938e-05,2.3144421e-05,0.9605786,0.039360832
+original/NonDemented/nonDem1756.jpg,2,NonDemented,3,VeryMildDemented,0.66573435,False,0.1834179,0.003937883,0.14690982,0.66573435
+original/NonDemented/nonDem1759.jpg,2,NonDemented,2,NonDemented,0.6861554,True,0.0019778241,1.9575053e-05,0.6861554,0.31184715
+original/NonDemented/nonDem1760.jpg,2,NonDemented,3,VeryMildDemented,0.7656082,False,0.091810726,0.00040643208,0.14217463,0.7656082
+original/NonDemented/nonDem1763.jpg,2,NonDemented,2,NonDemented,0.5339177,True,0.020696266,0.0047982372,0.5339177,0.4405877
+original/NonDemented/nonDem1782.jpg,2,NonDemented,2,NonDemented,0.94724655,True,4.826632e-05,1.9632953e-05,0.94724655,0.05268562
+original/NonDemented/nonDem1785.jpg,2,NonDemented,2,NonDemented,0.96589327,True,1.8405304e-05,1.1574728e-05,0.96589327,0.03407682
+original/NonDemented/nonDem1793.jpg,2,NonDemented,3,VeryMildDemented,0.6417519,False,0.10264319,0.0016768515,0.25392804,0.6417519
+original/NonDemented/nonDem1800.jpg,2,NonDemented,2,NonDemented,0.7692977,True,0.0036623362,6.2913154e-05,0.7692977,0.22697698
+original/NonDemented/nonDem1807.jpg,2,NonDemented,2,NonDemented,0.86329406,True,0.00042024284,2.1406655e-05,0.86329406,0.13626428
+original/NonDemented/nonDem1809.jpg,2,NonDemented,2,NonDemented,0.75481343,True,0.0051389146,0.00050926756,0.75481343,0.23953836
+original/NonDemented/nonDem1810.jpg,2,NonDemented,2,NonDemented,0.99124485,True,1.8965882e-06,2.082909e-06,0.99124485,0.008751059
+original/NonDemented/nonDem1817.jpg,2,NonDemented,3,VeryMildDemented,0.5407786,False,0.015354982,0.00051965384,0.44334674,0.5407786
+original/NonDemented/nonDem1820.jpg,2,NonDemented,2,NonDemented,0.79919213,True,0.0022853734,9.393481e-05,0.79919213,0.19842865
+original/NonDemented/nonDem1828.jpg,2,NonDemented,3,VeryMildDemented,0.844597,False,0.107563555,0.00030740464,0.047532137,0.844597
+original/NonDemented/nonDem1837.jpg,2,NonDemented,2,NonDemented,0.8586424,True,0.00019805573,2.8884027e-05,0.8586424,0.14113069
+original/NonDemented/nonDem1840.jpg,2,NonDemented,2,NonDemented,0.6698556,True,0.0014842732,9.643758e-05,0.6698556,0.32856366
+original/NonDemented/nonDem1841.jpg,2,NonDemented,3,VeryMildDemented,0.54197097,False,0.012513872,7.4166295e-05,0.44544098,0.54197097
+original/NonDemented/nonDem1855.jpg,2,NonDemented,2,NonDemented,0.9763032,True,1.0824291e-05,9.865824e-06,0.9763032,0.02367611
+original/NonDemented/nonDem1857.jpg,2,NonDemented,2,NonDemented,0.7917978,True,0.0017440612,0.00018920765,0.7917978,0.20626889
+original/NonDemented/nonDem1860.jpg,2,NonDemented,3,VeryMildDemented,0.7390314,False,0.08846707,0.0003038201,0.17219768,0.7390314
+original/NonDemented/nonDem1866.jpg,2,NonDemented,3,VeryMildDemented,0.5433606,False,0.35170627,0.0052524097,0.099680774,0.5433606
+original/NonDemented/nonDem1876.jpg,2,NonDemented,2,NonDemented,0.98289824,True,1.4500153e-05,1.21134135e-05,0.98289824,0.01707517
+original/NonDemented/nonDem1881.jpg,2,NonDemented,2,NonDemented,0.953882,True,2.1913498e-05,2.1136319e-05,0.953882,0.046074893
+original/NonDemented/nonDem1896.jpg,2,NonDemented,2,NonDemented,0.81840503,True,0.0021579904,0.00022994974,0.81840503,0.17920706
+original/NonDemented/nonDem1906.jpg,2,NonDemented,3,VeryMildDemented,0.59019,False,0.16749048,0.0040559117,0.23826362,0.59019
+original/NonDemented/nonDem192.jpg,2,NonDemented,2,NonDemented,0.8072908,True,0.0021879498,0.0001569296,0.8072908,0.19036426
+original/NonDemented/nonDem1921.jpg,2,NonDemented,3,VeryMildDemented,0.73657924,False,0.14489758,0.00036912362,0.11815407,0.73657924
+original/NonDemented/nonDem1923.jpg,2,NonDemented,3,VeryMildDemented,0.73696506,False,0.14672065,0.0012317436,0.11508259,0.73696506
+original/NonDemented/nonDem1924.jpg,2,NonDemented,3,VeryMildDemented,0.61962014,False,0.22073889,0.00017793235,0.159463,0.61962014
+original/NonDemented/nonDem1925.jpg,2,NonDemented,2,NonDemented,0.970234,True,2.2318101e-05,8.698758e-06,0.970234,0.02973499
+original/NonDemented/nonDem1933.jpg,2,NonDemented,2,NonDemented,0.93692803,True,7.07544e-05,5.592332e-05,0.93692803,0.062945336
+original/NonDemented/nonDem1937.jpg,2,NonDemented,2,NonDemented,0.78924143,True,0.0004069074,3.3635428e-05,0.78924143,0.21031804
+original/NonDemented/nonDem1944.jpg,2,NonDemented,3,VeryMildDemented,0.86756057,False,0.058134466,6.298522e-05,0.074242026,0.86756057
+original/NonDemented/nonDem1946.jpg,2,NonDemented,3,VeryMildDemented,0.5203344,False,0.0020323566,0.00018382107,0.4774494,0.5203344
+original/NonDemented/nonDem1950.jpg,2,NonDemented,3,VeryMildDemented,0.74678403,False,0.041883513,0.0012112331,0.21012121,0.74678403
+original/NonDemented/nonDem1975.jpg,2,NonDemented,2,NonDemented,0.7783916,True,0.0018459948,0.00016029694,0.7783916,0.21960203
+original/NonDemented/nonDem1977.jpg,2,NonDemented,2,NonDemented,0.7453102,True,0.0022914317,0.00014912138,0.7453102,0.25224924
+original/NonDemented/nonDem1986.jpg,2,NonDemented,2,NonDemented,0.5235697,True,0.010110185,8.881605e-05,0.5235697,0.4662312
+original/NonDemented/nonDem1987.jpg,2,NonDemented,3,VeryMildDemented,0.68581146,False,0.21776147,0.009495066,0.08693197,0.68581146
+original/NonDemented/nonDem1993.jpg,2,NonDemented,3,VeryMildDemented,0.6030827,False,0.17026983,0.0020578685,0.22458962,0.6030827
+original/NonDemented/nonDem1995.jpg,2,NonDemented,2,NonDemented,0.91511774,True,0.00025240812,3.72563e-05,0.91511774,0.084592596
+original/NonDemented/nonDem2.jpg,2,NonDemented,3,VeryMildDemented,0.8291373,False,0.06993727,0.00866201,0.09226342,0.8291373
+original/NonDemented/nonDem2001.jpg,2,NonDemented,2,NonDemented,0.69438887,True,0.0021315345,0.0004543391,0.69438887,0.30302525
+original/NonDemented/nonDem2010.jpg,2,NonDemented,2,NonDemented,0.98806643,True,3.9192423e-06,2.9207224e-06,0.98806643,0.011926679
+original/NonDemented/nonDem2011.jpg,2,NonDemented,2,NonDemented,0.86051923,True,0.0017633089,9.970076e-05,0.86051923,0.13761786
+original/NonDemented/nonDem2017.jpg,2,NonDemented,2,NonDemented,0.6884483,True,0.004229382,0.00016167205,0.6884483,0.3071606
+original/NonDemented/nonDem2027.jpg,2,NonDemented,2,NonDemented,0.96581495,True,2.9824967e-05,7.2925463e-06,0.96581495,0.03414795
+original/NonDemented/nonDem2028.jpg,2,NonDemented,3,VeryMildDemented,0.7142099,False,0.21514887,0.0009899688,0.0696513,0.7142099
+original/NonDemented/nonDem203.jpg,2,NonDemented,2,NonDemented,0.96625686,True,7.462197e-05,3.689165e-05,0.96625686,0.033631716
+original/NonDemented/nonDem2045.jpg,2,NonDemented,3,VeryMildDemented,0.7574714,False,0.13169181,6.63531e-05,0.11077044,0.7574714
+original/NonDemented/nonDem2047.jpg,2,NonDemented,3,VeryMildDemented,0.54916286,False,0.21449128,0.13357994,0.10276585,0.54916286
+original/NonDemented/nonDem2050.jpg,2,NonDemented,3,VeryMildDemented,0.7690833,False,0.03758846,0.0007410703,0.1925871,0.7690833
+original/NonDemented/nonDem2051.jpg,2,NonDemented,3,VeryMildDemented,0.74424994,False,0.0824583,0.0011830042,0.17210872,0.74424994
+original/NonDemented/nonDem2052.jpg,2,NonDemented,2,NonDemented,0.8969491,True,0.00044897606,0.00022010604,0.8969491,0.10238174
+original/NonDemented/nonDem2053.jpg,2,NonDemented,3,VeryMildDemented,0.6447229,False,0.065502815,0.0017732026,0.2880011,0.6447229
+original/NonDemented/nonDem2055.jpg,2,NonDemented,2,NonDemented,0.9476655,True,2.9849574e-05,3.1911393e-05,0.9476655,0.052272707
+original/NonDemented/nonDem2057.jpg,2,NonDemented,2,NonDemented,0.58611226,True,0.003565884,0.00015699872,0.58611226,0.41016486
+original/NonDemented/nonDem2062.jpg,2,NonDemented,2,NonDemented,0.75359565,True,0.0022212188,0.00050223945,0.75359565,0.24368085
+original/NonDemented/nonDem2095.jpg,2,NonDemented,2,NonDemented,0.8986117,True,0.00021846897,4.3225205e-05,0.8986117,0.101126604
+original/NonDemented/nonDem2103.jpg,2,NonDemented,2,NonDemented,0.7652938,True,0.001680753,9.742175e-05,0.7652938,0.23292805
+original/NonDemented/nonDem2105.jpg,2,NonDemented,2,NonDemented,0.9697019,True,2.6584452e-05,3.6230547e-05,0.9697019,0.030235304
+original/NonDemented/nonDem2107.jpg,2,NonDemented,2,NonDemented,0.6932796,True,0.0031983252,0.00013152044,0.6932796,0.3033905
+original/NonDemented/nonDem211.jpg,2,NonDemented,2,NonDemented,0.93562365,True,0.00032261823,0.00012818715,0.93562365,0.0639255
+original/NonDemented/nonDem2116.jpg,2,NonDemented,3,VeryMildDemented,0.63386405,False,0.27983847,0.0004336322,0.085863866,0.63386405
+original/NonDemented/nonDem2118.jpg,2,NonDemented,3,VeryMildDemented,0.7139703,False,0.06398988,0.0009227811,0.22111699,0.7139703
+original/NonDemented/nonDem2119.jpg,2,NonDemented,2,NonDemented,0.49265823,True,0.018014498,5.3117878e-05,0.49265823,0.48927417
+original/NonDemented/nonDem2122.jpg,2,NonDemented,3,VeryMildDemented,0.58485574,False,0.2562205,0.0025282446,0.15639551,0.58485574
+original/NonDemented/nonDem2125.jpg,2,NonDemented,2,NonDemented,0.9719915,True,1.745111e-05,5.135448e-06,0.9719915,0.02798592
+original/NonDemented/nonDem2136.jpg,2,NonDemented,3,VeryMildDemented,0.5792857,False,0.008373651,0.00028336828,0.41205728,0.5792857
+original/NonDemented/nonDem2143.jpg,2,NonDemented,3,VeryMildDemented,0.7627309,False,0.11178404,0.0002646727,0.12522039,0.7627309
+original/NonDemented/nonDem2154.jpg,2,NonDemented,3,VeryMildDemented,0.78565395,False,0.045350052,0.0006389819,0.16835706,0.78565395
+original/NonDemented/nonDem2156.jpg,2,NonDemented,3,VeryMildDemented,0.6353052,False,0.23068891,0.004864534,0.12914135,0.6353052
+original/NonDemented/nonDem216.jpg,2,NonDemented,3,VeryMildDemented,0.82815975,False,0.11037639,0.007507172,0.053956695,0.82815975
+original/NonDemented/nonDem2164.jpg,2,NonDemented,3,VeryMildDemented,0.6120419,False,0.25312734,0.0017039315,0.13312677,0.6120419
+original/NonDemented/nonDem2169.jpg,2,NonDemented,3,VeryMildDemented,0.65164256,False,0.02038798,0.0004993089,0.32747018,0.65164256
+original/NonDemented/nonDem2170.jpg,2,NonDemented,3,VeryMildDemented,0.7493463,False,0.100439645,9.2090675e-05,0.15012196,0.7493463
+original/NonDemented/nonDem2194.jpg,2,NonDemented,2,NonDemented,0.62367594,True,0.0024868483,0.00012120045,0.62367594,0.373716
+original/NonDemented/nonDem2197.jpg,2,NonDemented,1,ModerateDemented,0.40984726,False,0.31181547,0.40984726,0.06936554,0.20897168
+original/NonDemented/nonDem2198.jpg,2,NonDemented,3,VeryMildDemented,0.72035444,False,0.1288751,0.00031390236,0.15045658,0.72035444
+original/NonDemented/nonDem2199.jpg,2,NonDemented,3,VeryMildDemented,0.72182256,False,0.047703378,0.0018554826,0.22861862,0.72182256
+original/NonDemented/nonDem221.jpg,2,NonDemented,3,VeryMildDemented,0.78654426,False,0.06859301,0.0015322168,0.14333045,0.78654426
+original/NonDemented/nonDem2214.jpg,2,NonDemented,2,NonDemented,0.86232376,True,0.0002869422,6.9643946e-05,0.86232376,0.13731965
+original/NonDemented/nonDem2222.jpg,2,NonDemented,3,VeryMildDemented,0.55913526,False,0.2846434,0.011435908,0.1447855,0.55913526
+original/NonDemented/nonDem2227.jpg,2,NonDemented,2,NonDemented,0.9887321,True,3.432498e-06,2.5108884e-06,0.9887321,0.011261992
+original/NonDemented/nonDem2233.jpg,2,NonDemented,2,NonDemented,0.7917621,True,0.0012860149,0.00040794193,0.7917621,0.20654397
+original/NonDemented/nonDem2236.jpg,2,NonDemented,3,VeryMildDemented,0.65426993,False,0.025083695,0.00031516323,0.32033122,0.65426993
+original/NonDemented/nonDem2239.jpg,2,NonDemented,3,VeryMildDemented,0.67277455,False,0.17110744,0.000943379,0.1551746,0.67277455
+original/NonDemented/nonDem224.jpg,2,NonDemented,3,VeryMildDemented,0.78045833,False,0.111532904,0.0045719296,0.1034369,0.78045833
+original/NonDemented/nonDem2244.jpg,2,NonDemented,3,VeryMildDemented,0.8696496,False,0.09805595,1.9818119e-05,0.03227458,0.8696496
+original/NonDemented/nonDem2251.jpg,2,NonDemented,3,VeryMildDemented,0.6851521,False,0.09751336,0.0005391662,0.2167953,0.6851521
+original/NonDemented/nonDem2268.jpg,2,NonDemented,3,VeryMildDemented,0.5586632,False,0.019615814,0.0006615666,0.42105943,0.5586632
+original/NonDemented/nonDem227.jpg,2,NonDemented,2,NonDemented,0.97153294,True,2.8432694e-05,1.3198671e-05,0.97153294,0.028425438
+original/NonDemented/nonDem2270.jpg,2,NonDemented,3,VeryMildDemented,0.77043533,False,0.073294885,4.982665e-05,0.15621994,0.77043533
+original/NonDemented/nonDem2271.jpg,2,NonDemented,3,VeryMildDemented,0.7868943,False,0.08140588,0.00068177417,0.1310181,0.7868943
+original/NonDemented/nonDem2279.jpg,2,NonDemented,2,NonDemented,0.7978196,True,0.00076620956,3.1899894e-05,0.7978196,0.20138228
+original/NonDemented/nonDem2280.jpg,2,NonDemented,3,VeryMildDemented,0.76957095,False,0.009915621,8.0936574e-05,0.22043252,0.76957095
+original/NonDemented/nonDem2282.jpg,2,NonDemented,2,NonDemented,0.82073575,True,0.0010211498,0.00014618978,0.82073575,0.17809692
+original/NonDemented/nonDem2286.jpg,2,NonDemented,3,VeryMildDemented,0.6147141,False,0.03677002,0.00012949565,0.34838638,0.6147141
+original/NonDemented/nonDem2287.jpg,2,NonDemented,3,VeryMildDemented,0.72407544,False,0.16688004,0.0002173914,0.108827144,0.72407544
+original/NonDemented/nonDem2289.jpg,2,NonDemented,3,VeryMildDemented,0.60212076,False,0.019426828,0.0003172047,0.37813523,0.60212076
+original/NonDemented/nonDem2297.jpg,2,NonDemented,1,ModerateDemented,0.42106768,False,0.30883655,0.42106768,0.060702424,0.20939332
+original/NonDemented/nonDem2305.jpg,2,NonDemented,2,NonDemented,0.9333382,True,0.00010707236,9.61334e-05,0.9333382,0.066458575
+original/NonDemented/nonDem2317.jpg,2,NonDemented,2,NonDemented,0.576606,True,0.010151638,0.00016485718,0.576606,0.41307747
+original/NonDemented/nonDem2320.jpg,2,NonDemented,2,NonDemented,0.8541593,True,0.0003211383,3.113446e-05,0.8541593,0.14548835
+original/NonDemented/nonDem2323.jpg,2,NonDemented,3,VeryMildDemented,0.8073631,False,0.06861946,0.0016545007,0.122363016,0.8073631
+original/NonDemented/nonDem2332.jpg,2,NonDemented,3,VeryMildDemented,0.54316044,False,0.019239949,0.00025761148,0.43734196,0.54316044
+original/NonDemented/nonDem2334.jpg,2,NonDemented,2,NonDemented,0.8422608,True,0.00051618397,3.2196305e-05,0.8422608,0.15719083
+original/NonDemented/nonDem2346.jpg,2,NonDemented,2,NonDemented,0.6193119,True,0.0019375343,3.9597762e-05,0.6193119,0.37871096
+original/NonDemented/nonDem2353.jpg,2,NonDemented,3,VeryMildDemented,0.65254974,False,0.046650294,0.0014675523,0.29933235,0.65254974
+original/NonDemented/nonDem2354.jpg,2,NonDemented,3,VeryMildDemented,0.7478954,False,0.06683336,0.0012796494,0.1839916,0.7478954
+original/NonDemented/nonDem2359.jpg,2,NonDemented,2,NonDemented,0.6738321,True,0.0011430428,1.0571362e-05,0.6738321,0.32501435
+original/NonDemented/nonDem2369.jpg,2,NonDemented,2,NonDemented,0.49472368,True,0.015368913,0.00029036368,0.49472368,0.489617
+original/NonDemented/nonDem2370.jpg,2,NonDemented,3,VeryMildDemented,0.7573904,False,0.06483993,3.9318642e-05,0.17773041,0.7573904
+original/NonDemented/nonDem2377.jpg,2,NonDemented,2,NonDemented,0.84363544,True,0.0004537405,2.7491937e-05,0.84363544,0.15588339
+original/NonDemented/nonDem2390.jpg,2,NonDemented,3,VeryMildDemented,0.5471696,False,0.0056221653,5.31162e-05,0.44715515,0.5471696
+original/NonDemented/nonDem2395.jpg,2,NonDemented,2,NonDemented,0.9082673,True,0.00018545408,9.949829e-06,0.9082673,0.09153723
+original/NonDemented/nonDem2397.jpg,2,NonDemented,1,ModerateDemented,0.5380121,False,0.25328392,0.5380121,0.040773205,0.1679308
+original/NonDemented/nonDem2398.jpg,2,NonDemented,3,VeryMildDemented,0.709016,False,0.10961349,0.0002871508,0.18108335,0.709016
+original/NonDemented/nonDem241.jpg,2,NonDemented,2,NonDemented,0.58666676,True,0.011478403,0.0001203429,0.58666676,0.40173453
+original/NonDemented/nonDem2412.jpg,2,NonDemented,2,NonDemented,0.71751255,True,0.0005433518,3.764345e-05,0.71751255,0.2819064
+original/NonDemented/nonDem2421.jpg,2,NonDemented,3,VeryMildDemented,0.6555754,False,0.14819482,0.0040812376,0.19214858,0.6555754
+original/NonDemented/nonDem2439.jpg,2,NonDemented,3,VeryMildDemented,0.63359004,False,0.19780938,0.0018029523,0.16679764,0.63359004
+original/NonDemented/nonDem2452.jpg,2,NonDemented,2,NonDemented,0.78655916,True,0.0016763587,0.0006681443,0.78655916,0.21109627
+original/NonDemented/nonDem2456.jpg,2,NonDemented,3,VeryMildDemented,0.6415755,False,0.20078543,0.00033176003,0.15730731,0.6415755
+original/NonDemented/nonDem2458.jpg,2,NonDemented,2,NonDemented,0.7873936,True,0.0013072699,6.0175546e-05,0.7873936,0.21123898
+original/NonDemented/nonDem2470.jpg,2,NonDemented,3,VeryMildDemented,0.75444186,False,0.07086703,3.7136393e-05,0.17465398,0.75444186
+original/NonDemented/nonDem249.jpg,2,NonDemented,2,NonDemented,0.96288335,True,4.391101e-05,5.7223966e-05,0.96288335,0.037015557
+original/NonDemented/nonDem2492.jpg,2,NonDemented,2,NonDemented,0.8334676,True,0.00056032726,5.6876368e-05,0.8334676,0.16591522
+original/NonDemented/nonDem2494.jpg,2,NonDemented,2,NonDemented,0.6920572,True,0.0013079041,8.3185245e-05,0.6920572,0.3065517
+original/NonDemented/nonDem2498.jpg,2,NonDemented,3,VeryMildDemented,0.73803943,False,0.07367743,0.0001797486,0.18810338,0.73803943
+original/NonDemented/nonDem2507.jpg,2,NonDemented,3,VeryMildDemented,0.5984601,False,0.22758341,0.00017761707,0.17377895,0.5984601
+original/NonDemented/nonDem2516.jpg,2,NonDemented,2,NonDemented,0.52590734,True,0.007512125,0.0005575931,0.52590734,0.46602294
+original/NonDemented/nonDem2521.jpg,2,NonDemented,3,VeryMildDemented,0.48922956,False,0.25479245,0.15523754,0.1007404,0.48922956
+original/NonDemented/nonDem2539.jpg,2,NonDemented,3,VeryMildDemented,0.55246884,False,0.0150289135,0.0006392187,0.43186313,0.55246884
+original/NonDemented/nonDem2554.jpg,2,NonDemented,2,NonDemented,0.832297,True,0.00052048755,0.0002931214,0.832297,0.16688937
+original/NonDemented/nonDem2556.jpg,2,NonDemented,2,NonDemented,0.81988484,True,0.00026155394,5.333606e-05,0.81988484,0.17980027
+original/NonDemented/nonDem2559.jpg,2,NonDemented,2,NonDemented,0.7902991,True,0.0012028645,3.635526e-05,0.7902991,0.20846161
+original/NonDemented/nonDem268.jpg,2,NonDemented,3,VeryMildDemented,0.6405905,False,0.032242797,0.00060032797,0.32656643,0.6405905
+original/NonDemented/nonDem291.jpg,2,NonDemented,3,VeryMildDemented,0.7443769,False,0.09523002,0.0013110138,0.1590821,0.7443769
+original/NonDemented/nonDem302.jpg,2,NonDemented,3,VeryMildDemented,0.77789223,False,0.08557449,0.026609862,0.10992333,0.77789223
+original/NonDemented/nonDem305.jpg,2,NonDemented,2,NonDemented,0.94079024,True,0.00017798218,0.00033236927,0.94079024,0.05869935
+original/NonDemented/nonDem309.jpg,2,NonDemented,2,NonDemented,0.90023494,True,0.0006947552,2.7860646e-05,0.90023494,0.09904239
+original/NonDemented/nonDem31.jpg,2,NonDemented,3,VeryMildDemented,0.5654907,False,0.024855077,0.00026896305,0.4093852,0.5654907
+original/NonDemented/nonDem32.jpg,2,NonDemented,2,NonDemented,0.83000606,True,0.0022062452,0.00044957723,0.83000606,0.16733807
+original/NonDemented/nonDem321.jpg,2,NonDemented,3,VeryMildDemented,0.7869764,False,0.08466179,0.0010574921,0.12730433,0.7869764
+original/NonDemented/nonDem336.jpg,2,NonDemented,3,VeryMildDemented,0.5742773,False,0.040702738,0.00025790342,0.38476217,0.5742773
+original/NonDemented/nonDem344.jpg,2,NonDemented,3,VeryMildDemented,0.7153538,False,0.18870392,0.0011449098,0.09479743,0.7153538
+original/NonDemented/nonDem354.jpg,2,NonDemented,3,VeryMildDemented,0.8791147,False,0.05502218,0.00025856338,0.06560456,0.8791147
+original/NonDemented/nonDem360.jpg,2,NonDemented,3,VeryMildDemented,0.7758044,False,0.04522026,0.0010720091,0.1779033,0.7758044
+original/NonDemented/nonDem365.jpg,2,NonDemented,2,NonDemented,0.9039658,True,0.00019500332,8.908885e-05,0.9039658,0.09575013
+original/NonDemented/nonDem369.jpg,2,NonDemented,2,NonDemented,0.6821453,True,0.0042442274,0.0006334936,0.6821453,0.31297705
+original/NonDemented/nonDem383.jpg,2,NonDemented,2,NonDemented,0.6985984,True,0.0054188836,0.002458848,0.6985984,0.29352388
+original/NonDemented/nonDem388.jpg,2,NonDemented,2,NonDemented,0.95890224,True,0.00010751225,0.00017824891,0.95890224,0.040812034
+original/NonDemented/nonDem397.jpg,2,NonDemented,3,VeryMildDemented,0.55380505,False,0.31409562,0.07448998,0.05760934,0.55380505
+original/NonDemented/nonDem399.jpg,2,NonDemented,3,VeryMildDemented,0.6830776,False,0.01321543,0.00079070457,0.30291632,0.6830776
+original/NonDemented/nonDem40.jpg,2,NonDemented,2,NonDemented,0.6247592,True,0.00516161,0.0006997174,0.6247592,0.3693795
+original/NonDemented/nonDem403.jpg,2,NonDemented,2,NonDemented,0.98877317,True,3.877891e-06,3.4836955e-06,0.98877317,0.011219574
+original/NonDemented/nonDem407.jpg,2,NonDemented,2,NonDemented,0.8180228,True,0.0010472777,6.409452e-05,0.8180228,0.18086578
+original/NonDemented/nonDem417.jpg,2,NonDemented,2,NonDemented,0.8120285,True,0.0015467772,6.4966545e-05,0.8120285,0.18635973
+original/NonDemented/nonDem419.jpg,2,NonDemented,2,NonDemented,0.5483534,True,0.016126279,0.0003480867,0.5483534,0.43517223
+original/NonDemented/nonDem422.jpg,2,NonDemented,3,VeryMildDemented,0.63935184,False,0.28640673,0.011020639,0.06322078,0.63935184
+original/NonDemented/nonDem423.jpg,2,NonDemented,3,VeryMildDemented,0.7180215,False,0.027376873,0.0003338005,0.25426778,0.7180215
+original/NonDemented/nonDem441.jpg,2,NonDemented,2,NonDemented,0.64535594,True,0.0070058904,0.00031417434,0.64535594,0.34732404
+original/NonDemented/nonDem45.jpg,2,NonDemented,3,VeryMildDemented,0.6873307,False,0.03573861,0.0010745837,0.2758561,0.6873307
+original/NonDemented/nonDem457.jpg,2,NonDemented,2,NonDemented,0.9183897,True,0.000156451,3.1472908e-05,0.9183897,0.0814223
+original/NonDemented/nonDem465.jpg,2,NonDemented,2,NonDemented,0.8803539,True,0.0004633362,0.00014268691,0.8803539,0.11904002
+original/NonDemented/nonDem47.jpg,2,NonDemented,3,VeryMildDemented,0.74469364,False,0.14351292,0.01979159,0.092001885,0.74469364
+original/NonDemented/nonDem476.jpg,2,NonDemented,2,NonDemented,0.97702074,True,4.0593488e-05,2.9053996e-05,0.97702074,0.022909654
+original/NonDemented/nonDem486.jpg,2,NonDemented,2,NonDemented,0.94234973,True,6.59671e-05,1.0068173e-05,0.94234973,0.05757416
+original/NonDemented/nonDem490.jpg,2,NonDemented,2,NonDemented,0.6961597,True,0.0042708362,0.00021664937,0.6961597,0.29935282
+original/NonDemented/nonDem491.jpg,2,NonDemented,3,VeryMildDemented,0.77997255,False,0.11233088,0.006748477,0.10094808,0.77997255
+original/NonDemented/nonDem509.jpg,2,NonDemented,2,NonDemented,0.78362304,True,0.0026147459,8.43148e-05,0.78362304,0.21367793
+original/NonDemented/nonDem51.jpg,2,NonDemented,3,VeryMildDemented,0.5081208,False,0.022228254,0.00018023027,0.4694707,0.5081208
+original/NonDemented/nonDem515.jpg,2,NonDemented,3,VeryMildDemented,0.7915079,False,0.117134675,0.03574589,0.055611487,0.7915079
+original/NonDemented/nonDem522.jpg,2,NonDemented,3,VeryMildDemented,0.66515154,False,0.28139645,0.0037640783,0.04968792,0.66515154
+original/NonDemented/nonDem540.jpg,2,NonDemented,2,NonDemented,0.7213195,True,0.0033192434,0.00020417637,0.7213195,0.27515706
+original/NonDemented/nonDem543.jpg,2,NonDemented,3,VeryMildDemented,0.80461246,False,0.034316953,0.0004075054,0.16066302,0.80461246
+original/NonDemented/nonDem547.jpg,2,NonDemented,3,VeryMildDemented,0.787015,False,0.108519375,0.010412671,0.09405293,0.787015
+original/NonDemented/nonDem55.jpg,2,NonDemented,2,NonDemented,0.95732903,True,7.476697e-05,0.00014658023,0.95732903,0.04244958
+original/NonDemented/nonDem551.jpg,2,NonDemented,3,VeryMildDemented,0.6300871,False,0.044432346,0.00040423003,0.32507634,0.6300871
+original/NonDemented/nonDem554.jpg,2,NonDemented,3,VeryMildDemented,0.8182519,False,0.07407063,0.0003923066,0.10728519,0.8182519
+original/NonDemented/nonDem562.jpg,2,NonDemented,2,NonDemented,0.95321995,True,7.500268e-05,3.0496038e-05,0.95321995,0.046674572
+original/NonDemented/nonDem566.jpg,2,NonDemented,3,VeryMildDemented,0.81315386,False,0.12709528,0.00018646926,0.059564415,0.81315386
+original/NonDemented/nonDem575.jpg,2,NonDemented,2,NonDemented,0.94197464,True,0.00020221145,4.2992535e-05,0.94197464,0.057780184
+original/NonDemented/nonDem591.jpg,2,NonDemented,3,VeryMildDemented,0.7812803,False,0.08910689,0.0070820195,0.122530796,0.7812803
+original/NonDemented/nonDem593.jpg,2,NonDemented,3,VeryMildDemented,0.67227143,False,0.15993297,0.0025490446,0.16524659,0.67227143
+original/NonDemented/nonDem596.jpg,2,NonDemented,2,NonDemented,0.96129376,True,0.000102771715,3.480131e-05,0.96129376,0.03856862
+original/NonDemented/nonDem629.jpg,2,NonDemented,2,NonDemented,0.7853954,True,0.0038962923,0.00041098255,0.7853954,0.21029729
+original/NonDemented/nonDem634.jpg,2,NonDemented,2,NonDemented,0.96600795,True,3.875703e-05,1.4006484e-05,0.96600795,0.033939283
+original/NonDemented/nonDem636.jpg,2,NonDemented,2,NonDemented,0.6248895,True,0.003028419,0.00026043094,0.6248895,0.37182167
+original/NonDemented/nonDem642.jpg,2,NonDemented,2,NonDemented,0.61628735,True,0.0048986645,0.00014764618,0.61628735,0.3786663
+original/NonDemented/nonDem646.jpg,2,NonDemented,2,NonDemented,0.60532194,True,0.005258699,0.00038519868,0.60532194,0.38903415
+original/NonDemented/nonDem655.jpg,2,NonDemented,2,NonDemented,0.99018735,True,3.528001e-06,2.9598398e-06,0.99018735,0.009806123
+original/NonDemented/nonDem657.jpg,2,NonDemented,2,NonDemented,0.84187996,True,0.0015403217,0.00010865961,0.84187996,0.15647106
+original/NonDemented/nonDem66.jpg,2,NonDemented,3,VeryMildDemented,0.65315706,False,0.28915715,0.00022776677,0.057457995,0.65315706
+original/NonDemented/nonDem666.jpg,2,NonDemented,3,VeryMildDemented,0.7057371,False,0.23140182,0.00013842246,0.062722646,0.7057371
+original/NonDemented/nonDem668.jpg,2,NonDemented,3,VeryMildDemented,0.5007227,False,0.014155075,0.0002529364,0.48486927,0.5007227
+original/NonDemented/nonDem670.jpg,2,NonDemented,3,VeryMildDemented,0.74794376,False,0.055550784,0.0017934743,0.19471197,0.74794376
+original/NonDemented/nonDem671.jpg,2,NonDemented,3,VeryMildDemented,0.7184296,False,0.12175647,0.0055994806,0.15421438,0.7184296
+original/NonDemented/nonDem677.jpg,2,NonDemented,2,NonDemented,0.93144536,True,0.00012515835,7.11345e-05,0.93144536,0.068358324
+original/NonDemented/nonDem678.jpg,2,NonDemented,3,VeryMildDemented,0.6104225,False,0.046132263,0.00028870758,0.3431565,0.6104225
+original/NonDemented/nonDem681.jpg,2,NonDemented,2,NonDemented,0.9660688,True,4.035247e-05,1.8650047e-05,0.9660688,0.033872254
+original/NonDemented/nonDem689.jpg,2,NonDemented,2,NonDemented,0.81810206,True,0.0010576466,3.799618e-05,0.81810206,0.18080238
+original/NonDemented/nonDem696.jpg,2,NonDemented,2,NonDemented,0.963347,True,9.5781565e-05,1.8363473e-05,0.963347,0.03653883
+original/NonDemented/nonDem700.jpg,2,NonDemented,2,NonDemented,0.80153525,True,0.0011453382,0.00014440145,0.80153525,0.19717501
+original/NonDemented/nonDem702.jpg,2,NonDemented,3,VeryMildDemented,0.8272885,False,0.082031675,0.015279396,0.07540038,0.8272885
+original/NonDemented/nonDem703.jpg,2,NonDemented,2,NonDemented,0.9748276,True,2.1807296e-05,9.554179e-06,0.9748276,0.025140971
+original/NonDemented/nonDem705.jpg,2,NonDemented,2,NonDemented,0.9786849,True,2.6950973e-05,4.474255e-05,0.9786849,0.021243304
+original/NonDemented/nonDem707.jpg,2,NonDemented,2,NonDemented,0.8937892,True,0.00053958443,3.5322526e-05,0.8937892,0.10563593
+original/NonDemented/nonDem72.jpg,2,NonDemented,3,VeryMildDemented,0.72894275,False,0.13106759,0.00027839676,0.13971128,0.72894275
+original/NonDemented/nonDem721.jpg,2,NonDemented,3,VeryMildDemented,0.6695848,False,0.21436998,0.0002666086,0.11577859,0.6695848
+original/NonDemented/nonDem730.jpg,2,NonDemented,2,NonDemented,0.595878,True,0.007955316,0.00014422936,0.595878,0.39602244
+original/NonDemented/nonDem741.jpg,2,NonDemented,2,NonDemented,0.6726372,True,0.004917654,0.00023152729,0.6726372,0.3222136
+original/NonDemented/nonDem742.jpg,2,NonDemented,2,NonDemented,0.59142625,True,0.0067565734,0.00018692076,0.59142625,0.40163025
+original/NonDemented/nonDem745.jpg,2,NonDemented,3,VeryMildDemented,0.72644204,False,0.019711707,0.0001736224,0.25367266,0.72644204
+original/NonDemented/nonDem747.jpg,2,NonDemented,3,VeryMildDemented,0.706382,False,0.17557265,0.027972545,0.0900728,0.706382
+original/NonDemented/nonDem755.jpg,2,NonDemented,2,NonDemented,0.98948485,True,3.7244777e-06,3.4064553e-06,0.98948485,0.010508078
+original/NonDemented/nonDem759.jpg,2,NonDemented,2,NonDemented,0.87230563,True,0.000547742,3.7254802e-05,0.87230563,0.12710935
+original/NonDemented/nonDem764.jpg,2,NonDemented,3,VeryMildDemented,0.7394395,False,0.071438015,0.0014853453,0.1876372,0.7394395
+original/NonDemented/nonDem768.jpg,2,NonDemented,2,NonDemented,0.611259,True,0.0053713685,8.073706e-05,0.611259,0.38328895
+original/NonDemented/nonDem777.jpg,2,NonDemented,2,NonDemented,0.84228146,True,0.00096654415,0.00018432943,0.84228146,0.15656771
+original/NonDemented/nonDem781.jpg,2,NonDemented,2,NonDemented,0.9548514,True,8.126285e-05,2.5503758e-05,0.9548514,0.04504187
+original/NonDemented/nonDem782.jpg,2,NonDemented,2,NonDemented,0.96814775,True,6.408091e-05,3.455403e-05,0.96814775,0.031753615
+original/NonDemented/nonDem786.jpg,2,NonDemented,2,NonDemented,0.87386787,True,0.00067861716,3.0674182e-05,0.87386787,0.12542282
+original/NonDemented/nonDem788.jpg,2,NonDemented,2,NonDemented,0.96826786,True,8.3984596e-05,4.479708e-05,0.96826786,0.031603325
+original/NonDemented/nonDem796.jpg,2,NonDemented,2,NonDemented,0.94638616,True,0.00026490592,3.2928183e-05,0.94638616,0.053316046
+original/NonDemented/nonDem8.jpg,2,NonDemented,3,VeryMildDemented,0.49888253,False,0.05584087,0.0007627277,0.4445139,0.49888253
+original/NonDemented/nonDem80.jpg,2,NonDemented,3,VeryMildDemented,0.68067205,False,0.04987302,0.0015602624,0.2678946,0.68067205
+original/NonDemented/nonDem804.jpg,2,NonDemented,2,NonDemented,0.9846299,True,8.687201e-06,7.349384e-06,0.9846299,0.015354026
+original/NonDemented/nonDem805.jpg,2,NonDemented,2,NonDemented,0.9792925,True,2.2368251e-05,4.7609064e-05,0.9792925,0.020637492
+original/NonDemented/nonDem806.jpg,2,NonDemented,3,VeryMildDemented,0.5484622,False,0.22744763,0.00028739803,0.22380278,0.5484622
+original/NonDemented/nonDem81.jpg,2,NonDemented,2,NonDemented,0.97318673,True,1.6967828e-05,1.6651196e-05,0.97318673,0.02677962
+original/NonDemented/nonDem82.jpg,2,NonDemented,2,NonDemented,0.97416216,True,3.4837725e-05,2.998861e-05,0.97416216,0.025773019
+original/NonDemented/nonDem822.jpg,2,NonDemented,3,VeryMildDemented,0.6835278,False,0.24338,0.0056003965,0.06749181,0.6835278
+original/NonDemented/nonDem828.jpg,2,NonDemented,3,VeryMildDemented,0.723708,False,0.19619523,0.0014710354,0.0786257,0.723708
+original/NonDemented/nonDem836.jpg,2,NonDemented,2,NonDemented,0.5595985,True,0.0070883073,0.00028210532,0.5595985,0.43303114
+original/NonDemented/nonDem844.jpg,2,NonDemented,3,VeryMildDemented,0.74996996,False,0.14994526,0.00057996996,0.099504866,0.74996996
+original/NonDemented/nonDem865.jpg,2,NonDemented,2,NonDemented,0.6283712,True,0.0059303953,0.00019853227,0.6283712,0.36549985
+original/NonDemented/nonDem868.jpg,2,NonDemented,2,NonDemented,0.6061967,True,0.0042547625,7.625499e-05,0.6061967,0.38947228
+original/NonDemented/nonDem876.jpg,2,NonDemented,2,NonDemented,0.97072864,True,4.057945e-05,3.8566028e-05,0.97072864,0.029192138
+original/NonDemented/nonDem880.jpg,2,NonDemented,3,VeryMildDemented,0.5388052,False,0.01431623,0.0039800787,0.44289854,0.5388052
+original/NonDemented/nonDem887.jpg,2,NonDemented,3,VeryMildDemented,0.7489836,False,0.11851713,0.00087057665,0.13162869,0.7489836
+original/NonDemented/nonDem888.jpg,2,NonDemented,2,NonDemented,0.9727347,True,6.55121e-05,5.5234996e-05,0.9727347,0.027144568
+original/NonDemented/nonDem899.jpg,2,NonDemented,3,VeryMildDemented,0.7893935,False,0.0220969,8.270231e-05,0.188427,0.7893935
+original/NonDemented/nonDem905.jpg,2,NonDemented,2,NonDemented,0.9812531,True,1.6291047e-05,2.1652224e-05,0.9812531,0.018709034
+original/NonDemented/nonDem906.jpg,2,NonDemented,3,VeryMildDemented,0.5379943,False,0.23031002,0.00015555626,0.23154013,0.5379943
+original/NonDemented/nonDem911.jpg,2,NonDemented,2,NonDemented,0.9462853,True,0.00023016903,6.583054e-05,0.9462853,0.053418767
+original/NonDemented/nonDem912.jpg,2,NonDemented,2,NonDemented,0.8447024,True,0.0012005967,0.0002612887,0.8447024,0.1538357
+original/NonDemented/nonDem914.jpg,2,NonDemented,2,NonDemented,0.924379,True,0.00031739636,0.00038610303,0.924379,0.07491757
+original/NonDemented/nonDem916.jpg,2,NonDemented,3,VeryMildDemented,0.6954049,False,0.24020374,0.0013188841,0.06307252,0.6954049
+original/NonDemented/nonDem92.jpg,2,NonDemented,2,NonDemented,0.7746021,True,0.003990482,0.00038494985,0.7746021,0.22102244
+original/NonDemented/nonDem928.jpg,2,NonDemented,3,VeryMildDemented,0.6893447,False,0.2095983,0.00501195,0.09604509,0.6893447
+original/NonDemented/nonDem930.jpg,2,NonDemented,2,NonDemented,0.49621513,True,0.023134783,0.00014706574,0.49621513,0.48050302
+original/NonDemented/nonDem932.jpg,2,NonDemented,2,NonDemented,0.8430789,True,0.0012261912,0.00014299533,0.8430789,0.15555197
+original/NonDemented/nonDem937.jpg,2,NonDemented,2,NonDemented,0.95758945,True,6.140178e-05,3.3983197e-05,0.95758945,0.042315133
+original/NonDemented/nonDem941.jpg,2,NonDemented,2,NonDemented,0.80719286,True,0.00079363555,4.810545e-05,0.80719286,0.19196533
+original/NonDemented/nonDem944.jpg,2,NonDemented,3,VeryMildDemented,0.6412809,False,0.25770566,0.01078013,0.09023337,0.6412809
+original/NonDemented/nonDem950.jpg,2,NonDemented,3,VeryMildDemented,0.8505323,False,0.056242373,0.0021540672,0.091071285,0.8505323
+original/NonDemented/nonDem952.jpg,2,NonDemented,2,NonDemented,0.93665516,True,0.00018096353,0.00012718842,0.93665516,0.063036636
+original/NonDemented/nonDem960.jpg,2,NonDemented,3,VeryMildDemented,0.68388397,False,0.14964774,5.9061393e-05,0.16640928,0.68388397
+original/NonDemented/nonDem961.jpg,2,NonDemented,3,VeryMildDemented,0.7272692,False,0.080407195,0.0007325409,0.19159104,0.7272692
+original/NonDemented/nonDem973.jpg,2,NonDemented,2,NonDemented,0.8916799,True,0.000367279,0.00016911041,0.8916799,0.10778369
+original/NonDemented/nonDem98.jpg,2,NonDemented,2,NonDemented,0.7628811,True,0.0048848093,0.0003714666,0.7628811,0.23186257
+original/NonDemented/nonDem981.jpg,2,NonDemented,2,NonDemented,0.9187791,True,0.0002509251,5.76671e-05,0.9187791,0.08091241
+original/NonDemented/nonDem990.jpg,2,NonDemented,2,NonDemented,0.67222136,True,0.0026121524,8.7014465e-05,0.67222136,0.32507944
+original/VeryMildDemented/26 (50).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6721983,True,0.1631669,0.0063577304,0.15827703,0.6721983
+original/VeryMildDemented/26 (51).jpg,3,VeryMildDemented,3,VeryMildDemented,0.55806756,True,0.024480715,0.000627334,0.41682437,0.55806756
+original/VeryMildDemented/26 (57).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6690058,True,0.26038712,0.0005168234,0.07009016,0.6690058
+original/VeryMildDemented/26 (59).jpg,3,VeryMildDemented,1,ModerateDemented,0.34966332,False,0.24489929,0.34966332,0.058184795,0.3472526
+original/VeryMildDemented/26 (64).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7524016,True,0.054768156,7.533083e-05,0.19275494,0.7524016
+original/VeryMildDemented/27 (11).jpg,3,VeryMildDemented,3,VeryMildDemented,0.78650826,True,0.042636596,0.001083947,0.1697711,0.78650826
+original/VeryMildDemented/27 (14).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6765362,True,0.060959768,0.0008580795,0.26164597,0.6765362
+original/VeryMildDemented/27 (17).jpg,3,VeryMildDemented,3,VeryMildDemented,0.97502667,True,0.01252829,4.9664573e-06,0.012440028,0.97502667
+original/VeryMildDemented/27 (2).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6369903,True,0.16356757,0.058664948,0.14077717,0.6369903
+original/VeryMildDemented/27 (20).jpg,3,VeryMildDemented,3,VeryMildDemented,0.8091707,True,0.08232724,0.0050760647,0.10342603,0.8091707
+original/VeryMildDemented/27 (27).jpg,3,VeryMildDemented,3,VeryMildDemented,0.67341816,True,0.11227525,0.002065138,0.21224144,0.67341816
+original/VeryMildDemented/27 (29).jpg,3,VeryMildDemented,3,VeryMildDemented,0.70590687,True,0.1565935,0.009805098,0.12769458,0.70590687
+original/VeryMildDemented/27 (33).jpg,3,VeryMildDemented,2,NonDemented,0.7883423,False,0.0003206776,3.7161983e-05,0.7883423,0.21129979
+original/VeryMildDemented/27 (38).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7398635,True,0.1193866,0.0017558907,0.138994,0.7398635
+original/VeryMildDemented/27 (41).jpg,3,VeryMildDemented,3,VeryMildDemented,0.49472135,True,0.3450751,0.042214677,0.11798889,0.49472135
+original/VeryMildDemented/27 (42).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6310666,True,0.04976115,0.005643118,0.31352913,0.6310666
+original/VeryMildDemented/27 (48).jpg,3,VeryMildDemented,3,VeryMildDemented,0.60002357,True,0.2393821,0.01901582,0.14157853,0.60002357
+original/VeryMildDemented/27 (57).jpg,3,VeryMildDemented,3,VeryMildDemented,0.71082217,True,0.20263124,0.0007024259,0.08584416,0.71082217
+original/VeryMildDemented/27 (69).jpg,3,VeryMildDemented,3,VeryMildDemented,0.61721003,True,0.019986937,0.0010753544,0.36172763,0.61721003
+original/VeryMildDemented/27.jpg,3,VeryMildDemented,3,VeryMildDemented,0.76182556,True,0.07960268,0.0003565196,0.15821527,0.76182556
+original/VeryMildDemented/28 (13).jpg,3,VeryMildDemented,2,NonDemented,0.6558607,False,0.0019518698,3.6930815e-05,0.6558607,0.3421505
+original/VeryMildDemented/28 (19).jpg,3,VeryMildDemented,3,VeryMildDemented,0.54253733,True,0.017251018,0.00014569136,0.44006598,0.54253733
+original/VeryMildDemented/28 (20).jpg,3,VeryMildDemented,3,VeryMildDemented,0.8258041,True,0.07250752,0.0063707996,0.09531757,0.8258041
+original/VeryMildDemented/28 (23).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6041349,True,0.010112956,0.00047810352,0.38527396,0.6041349
+original/VeryMildDemented/28 (25).jpg,3,VeryMildDemented,3,VeryMildDemented,0.80962306,True,0.06657784,0.00066318427,0.12313597,0.80962306
+original/VeryMildDemented/28 (28).jpg,3,VeryMildDemented,3,VeryMildDemented,0.58065003,True,0.31387818,0.014392039,0.091079794,0.58065003
+original/VeryMildDemented/28 (33).jpg,3,VeryMildDemented,2,NonDemented,0.8026987,False,0.00035652873,2.5655985e-05,0.8026987,0.19691919
+original/VeryMildDemented/28 (36).jpg,3,VeryMildDemented,3,VeryMildDemented,0.50973505,True,0.35302445,0.012752251,0.12448831,0.50973505
+original/VeryMildDemented/28 (43).jpg,3,VeryMildDemented,3,VeryMildDemented,0.78650814,True,0.035971846,1.0730424e-05,0.17750928,0.78650814
+original/VeryMildDemented/28 (52).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7874211,True,0.09521399,0.0059436467,0.11142127,0.7874211
+original/VeryMildDemented/28 (57).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7908542,True,0.11370983,0.00024020718,0.09519574,0.7908542
+original/VeryMildDemented/28 (69).jpg,3,VeryMildDemented,3,VeryMildDemented,0.6160426,True,0.02776506,0.002178983,0.35401332,0.6160426
+original/VeryMildDemented/29 (10).jpg,3,VeryMildDemented,3,VeryMildDemented,0.64871716,True,0.047655825,0.0028712878,0.30075577,0.64871716
+original/VeryMildDemented/29 (24).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7211735,True,0.12275419,0.00064876,0.15542352,0.7211735
+original/VeryMildDemented/29 (4).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7712392,True,0.17779051,0.0006982988,0.050271966,0.7712392
+original/VeryMildDemented/29 (49).jpg,3,VeryMildDemented,2,NonDemented,0.66039324,False,0.005882213,0.0002950643,0.66039324,0.33342943
+original/VeryMildDemented/29 (63).jpg,3,VeryMildDemented,3,VeryMildDemented,0.62614423,True,0.036343288,0.0056645367,0.33184803,0.62614423
+original/VeryMildDemented/29 (67).jpg,3,VeryMildDemented,3,VeryMildDemented,0.775344,True,0.08987691,0.0006711047,0.13410799,0.775344
+original/VeryMildDemented/29 (9).jpg,3,VeryMildDemented,3,VeryMildDemented,0.39234033,True,0.38540775,0.16353449,0.058717422,0.39234033
+original/VeryMildDemented/30 (11).jpg,3,VeryMildDemented,3,VeryMildDemented,0.798931,True,0.04973279,0.00045787627,0.15087833,0.798931
+original/VeryMildDemented/30 (13).jpg,3,VeryMildDemented,2,NonDemented,0.62169075,False,0.0037046915,6.1336585e-05,0.62169075,0.37454322
+original/VeryMildDemented/30 (17).jpg,3,VeryMildDemented,3,VeryMildDemented,0.9307775,True,0.052628085,1.7570219e-05,0.016576888,0.9307775
+original/VeryMildDemented/30 (25).jpg,3,VeryMildDemented,3,VeryMildDemented,0.78564674,True,0.093302034,0.0017585253,0.119292706,0.78564674
+original/VeryMildDemented/30 (27).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7066375,True,0.13665988,0.00039489014,0.15630773,0.7066375
+original/VeryMildDemented/30 (39).jpg,3,VeryMildDemented,3,VeryMildDemented,0.72926205,True,0.051368956,0.0004343254,0.21893463,0.72926205
+original/VeryMildDemented/30 (41).jpg,3,VeryMildDemented,3,VeryMildDemented,0.5111914,True,0.26949322,0.14748362,0.07183171,0.5111914
+original/VeryMildDemented/30 (42).jpg,3,VeryMildDemented,3,VeryMildDemented,0.650471,True,0.047436703,0.0023444002,0.29974788,0.650471
+original/VeryMildDemented/30 (65).jpg,3,VeryMildDemented,3,VeryMildDemented,0.81579757,True,0.075053714,0.0010876636,0.10806108,0.81579757
+original/VeryMildDemented/30 (68).jpg,3,VeryMildDemented,3,VeryMildDemented,0.5082807,True,0.0057125166,0.0010722997,0.48493442,0.5082807
+original/VeryMildDemented/30 (7).jpg,3,VeryMildDemented,3,VeryMildDemented,0.78185385,True,0.07696149,8.662127e-05,0.14109801,0.78185385
+original/VeryMildDemented/30 (9).jpg,3,VeryMildDemented,3,VeryMildDemented,0.4723822,True,0.3566965,0.10603722,0.06488406,0.4723822
+original/VeryMildDemented/31 (2).jpg,3,VeryMildDemented,3,VeryMildDemented,0.74535114,True,0.15505213,0.012020321,0.087576464,0.74535114
+original/VeryMildDemented/31 (30).jpg,3,VeryMildDemented,3,VeryMildDemented,0.57279825,True,0.24710737,0.026006317,0.15408807,0.57279825
+original/VeryMildDemented/31 (32).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7547958,True,0.06764786,0.0005429043,0.17701346,0.7547958
+original/VeryMildDemented/31 (37).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7733218,True,0.14063463,0.00083286176,0.085210755,0.7733218
+original/VeryMildDemented/31 (42).jpg,3,VeryMildDemented,3,VeryMildDemented,0.59383506,True,0.025892556,0.003366678,0.37690565,0.59383506
+original/VeryMildDemented/31 (46).jpg,3,VeryMildDemented,3,VeryMildDemented,0.8291229,True,0.03980862,8.3188934e-05,0.13098527,0.8291229
+original/VeryMildDemented/31 (53).jpg,3,VeryMildDemented,3,VeryMildDemented,0.69767594,True,0.1688691,0.0012703392,0.1321846,0.69767594
+original/VeryMildDemented/32 (13).jpg,3,VeryMildDemented,2,NonDemented,0.8096979,False,0.0017862007,6.559822e-05,0.8096979,0.18845026
+original/VeryMildDemented/32 (21).jpg,3,VeryMildDemented,3,VeryMildDemented,0.70542216,True,0.14450787,0.0026720152,0.147398,0.70542216
+original/VeryMildDemented/32 (38).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7020087,True,0.21406303,0.0033939057,0.08053433,0.7020087
+original/VeryMildDemented/32 (39).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7560984,True,0.029516095,0.00045784193,0.21392761,0.7560984
+original/VeryMildDemented/32 (40).jpg,3,VeryMildDemented,3,VeryMildDemented,0.79173344,True,0.10387769,0.004480851,0.09990803,0.79173344
+original/VeryMildDemented/32 (41).jpg,3,VeryMildDemented,3,VeryMildDemented,0.7710999,True,0.07498087,0.004015816,0.14990343,0.7710999
+original/VeryMildDemented/32 (43).jpg,3,VeryMildDemented,3,VeryMildDemented,0.72893494,True,0.15096366,3.454414e-05,0.120066814,0.72893494
+original/VeryMildDemented/32 (46).jpg,3,VeryMildDemented,3,VeryMildDemented,0.8058039,True,0.06551558,6.924953e-05,0.12861124,0.8058039
+original/VeryMildDemented/32 (48).jpg,3,VeryMildDemented,3,VeryMildDemented,0.72182685,True,0.090618476,0.014326939,0.17322771,0.72182685
+original/VeryMildDemented/32 (54).jpg,3,VeryMildDemented,2,NonDemented,0.7023592,False,0.0019725135,0.0011222747,0.7023592,0.294546
+original/VeryMildDemented/32 (68).jpg,3,VeryMildDemented,2,NonDemented,0.7222651,False,0.0013472517,0.0014513336,0.7222651,0.27493632
+original/VeryMildDemented/verymildDem0.jpg,3,VeryMildDemented,2,NonDemented,0.807434,False,0.0024030136,0.0002839052,0.807434,0.1898791
+original/VeryMildDemented/verymildDem1002.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7443169,True,0.13656235,0.02971203,0.08940874,0.7443169
+original/VeryMildDemented/verymildDem1007.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6835349,True,0.073308975,0.0027372416,0.24041884,0.6835349
+original/VeryMildDemented/verymildDem1009.jpg,3,VeryMildDemented,3,VeryMildDemented,0.83000916,True,0.075401455,0.0010096014,0.093579754,0.83000916
+original/VeryMildDemented/verymildDem1012.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8080539,True,0.12689961,0.0015275048,0.063519016,0.8080539
+original/VeryMildDemented/verymildDem1015.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7185459,True,0.09386028,0.0016186712,0.18597518,0.7185459
+original/VeryMildDemented/verymildDem1025.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5388242,True,0.0098699685,0.00019926981,0.45110658,0.5388242
+original/VeryMildDemented/verymildDem1027.jpg,3,VeryMildDemented,3,VeryMildDemented,0.51126117,True,0.44950047,8.376669e-05,0.039154578,0.51126117
+original/VeryMildDemented/verymildDem104.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7028902,True,0.15718666,0.002167375,0.13775581,0.7028902
+original/VeryMildDemented/verymildDem1052.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6886055,True,0.035243023,0.00036835883,0.2757831,0.6886055
+original/VeryMildDemented/verymildDem1055.jpg,3,VeryMildDemented,2,NonDemented,0.88014877,False,0.00019172876,3.633121e-05,0.88014877,0.11962316
+original/VeryMildDemented/verymildDem1057.jpg,3,VeryMildDemented,3,VeryMildDemented,0.9550848,True,0.031023715,5.3765416e-06,0.013886101,0.9550848
+original/VeryMildDemented/verymildDem106.jpg,3,VeryMildDemented,3,VeryMildDemented,0.69178015,True,0.23507966,0.002305772,0.07083439,0.69178015
+original/VeryMildDemented/verymildDem1061.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8282566,True,0.07558147,0.0010636819,0.095098265,0.8282566
+original/VeryMildDemented/verymildDem1065.jpg,3,VeryMildDemented,3,VeryMildDemented,0.66389436,True,0.13748498,0.11925371,0.07936691,0.66389436
+original/VeryMildDemented/verymildDem1066.jpg,3,VeryMildDemented,3,VeryMildDemented,0.71970433,True,0.13859655,0.01727763,0.12442147,0.71970433
+original/VeryMildDemented/verymildDem1069.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7065574,True,0.19476324,0.010058624,0.08862076,0.7065574
+original/VeryMildDemented/verymildDem1071.jpg,3,VeryMildDemented,3,VeryMildDemented,0.79032505,True,0.12719832,8.940894e-05,0.08238718,0.79032505
+original/VeryMildDemented/verymildDem1075.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5121658,True,0.008505205,0.00057333615,0.4787557,0.5121658
+original/VeryMildDemented/verymildDem1086.jpg,3,VeryMildDemented,3,VeryMildDemented,0.69336635,True,0.19824137,0.018425383,0.089966945,0.69336635
+original/VeryMildDemented/verymildDem1090.jpg,3,VeryMildDemented,3,VeryMildDemented,0.9534352,True,0.01789657,2.544588e-05,0.028642826,0.9534352
+original/VeryMildDemented/verymildDem1091.jpg,3,VeryMildDemented,1,ModerateDemented,0.5783928,False,0.08665374,0.5783928,0.0502921,0.28466135
+original/VeryMildDemented/verymildDem1101.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6314701,True,0.27597937,0.00022728898,0.09232325,0.6314701
+original/VeryMildDemented/verymildDem1103.jpg,3,VeryMildDemented,3,VeryMildDemented,0.666169,True,0.24145779,0.0011863678,0.091186844,0.666169
+original/VeryMildDemented/verymildDem1105.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7197691,True,0.19075145,5.7572735e-05,0.08942184,0.7197691
+original/VeryMildDemented/verymildDem1107.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7212505,True,0.16708627,0.0023607765,0.109302506,0.7212505
+original/VeryMildDemented/verymildDem111.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6751016,True,0.1909094,0.034759056,0.099229954,0.6751016
+original/VeryMildDemented/verymildDem1118.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6603388,True,0.2144699,0.05003998,0.07515131,0.6603388
+original/VeryMildDemented/verymildDem1121.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7976998,True,0.0727862,0.0013176175,0.12819637,0.7976998
+original/VeryMildDemented/verymildDem1127.jpg,3,VeryMildDemented,3,VeryMildDemented,0.9752001,True,0.013988993,2.4782366e-06,0.010808433,0.9752001
+original/VeryMildDemented/verymildDem1166.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7376182,True,0.14258516,0.0019707172,0.117825925,0.7376182
+original/VeryMildDemented/verymildDem1170.jpg,3,VeryMildDemented,2,NonDemented,0.7936142,False,0.001776126,0.00032108315,0.7936142,0.20428856
+original/VeryMildDemented/verymildDem1171.jpg,3,VeryMildDemented,3,VeryMildDemented,0.62127244,True,0.28046572,0.00029198913,0.097969845,0.62127244
+original/VeryMildDemented/verymildDem1173.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7096888,True,0.20627172,0.0018659107,0.08217363,0.7096888
+original/VeryMildDemented/verymildDem1174.jpg,3,VeryMildDemented,3,VeryMildDemented,0.45551512,True,0.0953363,0.3404734,0.10867516,0.45551512
+original/VeryMildDemented/verymildDem118.jpg,3,VeryMildDemented,2,NonDemented,0.65516233,False,0.0039688405,0.00023991182,0.65516233,0.34062898
+original/VeryMildDemented/verymildDem1187.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8313451,True,0.013787714,0.00049474824,0.15437238,0.8313451
+original/VeryMildDemented/verymildDem1188.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7039135,True,0.19971135,0.00609767,0.09027739,0.7039135
+original/VeryMildDemented/verymildDem1192.jpg,3,VeryMildDemented,2,NonDemented,0.5145219,False,0.010117905,0.00021124928,0.5145219,0.47514892
+original/VeryMildDemented/verymildDem1197.jpg,3,VeryMildDemented,3,VeryMildDemented,0.968759,True,0.019499194,2.75804e-06,0.011739044,0.968759
+original/VeryMildDemented/verymildDem1201.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81391835,True,0.077638984,0.0006859179,0.107756756,0.81391835
+original/VeryMildDemented/verymildDem1208.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7852297,True,0.09003804,0.00015135566,0.12458092,0.7852297
+original/VeryMildDemented/verymildDem1209.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8098513,True,0.07839258,0.000340651,0.111415476,0.8098513
+original/VeryMildDemented/verymildDem121.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7017459,True,0.19006594,0.0001180191,0.10807002,0.7017459
+original/VeryMildDemented/verymildDem1221.jpg,3,VeryMildDemented,3,VeryMildDemented,0.74214584,True,0.1234859,0.00010285255,0.13426545,0.74214584
+original/VeryMildDemented/verymildDem1233.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7931678,True,0.08783746,0.0026082925,0.11638637,0.7931678
+original/VeryMildDemented/verymildDem1237.jpg,3,VeryMildDemented,3,VeryMildDemented,0.86033857,True,0.06905361,8.511533e-05,0.07052276,0.86033857
+original/VeryMildDemented/verymildDem1247.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7721302,True,0.12264005,0.0007690905,0.10446069,0.7721302
+original/VeryMildDemented/verymildDem1260.jpg,3,VeryMildDemented,2,NonDemented,0.557991,False,0.008853602,0.0013775873,0.557991,0.43177778
+original/VeryMildDemented/verymildDem1268.jpg,3,VeryMildDemented,3,VeryMildDemented,0.60367787,True,0.29033342,0.0055994135,0.1003893,0.60367787
+original/VeryMildDemented/verymildDem1274.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6308714,True,0.06916308,0.00039151803,0.299574,0.6308714
+original/VeryMildDemented/verymildDem1277.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6953727,True,0.15621822,0.0023600317,0.146049,0.6953727
+original/VeryMildDemented/verymildDem1279.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81085354,True,0.06470545,0.0002060344,0.12423498,0.81085354
+original/VeryMildDemented/verymildDem1281.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7986447,True,0.040085103,7.4525546e-05,0.16119564,0.7986447
+original/VeryMildDemented/verymildDem1292.jpg,3,VeryMildDemented,3,VeryMildDemented,0.83265585,True,0.10608447,0.00023962985,0.06102008,0.83265585
+original/VeryMildDemented/verymildDem1300.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8147393,True,0.09471953,0.0018978533,0.08864333,0.8147393
+original/VeryMildDemented/verymildDem1307.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8843758,True,0.029532734,4.3604847e-05,0.08604781,0.8843758
+original/VeryMildDemented/verymildDem1309.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6291421,True,0.19066782,0.0018315094,0.17835864,0.6291421
+original/VeryMildDemented/verymildDem131.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7560157,True,0.117021926,0.00014195613,0.12682046,0.7560157
+original/VeryMildDemented/verymildDem1314.jpg,3,VeryMildDemented,1,ModerateDemented,0.5054582,False,0.07821465,0.5054582,0.07031865,0.34600848
+original/VeryMildDemented/verymildDem1315.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8063188,True,0.0810519,3.2862994e-05,0.112596415,0.8063188
+original/VeryMildDemented/verymildDem1316.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7996521,True,0.10947226,0.002617547,0.08825807,0.7996521
+original/VeryMildDemented/verymildDem1319.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7407408,True,0.15628713,0.00013171523,0.102840304,0.7407408
+original/VeryMildDemented/verymildDem1327.jpg,3,VeryMildDemented,3,VeryMildDemented,0.80760473,True,0.0145111345,0.0002916826,0.1775925,0.80760473
+original/VeryMildDemented/verymildDem1329.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7631614,True,0.08908183,0.011971124,0.13578558,0.7631614
+original/VeryMildDemented/verymildDem1331.jpg,3,VeryMildDemented,3,VeryMildDemented,0.72611266,True,0.03547898,0.0003612176,0.23804715,0.72611266
+original/VeryMildDemented/verymildDem1337.jpg,3,VeryMildDemented,3,VeryMildDemented,0.9750718,True,0.016563278,1.6504806e-06,0.008363225,0.9750718
+original/VeryMildDemented/verymildDem1338.jpg,3,VeryMildDemented,3,VeryMildDemented,0.664269,True,0.22055863,0.008720399,0.10645196,0.664269
+original/VeryMildDemented/verymildDem1340.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5165754,True,0.14118974,0.24539559,0.0968393,0.5165754
+original/VeryMildDemented/verymildDem1343.jpg,3,VeryMildDemented,3,VeryMildDemented,0.752524,True,0.13840342,0.0007765231,0.10829604,0.752524
+original/VeryMildDemented/verymildDem1379.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5576486,True,0.28141165,0.005089648,0.15585011,0.5576486
+original/VeryMildDemented/verymildDem1391.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8043829,True,0.03431617,4.063923e-05,0.16126025,0.8043829
+original/VeryMildDemented/verymildDem1396.jpg,3,VeryMildDemented,3,VeryMildDemented,0.47318736,True,0.36735702,0.09811901,0.061336603,0.47318736
+original/VeryMildDemented/verymildDem1398.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5157161,True,0.36648542,0.031393863,0.0864047,0.5157161
+original/VeryMildDemented/verymildDem14.jpg,3,VeryMildDemented,2,NonDemented,0.73356104,False,0.0034842433,0.0003357824,0.73356104,0.2626189
+original/VeryMildDemented/verymildDem1404.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7399923,True,0.090123385,1.6351156e-05,0.1698679,0.7399923
+original/VeryMildDemented/verymildDem1415.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7057748,True,0.16924836,0.0017175697,0.123259336,0.7057748
+original/VeryMildDemented/verymildDem1417.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7689005,True,0.050265875,0.0001265976,0.18070698,0.7689005
+original/VeryMildDemented/verymildDem1422.jpg,3,VeryMildDemented,3,VeryMildDemented,0.58539915,True,0.28459173,0.0008187937,0.12919031,0.58539915
+original/VeryMildDemented/verymildDem1447.jpg,3,VeryMildDemented,3,VeryMildDemented,0.87708735,True,0.024121117,3.163684e-05,0.098759875,0.87708735
+original/VeryMildDemented/verymildDem1449.jpg,3,VeryMildDemented,3,VeryMildDemented,0.53615403,True,0.3050542,0.01615984,0.14263189,0.53615403
+original/VeryMildDemented/verymildDem145.jpg,3,VeryMildDemented,2,NonDemented,0.94619554,False,9.589278e-05,2.2853426e-05,0.94619554,0.05368569
+original/VeryMildDemented/verymildDem1452.jpg,3,VeryMildDemented,3,VeryMildDemented,0.62384826,True,0.044643182,0.00025748997,0.33125106,0.62384826
+original/VeryMildDemented/verymildDem1461.jpg,3,VeryMildDemented,3,VeryMildDemented,0.80569786,True,0.024956504,4.277319e-05,0.1693028,0.80569786
+original/VeryMildDemented/verymildDem1466.jpg,3,VeryMildDemented,3,VeryMildDemented,0.4790975,True,0.4455758,0.028633887,0.046692748,0.4790975
+original/VeryMildDemented/verymildDem1467.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78313714,True,0.028951008,0.0003764256,0.18753542,0.78313714
+original/VeryMildDemented/verymildDem1469.jpg,3,VeryMildDemented,3,VeryMildDemented,0.784663,True,0.07760134,0.0005497731,0.13718581,0.784663
+original/VeryMildDemented/verymildDem1473.jpg,3,VeryMildDemented,2,NonDemented,0.7132402,False,0.003194776,8.395051e-05,0.7132402,0.28348103
+original/VeryMildDemented/verymildDem148.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6883611,True,0.029169073,0.0008193358,0.2816505,0.6883611
+original/VeryMildDemented/verymildDem1481.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8607075,True,0.060259826,0.0029558646,0.07607679,0.8607075
+original/VeryMildDemented/verymildDem1505.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5287897,True,0.016945744,0.0027729922,0.4514916,0.5287897
+original/VeryMildDemented/verymildDem1516.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81757534,True,0.08092239,0.0018210899,0.09968126,0.81757534
+original/VeryMildDemented/verymildDem1517.jpg,3,VeryMildDemented,3,VeryMildDemented,0.84087133,True,0.037393723,7.5818956e-05,0.121659175,0.84087133
+original/VeryMildDemented/verymildDem1519.jpg,3,VeryMildDemented,3,VeryMildDemented,0.51423883,True,0.3527494,0.010091902,0.12291987,0.51423883
+original/VeryMildDemented/verymildDem1526.jpg,3,VeryMildDemented,3,VeryMildDemented,0.77307636,True,0.08268048,0.00083597173,0.14340727,0.77307636
+original/VeryMildDemented/verymildDem1530.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7713254,True,0.07905046,0.006826513,0.14279766,0.7713254
+original/VeryMildDemented/verymildDem1535.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81709886,True,0.04994832,0.0016720854,0.1312807,0.81709886
+original/VeryMildDemented/verymildDem1539.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7772159,True,0.09553652,0.00121562,0.12603194,0.7772159
+original/VeryMildDemented/verymildDem154.jpg,3,VeryMildDemented,3,VeryMildDemented,0.60993147,True,0.04281225,0.0014795066,0.34577677,0.60993147
+original/VeryMildDemented/verymildDem155.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7808675,True,0.11273999,0.0028842296,0.10350833,0.7808675
+original/VeryMildDemented/verymildDem156.jpg,3,VeryMildDemented,3,VeryMildDemented,0.74548006,True,0.048657343,0.00075303804,0.2051096,0.74548006
+original/VeryMildDemented/verymildDem1565.jpg,3,VeryMildDemented,2,NonDemented,0.6455565,False,0.0006929526,3.0113033e-05,0.6455565,0.35372037
+original/VeryMildDemented/verymildDem1570.jpg,3,VeryMildDemented,3,VeryMildDemented,0.60850644,True,0.28588903,0.0056198724,0.099984616,0.60850644
+original/VeryMildDemented/verymildDem1571.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7425281,True,0.10072537,0.00054761,0.15619892,0.7425281
+original/VeryMildDemented/verymildDem1579.jpg,3,VeryMildDemented,3,VeryMildDemented,0.92916214,True,0.009375921,7.070937e-05,0.06139116,0.92916214
+original/VeryMildDemented/verymildDem1582.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6693078,True,0.054516744,0.00025391497,0.27592158,0.6693078
+original/VeryMildDemented/verymildDem1585.jpg,3,VeryMildDemented,3,VeryMildDemented,0.52439016,True,0.023965845,0.0005296814,0.45111427,0.52439016
+original/VeryMildDemented/verymildDem1597.jpg,3,VeryMildDemented,3,VeryMildDemented,0.73179305,True,0.071435295,0.00028846637,0.19648318,0.73179305
+original/VeryMildDemented/verymildDem1609.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7170535,True,0.16130935,0.002746471,0.11889069,0.7170535
+original/VeryMildDemented/verymildDem1613.jpg,3,VeryMildDemented,2,NonDemented,0.6757666,False,0.0053092386,9.8210796e-05,0.6757666,0.31882596
+original/VeryMildDemented/verymildDem1629.jpg,3,VeryMildDemented,3,VeryMildDemented,0.61203206,True,0.30613622,0.0021760638,0.0796557,0.61203206
+original/VeryMildDemented/verymildDem1630.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7333989,True,0.14730014,0.008984634,0.1103163,0.7333989
+original/VeryMildDemented/verymildDem1632.jpg,3,VeryMildDemented,3,VeryMildDemented,0.55670685,True,0.28267005,0.004861867,0.15576127,0.55670685
+original/VeryMildDemented/verymildDem1637.jpg,3,VeryMildDemented,3,VeryMildDemented,0.75898236,True,0.069116786,0.0021287685,0.16977209,0.75898236
+original/VeryMildDemented/verymildDem1638.jpg,3,VeryMildDemented,3,VeryMildDemented,0.55572504,True,0.30895972,0.0006611994,0.134654,0.55572504
+original/VeryMildDemented/verymildDem1644.jpg,3,VeryMildDemented,3,VeryMildDemented,0.57449776,True,0.28757456,0.0019403792,0.13598731,0.57449776
+original/VeryMildDemented/verymildDem1645.jpg,3,VeryMildDemented,2,NonDemented,0.48599082,False,0.027434563,0.001283212,0.48599082,0.48529136
+original/VeryMildDemented/verymildDem1660.jpg,3,VeryMildDemented,2,NonDemented,0.8025749,False,0.00083151856,5.5467273e-05,0.8025749,0.1965381
+original/VeryMildDemented/verymildDem1669.jpg,3,VeryMildDemented,3,VeryMildDemented,0.74692774,True,0.06667869,7.1532864e-05,0.18632202,0.74692774
+original/VeryMildDemented/verymildDem1673.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7168019,True,0.032616105,0.0003953417,0.25018668,0.7168019
+original/VeryMildDemented/verymildDem1689.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6108921,True,0.17209429,0.00017920132,0.21683437,0.6108921
+original/VeryMildDemented/verymildDem17.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8412841,True,0.091665916,8.9142064e-05,0.06696085,0.8412841
+original/VeryMildDemented/verymildDem1714.jpg,3,VeryMildDemented,3,VeryMildDemented,0.508746,True,0.34703436,0.004011926,0.1402077,0.508746
+original/VeryMildDemented/verymildDem1715.jpg,3,VeryMildDemented,3,VeryMildDemented,0.49466679,True,0.026156668,0.00045308942,0.47872344,0.49466679
+original/VeryMildDemented/verymildDem1721.jpg,3,VeryMildDemented,3,VeryMildDemented,0.4783104,True,0.3627136,0.03082201,0.12815401,0.4783104
+original/VeryMildDemented/verymildDem1733.jpg,3,VeryMildDemented,1,ModerateDemented,0.43408102,False,0.21090564,0.43408102,0.059250366,0.295763
+original/VeryMildDemented/verymildDem174.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7118384,True,0.17368548,0.0016270764,0.11284902,0.7118384
+original/VeryMildDemented/verymildDem1747.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6724796,True,0.08877688,0.0022289606,0.23651454,0.6724796
+original/VeryMildDemented/verymildDem1758.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7395313,True,0.14505348,0.0020989003,0.11331642,0.7395313
+original/VeryMildDemented/verymildDem1761.jpg,3,VeryMildDemented,3,VeryMildDemented,0.83241886,True,0.030041939,0.0032056908,0.13433352,0.83241886
+original/VeryMildDemented/verymildDem177.jpg,3,VeryMildDemented,3,VeryMildDemented,0.67915124,True,0.09731943,0.0013147979,0.22221449,0.67915124
+original/VeryMildDemented/verymildDem1779.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8151304,True,0.093820706,0.0006094812,0.09043943,0.8151304
+original/VeryMildDemented/verymildDem1783.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6078739,True,0.27218017,0.04062726,0.07931868,0.6078739
+original/VeryMildDemented/verymildDem1784.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5012602,True,0.35588923,0.010107066,0.13274354,0.5012602
+original/VeryMildDemented/verymildDem199.jpg,3,VeryMildDemented,3,VeryMildDemented,0.68301326,True,0.0708657,0.0010046143,0.24511638,0.68301326
+original/VeryMildDemented/verymildDem2.jpg,3,VeryMildDemented,2,NonDemented,0.89846003,False,0.00060125254,0.0001413271,0.89846003,0.10079733
+original/VeryMildDemented/verymildDem20.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7192478,True,0.17667337,0.003583539,0.100495316,0.7192478
+original/VeryMildDemented/verymildDem201.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7403598,True,0.14324422,0.00024853257,0.11614743,0.7403598
+original/VeryMildDemented/verymildDem205.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8143802,True,0.064704545,0.00021478006,0.1207005,0.8143802
+original/VeryMildDemented/verymildDem217.jpg,3,VeryMildDemented,3,VeryMildDemented,0.88452286,True,0.07412788,0.0027126553,0.038636614,0.88452286
+original/VeryMildDemented/verymildDem235.jpg,3,VeryMildDemented,2,NonDemented,0.5255152,False,0.008840103,0.00026996952,0.5255152,0.4653747
+original/VeryMildDemented/verymildDem237.jpg,3,VeryMildDemented,3,VeryMildDemented,0.560407,True,0.10312481,0.0020419979,0.33442625,0.560407
+original/VeryMildDemented/verymildDem238.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6842716,True,0.24819477,0.0029601464,0.06457348,0.6842716
+original/VeryMildDemented/verymildDem259.jpg,3,VeryMildDemented,3,VeryMildDemented,0.61230177,True,0.26673564,0.02161522,0.09934741,0.61230177
+original/VeryMildDemented/verymildDem274.jpg,3,VeryMildDemented,3,VeryMildDemented,0.51897806,True,0.010308595,0.00020192361,0.47051144,0.51897806
+original/VeryMildDemented/verymildDem276.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7160451,True,0.22378336,0.012343563,0.04782795,0.7160451
+original/VeryMildDemented/verymildDem278.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7628498,True,0.13382144,0.018919997,0.0844087,0.7628498
+original/VeryMildDemented/verymildDem279.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78681785,True,0.0940913,0.0034721608,0.11561867,0.78681785
+original/VeryMildDemented/verymildDem280.jpg,3,VeryMildDemented,2,NonDemented,0.64183336,False,0.0090578245,0.002453724,0.64183336,0.3466551
+original/VeryMildDemented/verymildDem286.jpg,3,VeryMildDemented,3,VeryMildDemented,0.68470013,True,0.24477217,0.00617373,0.0643539,0.68470013
+original/VeryMildDemented/verymildDem295.jpg,3,VeryMildDemented,3,VeryMildDemented,0.90858084,True,0.027783414,0.0002530055,0.06338275,0.90858084
+original/VeryMildDemented/verymildDem297.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8124128,True,0.08688971,0.00027973615,0.10041775,0.8124128
+original/VeryMildDemented/verymildDem307.jpg,3,VeryMildDemented,3,VeryMildDemented,0.52761257,True,0.11812326,0.0011346356,0.3531295,0.52761257
+original/VeryMildDemented/verymildDem31.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7304224,True,0.13256033,0.00012754192,0.13688977,0.7304224
+original/VeryMildDemented/verymildDem329.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6192262,True,0.22556995,0.021555059,0.1336488,0.6192262
+original/VeryMildDemented/verymildDem33.jpg,3,VeryMildDemented,3,VeryMildDemented,0.689715,True,0.12332295,0.0006554835,0.18630652,0.689715
+original/VeryMildDemented/verymildDem333.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7883505,True,0.13318287,0.011902273,0.06656432,0.7883505
+original/VeryMildDemented/verymildDem335.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7675135,True,0.15238117,2.9505178e-05,0.08007586,0.7675135
+original/VeryMildDemented/verymildDem344.jpg,3,VeryMildDemented,2,NonDemented,0.50168765,False,0.007665535,0.0003336048,0.50168765,0.49031323
+original/VeryMildDemented/verymildDem351.jpg,3,VeryMildDemented,3,VeryMildDemented,0.77474195,True,0.06335954,0.0022059337,0.15969265,0.77474195
+original/VeryMildDemented/verymildDem352.jpg,3,VeryMildDemented,2,NonDemented,0.8366644,False,0.0010312609,0.00014604478,0.8366644,0.16215825
+original/VeryMildDemented/verymildDem354.jpg,3,VeryMildDemented,2,NonDemented,0.53432745,False,0.01213981,0.00015094447,0.53432745,0.4533818
+original/VeryMildDemented/verymildDem356.jpg,3,VeryMildDemented,3,VeryMildDemented,0.76378065,True,0.16570728,0.0011378218,0.069374256,0.76378065
+original/VeryMildDemented/verymildDem357.jpg,3,VeryMildDemented,3,VeryMildDemented,0.92992336,True,0.0460334,7.459014e-05,0.023968609,0.92992336
+original/VeryMildDemented/verymildDem359.jpg,3,VeryMildDemented,3,VeryMildDemented,0.591829,True,0.026788583,0.00017793354,0.3812045,0.591829
+original/VeryMildDemented/verymildDem364.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6606703,True,0.04337562,0.0005519346,0.29540214,0.6606703
+original/VeryMildDemented/verymildDem377.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5511353,True,0.21862805,0.0013286571,0.22890799,0.5511353
+original/VeryMildDemented/verymildDem38.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8057992,True,0.0724794,0.00040105142,0.12132041,0.8057992
+original/VeryMildDemented/verymildDem382.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7803905,True,0.15097311,0.00018169502,0.06845463,0.7803905
+original/VeryMildDemented/verymildDem397.jpg,3,VeryMildDemented,3,VeryMildDemented,0.86474764,True,0.085182644,0.00017631093,0.049893394,0.86474764
+original/VeryMildDemented/verymildDem399.jpg,3,VeryMildDemented,3,VeryMildDemented,0.65229523,True,0.14396857,0.012456634,0.19127955,0.65229523
+original/VeryMildDemented/verymildDem40.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8051153,True,0.03806663,0.00011156,0.15670656,0.8051153
+original/VeryMildDemented/verymildDem402.jpg,3,VeryMildDemented,2,NonDemented,0.83869624,False,0.0009550632,0.00011748077,0.83869624,0.16023122
+original/VeryMildDemented/verymildDem409.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6811999,True,0.06808519,0.00042201913,0.25029287,0.6811999
+original/VeryMildDemented/verymildDem41.jpg,3,VeryMildDemented,3,VeryMildDemented,0.60749185,True,0.29231283,0.004557421,0.09563795,0.60749185
+original/VeryMildDemented/verymildDem420.jpg,3,VeryMildDemented,2,NonDemented,0.881234,False,0.0005847626,0.00011890029,0.881234,0.11806236
+original/VeryMildDemented/verymildDem429.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6140244,True,0.035855718,0.00022276228,0.3498971,0.6140244
+original/VeryMildDemented/verymildDem43.jpg,3,VeryMildDemented,2,NonDemented,0.570932,False,0.009794826,0.0003575802,0.570932,0.4189156
+original/VeryMildDemented/verymildDem433.jpg,3,VeryMildDemented,3,VeryMildDemented,0.766577,True,0.12779158,0.0024559826,0.10317536,0.766577
+original/VeryMildDemented/verymildDem434.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5636246,True,0.023167677,0.0005122142,0.41269544,0.5636246
+original/VeryMildDemented/verymildDem442.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7040181,True,0.2019831,0.0011321536,0.09286665,0.7040181
+original/VeryMildDemented/verymildDem462.jpg,3,VeryMildDemented,2,NonDemented,0.83137846,False,0.0011827053,6.823442e-05,0.83137846,0.16737057
+original/VeryMildDemented/verymildDem465.jpg,3,VeryMildDemented,2,NonDemented,0.802026,False,0.00095531077,5.1549327e-05,0.802026,0.19696711
+original/VeryMildDemented/verymildDem471.jpg,3,VeryMildDemented,3,VeryMildDemented,0.72790974,True,0.22610652,7.2567294e-05,0.045911208,0.72790974
+original/VeryMildDemented/verymildDem473.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7641535,True,0.1665185,0.0043947226,0.06493324,0.7641535
+original/VeryMildDemented/verymildDem482.jpg,3,VeryMildDemented,3,VeryMildDemented,0.74509984,True,0.1471014,0.0008674974,0.106931284,0.74509984
+original/VeryMildDemented/verymildDem483.jpg,3,VeryMildDemented,2,NonDemented,0.92892426,False,0.00018311996,4.1493415e-05,0.92892426,0.07085112
+original/VeryMildDemented/verymildDem497.jpg,3,VeryMildDemented,3,VeryMildDemented,0.85488164,True,0.10647116,0.00015268351,0.03849452,0.85488164
+original/VeryMildDemented/verymildDem507.jpg,3,VeryMildDemented,3,VeryMildDemented,0.79613036,True,0.08513038,0.00023554054,0.11850379,0.79613036
+original/VeryMildDemented/verymildDem511.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7581559,True,0.055794124,0.00046952767,0.18558046,0.7581559
+original/VeryMildDemented/verymildDem513.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6393628,True,0.15959777,0.15798406,0.04305537,0.6393628
+original/VeryMildDemented/verymildDem529.jpg,3,VeryMildDemented,3,VeryMildDemented,0.76418453,True,0.14355604,0.017212346,0.07504704,0.76418453
+original/VeryMildDemented/verymildDem530.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81353253,True,0.09176529,0.0030722618,0.091629915,0.81353253
+original/VeryMildDemented/verymildDem533.jpg,3,VeryMildDemented,3,VeryMildDemented,0.76988,True,0.07797466,0.0030324368,0.1491129,0.76988
+original/VeryMildDemented/verymildDem534.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78606206,True,0.10312308,0.0045407047,0.106274165,0.78606206
+original/VeryMildDemented/verymildDem540.jpg,3,VeryMildDemented,2,NonDemented,0.80638,False,0.00181168,0.00028754814,0.80638,0.19152075
+original/VeryMildDemented/verymildDem541.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8002494,True,0.14426415,6.4564345e-05,0.05542193,0.8002494
+original/VeryMildDemented/verymildDem543.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7821994,True,0.150828,0.0029285154,0.06404409,0.7821994
+original/VeryMildDemented/verymildDem548.jpg,3,VeryMildDemented,2,NonDemented,0.63692886,False,0.00870958,0.00090645696,0.63692886,0.3534551
+original/VeryMildDemented/verymildDem557.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7493242,True,0.025657935,9.4833624e-05,0.22492309,0.7493242
+original/VeryMildDemented/verymildDem562.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6850495,True,0.047198195,0.0020554923,0.26569682,0.6850495
+original/VeryMildDemented/verymildDem563.jpg,3,VeryMildDemented,2,NonDemented,0.8145162,False,0.003113969,0.00012767101,0.8145162,0.18224216
+original/VeryMildDemented/verymildDem566.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7227636,True,0.2219063,9.366993e-05,0.055236492,0.7227636
+original/VeryMildDemented/verymildDem577.jpg,3,VeryMildDemented,3,VeryMildDemented,0.83910924,True,0.06408162,4.889227e-05,0.09676019,0.83910924
+original/VeryMildDemented/verymildDem586.jpg,3,VeryMildDemented,2,NonDemented,0.5447399,False,0.010033202,0.00039116302,0.5447399,0.44483575
+original/VeryMildDemented/verymildDem588.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7619896,True,0.15419903,0.00028539012,0.08352596,0.7619896
+original/VeryMildDemented/verymildDem595.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6647686,True,0.07653357,0.0012640525,0.25743377,0.6647686
+original/VeryMildDemented/verymildDem600.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8472136,True,0.07037332,0.0016594908,0.08075352,0.8472136
+original/VeryMildDemented/verymildDem603.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7596472,True,0.11942855,0.0013625062,0.11956167,0.7596472
+original/VeryMildDemented/verymildDem609.jpg,3,VeryMildDemented,3,VeryMildDemented,0.65224916,True,0.06156103,0.001141795,0.28504804,0.65224916
+original/VeryMildDemented/verymildDem61.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7068984,True,0.057602424,0.000120365396,0.23537877,0.7068984
+original/VeryMildDemented/verymildDem611.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78637445,True,0.15141794,0.0002516369,0.061955918,0.78637445
+original/VeryMildDemented/verymildDem612.jpg,3,VeryMildDemented,2,NonDemented,0.78653616,False,0.0016425848,6.575071e-05,0.78653616,0.21175553
+original/VeryMildDemented/verymildDem616.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7784063,True,0.09740026,0.00010275795,0.1240906,0.7784063
+original/VeryMildDemented/verymildDem634.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7058348,True,0.14801209,0.00045923342,0.14569393,0.7058348
+original/VeryMildDemented/verymildDem636.jpg,3,VeryMildDemented,3,VeryMildDemented,0.66326916,True,0.27144003,0.00044816223,0.064842574,0.66326916
+original/VeryMildDemented/verymildDem641.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6930942,True,0.17438793,0.0015740591,0.1309438,0.6930942
+original/VeryMildDemented/verymildDem654.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8977672,True,0.035211045,0.00010208254,0.0669197,0.8977672
+original/VeryMildDemented/verymildDem674.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78471,True,0.08262361,0.0033332985,0.12933312,0.78471
+original/VeryMildDemented/verymildDem675.jpg,3,VeryMildDemented,2,NonDemented,0.73900795,False,0.0022338335,9.625078e-05,0.73900795,0.25866193
+original/VeryMildDemented/verymildDem678.jpg,3,VeryMildDemented,3,VeryMildDemented,0.60085964,True,0.035141855,0.0010237398,0.3629748,0.60085964
+original/VeryMildDemented/verymildDem682.jpg,3,VeryMildDemented,2,NonDemented,0.71811223,False,0.0037581793,0.0001031077,0.71811223,0.2780264
+original/VeryMildDemented/verymildDem695.jpg,3,VeryMildDemented,3,VeryMildDemented,0.75545895,True,0.1558077,0.00022258318,0.088510744,0.75545895
+original/VeryMildDemented/verymildDem696.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7516154,True,0.19653788,0.0014274856,0.050419234,0.7516154
+original/VeryMildDemented/verymildDem705.jpg,3,VeryMildDemented,2,NonDemented,0.9432866,False,0.0001038949,4.676755e-05,0.9432866,0.0565627
+original/VeryMildDemented/verymildDem718.jpg,3,VeryMildDemented,3,VeryMildDemented,0.72876847,True,0.14849246,0.0001840154,0.12255512,0.72876847
+original/VeryMildDemented/verymildDem725.jpg,3,VeryMildDemented,2,NonDemented,0.59345007,False,0.0039626397,0.00011636219,0.59345007,0.40247092
+original/VeryMildDemented/verymildDem726.jpg,3,VeryMildDemented,3,VeryMildDemented,0.58042175,True,0.01710678,0.00046502292,0.40200642,0.58042175
+original/VeryMildDemented/verymildDem728.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7647569,True,0.16105269,0.0011161597,0.07307428,0.7647569
+original/VeryMildDemented/verymildDem731.jpg,3,VeryMildDemented,3,VeryMildDemented,0.70278037,True,0.15373914,0.00042369537,0.1430568,0.70278037
+original/VeryMildDemented/verymildDem741.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5026631,True,0.3779253,0.0031640853,0.11624748,0.5026631
+original/VeryMildDemented/verymildDem749.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6657487,True,0.056755815,0.00034249987,0.27715296,0.6657487
+original/VeryMildDemented/verymildDem776.jpg,3,VeryMildDemented,3,VeryMildDemented,0.59628254,True,0.32786605,0.00076271145,0.07508868,0.59628254
+original/VeryMildDemented/verymildDem781.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7392412,True,0.12806156,0.0003682229,0.13232906,0.7392412
+original/VeryMildDemented/verymildDem788.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7242062,True,0.16000389,0.00014399455,0.115645915,0.7242062
+original/VeryMildDemented/verymildDem789.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6196678,True,0.31049716,0.012018497,0.057816595,0.6196678
+original/VeryMildDemented/verymildDem79.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6418335,True,0.14901021,0.0019508022,0.20720544,0.6418335
+original/VeryMildDemented/verymildDem800.jpg,3,VeryMildDemented,3,VeryMildDemented,0.54354155,True,0.39558786,0.0012484619,0.059622068,0.54354155
+original/VeryMildDemented/verymildDem816.jpg,3,VeryMildDemented,3,VeryMildDemented,0.69661266,True,0.17740722,0.020393457,0.10558666,0.69661266
+original/VeryMildDemented/verymildDem843.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5476643,True,0.047535624,0.00072843005,0.40407166,0.5476643
+original/VeryMildDemented/verymildDem852.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7765064,True,0.08154737,0.00020106995,0.14174512,0.7765064
+original/VeryMildDemented/verymildDem857.jpg,3,VeryMildDemented,3,VeryMildDemented,0.81552243,True,0.10312694,0.000106413674,0.08124418,0.81552243
+original/VeryMildDemented/verymildDem864.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6696318,True,0.229753,0.0030405065,0.0975747,0.6696318
+original/VeryMildDemented/verymildDem866.jpg,3,VeryMildDemented,3,VeryMildDemented,0.74266094,True,0.050230253,0.0012549703,0.20585382,0.74266094
+original/VeryMildDemented/verymildDem871.jpg,3,VeryMildDemented,3,VeryMildDemented,0.72872484,True,0.16970448,0.0007904723,0.10078021,0.72872484
+original/VeryMildDemented/verymildDem879.jpg,3,VeryMildDemented,3,VeryMildDemented,0.8258556,True,0.057891034,0.0008845973,0.11536872,0.8258556
+original/VeryMildDemented/verymildDem886.jpg,3,VeryMildDemented,3,VeryMildDemented,0.61435276,True,0.12606129,0.1587654,0.100820504,0.61435276
+original/VeryMildDemented/verymildDem892.jpg,3,VeryMildDemented,2,NonDemented,0.73256344,False,0.0049893158,0.00013808509,0.73256344,0.26230916
+original/VeryMildDemented/verymildDem902.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6307033,True,0.28120846,0.0006316142,0.087456614,0.6307033
+original/VeryMildDemented/verymildDem904.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7185264,True,0.016997969,0.0001257924,0.26434976,0.7185264
+original/VeryMildDemented/verymildDem913.jpg,3,VeryMildDemented,3,VeryMildDemented,0.573602,True,0.046846293,0.0008869759,0.37866476,0.573602
+original/VeryMildDemented/verymildDem914.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6609055,True,0.22634187,0.00029517701,0.11245751,0.6609055
+original/VeryMildDemented/verymildDem916.jpg,3,VeryMildDemented,3,VeryMildDemented,0.5020536,True,0.42096254,0.004159633,0.072824225,0.5020536
+original/VeryMildDemented/verymildDem92.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6747631,True,0.24699138,0.015771914,0.062473666,0.6747631
+original/VeryMildDemented/verymildDem922.jpg,3,VeryMildDemented,3,VeryMildDemented,0.78171474,True,0.08133372,0.00027926083,0.13667229,0.78171474
+original/VeryMildDemented/verymildDem937.jpg,3,VeryMildDemented,3,VeryMildDemented,0.67572963,True,0.081591554,0.0014399384,0.24123886,0.67572963
+original/VeryMildDemented/verymildDem941.jpg,3,VeryMildDemented,3,VeryMildDemented,0.71826416,True,0.18288358,0.0016542611,0.09719797,0.71826416
+original/VeryMildDemented/verymildDem953.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7318209,True,0.1054396,0.0024160224,0.16032356,0.7318209
+original/VeryMildDemented/verymildDem963.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7158059,True,0.21135056,0.0013192574,0.07152424,0.7158059
+original/VeryMildDemented/verymildDem967.jpg,3,VeryMildDemented,3,VeryMildDemented,0.70689875,True,0.19839376,0.005853135,0.088854276,0.70689875
+original/VeryMildDemented/verymildDem972.jpg,3,VeryMildDemented,3,VeryMildDemented,0.6522955,True,0.246358,0.00085049483,0.10049602,0.6522955
+original/VeryMildDemented/verymildDem975.jpg,3,VeryMildDemented,3,VeryMildDemented,0.7083299,True,0.13566351,0.001156914,0.15484962,0.7083299
+original/VeryMildDemented/verymildDem986.jpg,3,VeryMildDemented,3,VeryMildDemented,0.4910923,True,0.43107834,0.0026094476,0.07521989,0.4910923
+original/VeryMildDemented/verymildDem987.jpg,3,VeryMildDemented,3,VeryMildDemented,0.91405725,True,0.06532659,2.4301175e-05,0.02059183,0.91405725
+original/VeryMildDemented/verymildDem998.jpg,3,VeryMildDemented,3,VeryMildDemented,0.77915096,True,0.11996028,0.0007398951,0.100148894,0.77915096

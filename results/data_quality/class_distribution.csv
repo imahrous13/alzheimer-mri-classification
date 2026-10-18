@@ -1,0 +1,9 @@
+dataset,label,count
+augmented,MildDemented,8960
+augmented,ModerateDemented,6464
+augmented,NonDemented,9600
+augmented,VeryMildDemented,8960
+original,MildDemented,896
+original,ModerateDemented,64
+original,NonDemented,3200
+original,VeryMildDemented,2240

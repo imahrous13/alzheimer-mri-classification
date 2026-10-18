@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alzheimer-mri-classification"
+version = "1.0.0"
+description = "Leakage-aware MRI image quality, training, evaluation, and inference pipeline."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib>=3.7",
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "Pillow>=10.0",
+  "scikit-learn>=1.3",
+  "scikit-image>=0.21",
+  "scipy>=1.10",
+  "seaborn>=0.13",
+  "torch>=2.0",
+  "torchvision>=0.15",
+  "joblib>=1.3",
+  "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.30"]
+dev = ["jupyterlab>=4.0", "nbclient>=0.10", "nbformat>=5.9", "plotly>=5.20", "streamlit>=1.30", "pytest>=8.0"]
+
+[project.scripts]
+alzheimer-audit = "alzheimer_mri.audit:main"
+alzheimer-split = "alzheimer_mri.splits:main"
+alzheimer-train = "alzheimer_mri.train:main"
+alzheimer-evaluate = "alzheimer_mri.evaluate:main"
+alzheimer-predict = "alzheimer_mri.predict:main"
+alzheimer-baseline = "alzheimer_mri.baseline:main"
+alzheimer-baseline-predict = "alzheimer_mri.predict_baseline:main"
+alzheimer-segment = "alzheimer_mri.segment:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

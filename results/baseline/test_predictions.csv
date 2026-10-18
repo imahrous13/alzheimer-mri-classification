@@ -1,0 +1,964 @@
+path,label,prediction,confidence,probability_MildDemented,probability_ModerateDemented,probability_NonDemented,probability_VeryMildDemented
+original/MildDemented/26 (23).jpg,MildDemented,MildDemented,0.9375075,0.9375075,5.5272133e-13,0.050583087,0.011909423
+original/MildDemented/27 (22).jpg,MildDemented,VeryMildDemented,0.9198662,0.077374846,1.8527671e-10,0.002758922,0.9198662
+original/MildDemented/27 (24).jpg,MildDemented,MildDemented,0.98711973,0.98711973,4.979119e-14,3.286237e-05,0.012847369
+original/MildDemented/27 (26).jpg,MildDemented,MildDemented,0.9967827,0.9967827,3.612834e-15,0.0004824593,0.0027348027
+original/MildDemented/28 (10).jpg,MildDemented,MildDemented,0.9970469,0.9970469,0.0026798942,0.00011797972,0.00015527735
+original/MildDemented/28 (11).jpg,MildDemented,MildDemented,0.9622085,0.9622085,3.0040848e-08,0.00032793527,0.037463635
+original/MildDemented/28 (21).jpg,MildDemented,MildDemented,0.8428752,0.8428752,5.1618793e-11,5.5660774e-05,0.15706913
+original/MildDemented/28 (26).jpg,MildDemented,MildDemented,0.99853206,0.99853206,1.1446848e-13,0.0008164019,0.00065156684
+original/MildDemented/28 (9).jpg,MildDemented,MildDemented,0.9862655,0.9862655,0.00053567305,3.221602e-06,0.013195675
+original/MildDemented/29 (25).jpg,MildDemented,MildDemented,0.9941055,0.9941055,7.478021e-10,1.1428154e-06,0.0058933995
+original/MildDemented/29 (28).jpg,MildDemented,NonDemented,0.92734605,0.043447062,3.6628882e-09,0.92734605,0.029206945
+original/MildDemented/29 (7).jpg,MildDemented,MildDemented,0.9570718,0.9570718,1.8088092e-15,0.035337184,0.007591028
+original/MildDemented/29 (9).jpg,MildDemented,VeryMildDemented,0.8188356,0.17999996,0.001016995,0.00014744332,0.8188356
+original/MildDemented/30 (11).jpg,MildDemented,MildDemented,0.997724,0.997724,8.4718283e-07,0.00071093685,0.0015642473
+original/MildDemented/30 (19).jpg,MildDemented,MildDemented,0.99573594,0.99573594,3.3733621e-10,0.0001654082,0.00409863
+original/MildDemented/30 (3).jpg,MildDemented,VeryMildDemented,0.98802996,0.0114677325,1.1080897e-06,0.00050120417,0.98802996
+original/MildDemented/30 (7).jpg,MildDemented,MildDemented,0.8405355,0.8405355,2.4554178e-16,0.04559154,0.11387288
+original/MildDemented/31 (11).jpg,MildDemented,MildDemented,0.98833555,0.98833555,3.696016e-05,3.212997e-06,0.01162432
+original/MildDemented/31 (20).jpg,MildDemented,MildDemented,0.70974106,0.70974106,3.1904777e-13,0.01091876,0.27934018
+original/MildDemented/31 (7).jpg,MildDemented,VeryMildDemented,0.51243037,0.21581182,5.3683068e-15,0.2717578,0.51243037
+original/MildDemented/32 (21).jpg,MildDemented,MildDemented,0.9801962,0.9801962,2.7814962e-12,0.0013212797,0.018482495
+original/MildDemented/32 (28).jpg,MildDemented,NonDemented,0.6997164,0.2762025,0.009457167,0.6997164,0.0146240285
+original/MildDemented/32 (3).jpg,MildDemented,VeryMildDemented,0.90220904,0.029932912,0.067204244,0.00065382215,0.90220904
+original/MildDemented/32 (6).jpg,MildDemented,VeryMildDemented,0.9221916,0.07446374,7.516307e-10,0.0033446618,0.9221916
+original/MildDemented/32 (9).jpg,MildDemented,NonDemented,0.7349,0.2633961,3.9983095e-07,0.7349,0.0017034431
+original/MildDemented/mildDem0.jpg,MildDemented,MildDemented,0.99903643,0.99903643,2.7662273e-07,6.8080924e-05,0.00089520134
+original/MildDemented/mildDem101.jpg,MildDemented,MildDemented,0.93060726,0.93060726,3.2133747e-15,4.0921528e-05,0.06935179
+original/MildDemented/mildDem102.jpg,MildDemented,MildDemented,0.9772649,0.9772649,0.0010934806,3.41879e-05,0.021607507
+original/MildDemented/mildDem105.jpg,MildDemented,MildDemented,0.9467872,0.9467872,1.3041253e-10,0.05320329,9.595902e-06
+original/MildDemented/mildDem112.jpg,MildDemented,MildDemented,0.99957573,0.99957573,2.5870838e-06,1.7382088e-05,0.00040433585
+original/MildDemented/mildDem113.jpg,MildDemented,VeryMildDemented,0.9992816,8.968376e-05,7.3954274e-05,0.00055479544,0.9992816
+original/MildDemented/mildDem121.jpg,MildDemented,VeryMildDemented,0.8546489,0.14408839,6.5274652e-09,0.0012626942,0.8546489
+original/MildDemented/mildDem125.jpg,MildDemented,MildDemented,0.9469548,0.9469548,1.3202967e-12,0.05196625,0.0010788974
+original/MildDemented/mildDem127.jpg,MildDemented,MildDemented,0.9500653,0.9500653,8.114851e-17,0.049339216,0.00059547514
+original/MildDemented/mildDem129.jpg,MildDemented,MildDemented,0.8824207,0.8824207,1.8205984e-14,0.002302533,0.11527678
+original/MildDemented/mildDem130.jpg,MildDemented,MildDemented,0.9977448,0.9977448,3.311184e-06,7.701726e-05,0.0021748987
+original/MildDemented/mildDem131.jpg,MildDemented,NonDemented,0.52041274,0.17486644,3.8767407e-14,0.52041274,0.3047208
+original/MildDemented/mildDem132.jpg,MildDemented,MildDemented,0.95400035,0.95400035,1.2655515e-15,0.023656957,0.022342747
+original/MildDemented/mildDem133.jpg,MildDemented,MildDemented,0.98733693,0.98733693,4.7767346e-12,0.008933166,0.0037298796
+original/MildDemented/mildDem134.jpg,MildDemented,MildDemented,0.99334973,0.99334973,1.1818335e-10,0.0060208016,0.00062939763
+original/MildDemented/mildDem137.jpg,MildDemented,VeryMildDemented,0.99479824,0.0050972337,2.4078668e-08,0.000104442894,0.99479824
+original/MildDemented/mildDem139.jpg,MildDemented,MildDemented,0.8068766,0.8068766,9.850063e-15,0.18819287,0.0049305083
+original/MildDemented/mildDem141.jpg,MildDemented,MildDemented,0.45646045,0.45646045,0.3242592,0.0002846351,0.21899575
+original/MildDemented/mildDem158.jpg,MildDemented,VeryMildDemented,0.6569454,0.3153383,0.007228972,0.020487286,0.6569454
+original/MildDemented/mildDem166.jpg,MildDemented,MildDemented,0.68175995,0.68175995,7.0112657e-15,0.31700054,0.0012394884
+original/MildDemented/mildDem169.jpg,MildDemented,MildDemented,0.9940638,0.9940638,2.4917266e-08,0.00017425859,0.005761885
+original/MildDemented/mildDem181.jpg,MildDemented,MildDemented,0.6234814,0.6234814,1.6324836e-18,0.00041346293,0.37610507
+original/MildDemented/mildDem182.jpg,MildDemented,MildDemented,0.99766016,0.99766016,1.5197611e-10,0.0023139224,2.5890755e-05
+original/MildDemented/mildDem185.jpg,MildDemented,NonDemented,0.36520377,0.30875516,1.8081314e-12,0.36520377,0.3260411
+original/MildDemented/mildDem187.jpg,MildDemented,VeryMildDemented,0.59198266,0.3055644,2.8386753e-19,0.10245295,0.59198266
+original/MildDemented/mildDem19.jpg,MildDemented,ModerateDemented,0.96256894,1.316526e-07,0.96256894,0.037062224,0.00036868185
+original/MildDemented/mildDem197.jpg,MildDemented,MildDemented,0.96698296,0.96698296,3.3677722e-08,0.002104044,0.030913012
+original/MildDemented/mildDem200.jpg,MildDemented,MildDemented,0.9985798,0.9985798,2.9779676e-07,2.7823764e-05,0.0013920728
+original/MildDemented/mildDem213.jpg,MildDemented,MildDemented,0.9980045,0.9980045,7.734349e-12,0.0019174246,7.809544e-05
+original/MildDemented/mildDem214.jpg,MildDemented,ModerateDemented,0.7682471,0.0016523949,0.7682471,0.13879597,0.09130453
+original/MildDemented/mildDem227.jpg,MildDemented,MildDemented,0.6946869,0.6946869,1.7143039e-13,0.020783763,0.2845293
+original/MildDemented/mildDem231.jpg,MildDemented,VeryMildDemented,0.6537509,0.33920836,1.1399711e-20,0.0070407395,0.6537509
+original/MildDemented/mildDem242.jpg,MildDemented,NonDemented,0.800819,0.07694006,0.0014691249,0.800819,0.12077182
+original/MildDemented/mildDem245.jpg,MildDemented,NonDemented,0.67612505,0.26052713,1.4186661e-09,0.67612505,0.06334784
+original/MildDemented/mildDem266.jpg,MildDemented,MildDemented,0.98443633,0.98443633,3.280798e-11,0.014811011,0.0007526005
+original/MildDemented/mildDem280.jpg,MildDemented,MildDemented,0.9818647,0.9818647,1.0110983e-10,0.018124368,1.0885715e-05
+original/MildDemented/mildDem281.jpg,MildDemented,VeryMildDemented,0.8868174,0.10997573,2.57884e-08,0.0032068733,0.8868174
+original/MildDemented/mildDem282.jpg,MildDemented,VeryMildDemented,0.71201044,0.28791532,6.1648956e-07,7.362828e-05,0.71201044
+original/MildDemented/mildDem288.jpg,MildDemented,MildDemented,0.9951938,0.9951938,1.1641458e-09,0.0019525245,0.0028537055
+original/MildDemented/mildDem290.jpg,MildDemented,NonDemented,0.4527483,0.13409612,2.9231612e-06,0.4527483,0.41315264
+original/MildDemented/mildDem294.jpg,MildDemented,MildDemented,0.73139113,0.73139113,6.791342e-10,0.26422918,0.004379702
+original/MildDemented/mildDem296.jpg,MildDemented,VeryMildDemented,0.5057454,0.49422187,7.1697677e-13,3.276423e-05,0.5057454
+original/MildDemented/mildDem302.jpg,MildDemented,MildDemented,0.99624616,0.99624616,2.5655796e-13,0.00051594904,0.0032378729
+original/MildDemented/mildDem31.jpg,MildDemented,MildDemented,0.9913419,0.9913419,5.9052113e-10,0.00052453147,0.008133535
+original/MildDemented/mildDem315.jpg,MildDemented,NonDemented,0.9826892,0.008091224,3.5601763e-05,0.9826892,0.009183967
+original/MildDemented/mildDem317.jpg,MildDemented,MildDemented,0.6760382,0.6760382,4.2759754e-10,1.5388361e-05,0.32394645
+original/MildDemented/mildDem321.jpg,MildDemented,MildDemented,0.99737215,0.99737215,1.3521037e-10,0.00022730888,0.0024005084
+original/MildDemented/mildDem33.jpg,MildDemented,NonDemented,0.97599655,0.00048078754,1.661956e-11,0.97599655,0.023522679
+original/MildDemented/mildDem334.jpg,MildDemented,MildDemented,0.99732065,0.99732065,7.6005474e-10,4.6466706e-05,0.0026329234
+original/MildDemented/mildDem341.jpg,MildDemented,NonDemented,0.9636883,0.003739129,0.031048628,0.9636883,0.0015238855
+original/MildDemented/mildDem342.jpg,MildDemented,MildDemented,0.99362326,0.99362326,6.822252e-11,0.0059643816,0.0004123624
+original/MildDemented/mildDem345.jpg,MildDemented,VeryMildDemented,0.69078356,0.30881354,3.5880686e-12,0.00040291698,0.69078356
+original/MildDemented/mildDem353.jpg,MildDemented,MildDemented,0.9684228,0.9684228,1.5544003e-14,0.001197319,0.03037993
+original/MildDemented/mildDem361.jpg,MildDemented,MildDemented,0.98677814,0.98677814,3.135852e-06,4.584931e-06,0.013214127
+original/MildDemented/mildDem363.jpg,MildDemented,MildDemented,0.71578425,0.71578425,1.0026006e-07,0.2581919,0.026023714
+original/MildDemented/mildDem377.jpg,MildDemented,MildDemented,0.8924363,0.8924363,2.8846927e-12,0.0001957387,0.10736791
+original/MildDemented/mildDem381.jpg,MildDemented,MildDemented,0.9830752,0.9830752,4.640482e-13,0.003964751,0.012960121
+original/MildDemented/mildDem384.jpg,MildDemented,MildDemented,0.9984639,0.9984639,4.92715e-10,2.336834e-05,0.0015126945
+original/MildDemented/mildDem39.jpg,MildDemented,VeryMildDemented,0.9448669,0.0047925417,0.03144655,0.018894037,0.9448669
+original/MildDemented/mildDem406.jpg,MildDemented,NonDemented,0.98215944,0.017564625,0.00017119241,0.98215944,0.00010469295
+original/MildDemented/mildDem407.jpg,MildDemented,MildDemented,0.9714377,0.9714377,3.6549486e-20,0.0058388305,0.022723455
+original/MildDemented/mildDem416.jpg,MildDemented,NonDemented,0.7898916,0.18484169,3.30629e-05,0.7898916,0.025233671
+original/MildDemented/mildDem418.jpg,MildDemented,MildDemented,0.99858,0.99858,2.2716027e-07,0.00011239957,0.0013074279
+original/MildDemented/mildDem426.jpg,MildDemented,MildDemented,0.8048199,0.8048199,7.598468e-10,0.18984117,0.005338913
+original/MildDemented/mildDem427.jpg,MildDemented,NonDemented,0.9967011,0.0004965333,4.3668934e-16,0.9967011,0.0028022972
+original/MildDemented/mildDem429.jpg,MildDemented,MildDemented,0.6951175,0.6951175,9.350061e-18,0.01568175,0.28920075
+original/MildDemented/mildDem434.jpg,MildDemented,MildDemented,0.8759471,0.8759471,9.78818e-06,0.088923775,0.035119347
+original/MildDemented/mildDem447.jpg,MildDemented,MildDemented,0.9951163,0.9951163,7.1685484e-08,0.0009187407,0.0039648945
+original/MildDemented/mildDem451.jpg,MildDemented,MildDemented,0.9915118,0.9915118,2.6848582e-10,0.00824772,0.00024044712
+original/MildDemented/mildDem452.jpg,MildDemented,MildDemented,0.97247404,0.97247404,1.1001742e-08,1.8183096e-06,0.027524184
+original/MildDemented/mildDem461.jpg,MildDemented,MildDemented,0.77270156,0.77270156,1.3944919e-13,0.06229538,0.16500303
+original/MildDemented/mildDem467.jpg,MildDemented,MildDemented,0.99284315,0.99284315,2.4574575e-08,0.006839418,0.0003174683
+original/MildDemented/mildDem471.jpg,MildDemented,NonDemented,0.9071578,0.020883998,1.317954e-10,0.9071578,0.07195814
+original/MildDemented/mildDem478.jpg,MildDemented,MildDemented,0.9203624,0.9203624,3.5192397e-08,0.06320115,0.016436368
+original/MildDemented/mildDem484.jpg,MildDemented,MildDemented,0.9997246,0.9997246,2.2643441e-10,0.00025315885,2.2193059e-05
+original/MildDemented/mildDem49.jpg,MildDemented,NonDemented,0.98432374,0.014748112,3.7302243e-07,0.98432374,0.00092772086
+original/MildDemented/mildDem491.jpg,MildDemented,MildDemented,0.99743444,0.99743444,1.4578968e-18,0.0021319527,0.0004336963
+original/MildDemented/mildDem499.jpg,MildDemented,NonDemented,0.9553072,0.04457027,6.9782474e-12,0.9553072,0.00012258804
+original/MildDemented/mildDem501.jpg,MildDemented,MildDemented,0.9848315,0.9848315,2.1336125e-10,4.411537e-05,0.015124372
+original/MildDemented/mildDem506.jpg,MildDemented,NonDemented,0.50477624,0.3655744,3.9161428e-08,0.50477624,0.12964943
+original/MildDemented/mildDem513.jpg,MildDemented,MildDemented,0.98816097,0.98816097,1.0363286e-11,0.0056363856,0.006202695
+original/MildDemented/mildDem516.jpg,MildDemented,VeryMildDemented,0.99408245,0.005676787,3.1503344e-10,0.00024078564,0.99408245
+original/MildDemented/mildDem521.jpg,MildDemented,MildDemented,0.9527711,0.9527711,5.842079e-05,0.026809478,0.020360932
+original/MildDemented/mildDem528.jpg,MildDemented,MildDemented,0.52154124,0.52154124,5.389032e-13,0.0021302346,0.47632855
+original/MildDemented/mildDem530.jpg,MildDemented,ModerateDemented,0.65975636,0.3350544,0.65975636,0.000114919974,0.0050743828
+original/MildDemented/mildDem536.jpg,MildDemented,MildDemented,0.9997195,0.9997195,7.34759e-07,2.680145e-06,0.00027712234
+original/MildDemented/mildDem537.jpg,MildDemented,MildDemented,0.8662385,0.8662385,0.02711635,0.08282908,0.0238161
+original/MildDemented/mildDem553.jpg,MildDemented,MildDemented,0.8109472,0.8109472,6.6588424e-10,0.0048964955,0.18415627
+original/MildDemented/mildDem56.jpg,MildDemented,MildDemented,0.99982864,0.99982864,7.006383e-06,0.00015503899,9.391394e-06
+original/MildDemented/mildDem569.jpg,MildDemented,MildDemented,0.9920044,0.9920044,4.379912e-07,0.0022691998,0.005725926
+original/MildDemented/mildDem572.jpg,MildDemented,MildDemented,0.95120513,0.95120513,8.855506e-16,0.0011145885,0.04768028
+original/MildDemented/mildDem583.jpg,MildDemented,MildDemented,0.9350064,0.9350064,1.8058611e-13,0.008715371,0.056278273
+original/MildDemented/mildDem59.jpg,MildDemented,VeryMildDemented,0.77897114,0.22067735,1.7804547e-13,0.00035152317,0.77897114
+original/MildDemented/mildDem594.jpg,MildDemented,VeryMildDemented,0.8116716,0.18744045,7.974474e-05,0.00080813805,0.8116716
+original/MildDemented/mildDem599.jpg,MildDemented,VeryMildDemented,0.7861094,0.1170691,0.051362853,0.04545865,0.7861094
+original/MildDemented/mildDem617.jpg,MildDemented,MildDemented,0.9654344,0.9654344,0.0004079409,0.009162992,0.02499472
+original/MildDemented/mildDem631.jpg,MildDemented,MildDemented,0.8079322,0.8079322,1.3497833e-24,0.016255291,0.17581251
+original/MildDemented/mildDem637.jpg,MildDemented,MildDemented,0.999599,0.999599,7.366549e-10,0.00021436825,0.00018661917
+original/MildDemented/mildDem651.jpg,MildDemented,VeryMildDemented,0.64004606,0.030667339,8.80047e-13,0.32928663,0.64004606
+original/MildDemented/mildDem653.jpg,MildDemented,VeryMildDemented,0.52558935,0.4743428,3.9635666e-15,6.7863104e-05,0.52558935
+original/MildDemented/mildDem663.jpg,MildDemented,VeryMildDemented,0.62016463,0.0062478594,1.3099043e-05,0.37357438,0.62016463
+original/MildDemented/mildDem665.jpg,MildDemented,MildDemented,0.99832726,0.99832726,1.6513256e-09,0.00030334803,0.0013694114
+original/MildDemented/mildDem668.jpg,MildDemented,MildDemented,0.995774,0.995774,3.9490845e-12,0.0028129339,0.0014131326
+original/MildDemented/mildDem676.jpg,MildDemented,MildDemented,0.99921685,0.99921685,1.1628812e-05,4.8789584e-06,0.0007666521
+original/MildDemented/mildDem697.jpg,MildDemented,MildDemented,0.97392625,0.97392625,6.7127137e-15,0.00010513697,0.025968611
+original/MildDemented/mildDem712.jpg,MildDemented,MildDemented,0.99445486,0.99445486,1.5276506e-09,0.0005982152,0.004946885
+original/MildDemented/mildDem75.jpg,MildDemented,VeryMildDemented,0.9124554,6.0814227e-06,4.288062e-06,0.08753425,0.9124554
+original/MildDemented/mildDem85.jpg,MildDemented,VeryMildDemented,0.9897249,0.0030853085,0.0047057336,0.0024840399,0.9897249
+original/MildDemented/mildDem96.jpg,MildDemented,NonDemented,0.9854226,0.006157773,8.2043306e-14,0.9854226,0.008419605
+original/ModerateDemented/27.jpg,ModerateDemented,ModerateDemented,0.99996793,4.0902918e-07,0.99996793,1.4479105e-05,1.733436e-05
+original/ModerateDemented/moderateDem0.jpg,ModerateDemented,MildDemented,0.98337966,0.98337966,0.016435012,5.144849e-06,0.0001801468
+original/ModerateDemented/moderateDem13.jpg,ModerateDemented,ModerateDemented,0.9994667,2.8830348e-07,0.9994667,0.0005281901,4.725365e-06
+original/ModerateDemented/moderateDem17.jpg,ModerateDemented,ModerateDemented,0.9998305,1.0260918e-05,0.9998305,0.00015793799,1.3692206e-06
+original/ModerateDemented/moderateDem21.jpg,ModerateDemented,ModerateDemented,0.9998062,9.302587e-07,0.9998062,1.900101e-05,0.00017382948
+original/ModerateDemented/moderateDem30.jpg,ModerateDemented,ModerateDemented,0.95988166,0.040116265,0.95988166,9.880458e-07,9.846746e-07
+original/ModerateDemented/moderateDem38.jpg,ModerateDemented,ModerateDemented,0.99972636,0.00011810865,0.99972636,1.4661869e-05,0.0001408505
+original/ModerateDemented/moderateDem48.jpg,ModerateDemented,ModerateDemented,0.99988294,1.9168667e-05,0.99988294,8.3716455e-05,1.4220189e-05
+original/ModerateDemented/moderateDem51.jpg,ModerateDemented,ModerateDemented,0.99996674,1.160403e-05,0.99996674,7.527822e-06,1.4155595e-05
+original/ModerateDemented/moderateDem7.jpg,ModerateDemented,ModerateDemented,0.9997911,1.1179932e-05,0.9997911,0.00014406322,5.3594395e-05
+original/NonDemented/26 (69).jpg,NonDemented,NonDemented,0.99534243,6.605664e-05,2.2844602e-06,0.99534243,0.004589169
+original/NonDemented/26 (72).jpg,NonDemented,VeryMildDemented,0.9071966,5.6077516e-07,2.121347e-12,0.09280282,0.9071966
+original/NonDemented/26 (73).jpg,NonDemented,NonDemented,0.513095,3.802329e-08,4.747055e-19,0.513095,0.48690495
+original/NonDemented/26 (74).jpg,NonDemented,VeryMildDemented,0.7218171,0.14517619,1.7740401e-11,0.13300675,0.7218171
+original/NonDemented/26 (89).jpg,NonDemented,MildDemented,0.97841036,0.97841036,1.9891797e-10,0.0022760371,0.019313587
+original/NonDemented/26 (91).jpg,NonDemented,NonDemented,0.70923823,0.016669488,3.4206703e-05,0.70923823,0.27405804
+original/NonDemented/26 (95).jpg,NonDemented,NonDemented,0.99795884,1.777829e-05,0.0006838288,0.99795884,0.0013394549
+original/NonDemented/26 (96).jpg,NonDemented,NonDemented,0.99232405,4.768285e-07,5.6916266e-10,0.99232405,0.0076754577
+original/NonDemented/27 (13).jpg,NonDemented,NonDemented,0.9948654,1.2538109e-06,8.5867076e-19,0.9948654,0.0051333765
+original/NonDemented/27 (16).jpg,NonDemented,NonDemented,0.60886264,0.00020784308,9.189722e-21,0.60886264,0.39092946
+original/NonDemented/27 (27).jpg,NonDemented,NonDemented,0.8388391,0.018044807,1.1726656e-15,0.8388391,0.14311612
+original/NonDemented/27 (31).jpg,NonDemented,VeryMildDemented,0.94192886,0.020089507,4.2201518e-13,0.037981622,0.94192886
+original/NonDemented/27 (32).jpg,NonDemented,NonDemented,0.9903289,0.009262129,9.965362e-12,0.9903289,0.0004089943
+original/NonDemented/27 (38).jpg,NonDemented,MildDemented,0.8787112,0.8787112,1.3696967e-13,0.121229716,5.8998958e-05
+original/NonDemented/27 (41).jpg,NonDemented,VeryMildDemented,0.50715834,1.0111462e-05,6.615509e-17,0.49283156,0.50715834
+original/NonDemented/27 (46).jpg,NonDemented,VeryMildDemented,0.8178534,0.0060170563,2.8869377e-14,0.17612952,0.8178534
+original/NonDemented/27 (47).jpg,NonDemented,NonDemented,0.98588735,8.093342e-06,3.1811138e-15,0.98588735,0.014104591
+original/NonDemented/27 (49).jpg,NonDemented,VeryMildDemented,0.61874545,0.00092327944,7.439553e-11,0.38033125,0.61874545
+original/NonDemented/27 (6).jpg,NonDemented,NonDemented,0.99889016,4.0330673e-07,5.4965814e-09,0.99889016,0.0011094097
+original/NonDemented/27 (66).jpg,NonDemented,NonDemented,0.975047,1.27147395e-08,7.3312526e-13,0.975047,0.024952982
+original/NonDemented/27 (83).jpg,NonDemented,NonDemented,0.990183,6.4120464e-09,7.064843e-13,0.990183,0.00981703
+original/NonDemented/28 (15).jpg,NonDemented,VeryMildDemented,0.9747076,0.012301339,5.3005832e-11,0.012991067,0.9747076
+original/NonDemented/28 (19).jpg,NonDemented,NonDemented,0.99973756,8.2344263e-07,5.892754e-14,0.99973756,0.00026156942
+original/NonDemented/28 (29).jpg,NonDemented,NonDemented,0.94890445,1.6344547e-05,1.0513465e-11,0.94890445,0.051079214
+original/NonDemented/28 (30).jpg,NonDemented,MildDemented,0.98372877,0.98372877,1.5037903e-11,0.003388371,0.012882892
+original/NonDemented/28 (40).jpg,NonDemented,NonDemented,0.9994319,5.8253218e-06,2.0227524e-13,0.9994319,0.0005622214
+original/NonDemented/28 (46).jpg,NonDemented,NonDemented,0.55987704,7.73749e-05,3.8014673e-17,0.55987704,0.44004554
+original/NonDemented/28 (47).jpg,NonDemented,NonDemented,0.964591,5.923994e-07,2.3466947e-11,0.964591,0.035408363
+original/NonDemented/28 (51).jpg,NonDemented,NonDemented,0.99971837,2.1346268e-05,1.670636e-05,0.99971837,0.00024360298
+original/NonDemented/28 (57).jpg,NonDemented,NonDemented,0.9815208,4.4157986e-07,9.790426e-11,0.9815208,0.01847878
+original/NonDemented/28 (59).jpg,NonDemented,VeryMildDemented,0.99332297,0.0037643346,5.7312935e-12,0.0029127286,0.99332297
+original/NonDemented/28 (60).jpg,NonDemented,NonDemented,0.99009913,1.4588307e-05,1.5470032e-10,0.99009913,0.009886211
+original/NonDemented/28 (73).jpg,NonDemented,VeryMildDemented,0.56536347,1.9657791e-06,8.153291e-18,0.4346345,0.56536347
+original/NonDemented/28 (74).jpg,NonDemented,VeryMildDemented,0.8494951,0.14868447,1.2294852e-12,0.0018204274,0.8494951
+original/NonDemented/28 (80).jpg,NonDemented,NonDemented,0.5733313,0.42622626,3.5467207e-07,0.5733313,0.0004421722
+original/NonDemented/28 (87).jpg,NonDemented,NonDemented,0.98450494,5.0766765e-08,1.4576752e-15,0.98450494,0.015494964
+original/NonDemented/28 (90).jpg,NonDemented,VeryMildDemented,0.8485917,0.005289502,1.1923613e-15,0.1461188,0.8485917
+original/NonDemented/28 (91).jpg,NonDemented,VeryMildDemented,0.9705253,3.0815825e-06,1.1758004e-08,0.02947156,0.9705253
+original/NonDemented/28 (94).jpg,NonDemented,MildDemented,0.8628514,0.8628514,5.6607705e-11,0.0034607796,0.13368782
+original/NonDemented/28 (97).jpg,NonDemented,NonDemented,0.9979874,6.056961e-05,6.236349e-08,0.9979874,0.0019519567
+original/NonDemented/29 (12).jpg,NonDemented,NonDemented,0.9992708,8.272749e-08,2.7086974e-12,0.9992708,0.00072916696
+original/NonDemented/29 (13).jpg,NonDemented,NonDemented,0.9755634,2.8402384e-05,1.2586884e-12,0.9755634,0.024408171
+original/NonDemented/29 (18).jpg,NonDemented,NonDemented,0.88120973,4.1701842e-05,4.9209814e-16,0.88120973,0.118748546
+original/NonDemented/29 (19).jpg,NonDemented,NonDemented,0.9995988,0.0002914475,1.7423619e-16,0.9995988,0.00010973098
+original/NonDemented/29 (20).jpg,NonDemented,NonDemented,0.90738803,1.0686606e-07,2.005722e-18,0.90738803,0.09261188
+original/NonDemented/29 (21).jpg,NonDemented,NonDemented,0.6138064,0.00012833724,3.5788292e-21,0.6138064,0.3860653
+original/NonDemented/29 (26).jpg,NonDemented,NonDemented,0.73778343,0.0004403667,1.5288799e-15,0.73778343,0.2617762
+original/NonDemented/29 (27).jpg,NonDemented,VeryMildDemented,0.62190473,3.0617754e-05,2.8208194e-15,0.3780647,0.62190473
+original/NonDemented/29 (34).jpg,NonDemented,NonDemented,0.9987815,0.0007633813,2.6321852e-17,0.9987815,0.00045504674
+original/NonDemented/29 (38).jpg,NonDemented,NonDemented,0.997565,0.0019267139,7.445155e-12,0.997565,0.00050830276
+original/NonDemented/29 (44).jpg,NonDemented,NonDemented,0.9997392,1.1904478e-06,5.803404e-12,0.9997392,0.0002595983
+original/NonDemented/29 (45).jpg,NonDemented,NonDemented,0.9704735,0.0005750242,0.00043730924,0.9704735,0.028514223
+original/NonDemented/29 (54).jpg,NonDemented,NonDemented,0.99343115,2.180416e-08,9.609749e-13,0.99343115,0.006568782
+original/NonDemented/29 (61).jpg,NonDemented,NonDemented,0.96935296,9.970569e-07,2.1168553e-12,0.96935296,0.030646026
+original/NonDemented/29 (68).jpg,NonDemented,NonDemented,0.9915565,0.001069796,2.7562232e-16,0.9915565,0.0073736995
+original/NonDemented/29 (70).jpg,NonDemented,NonDemented,0.9998375,1.011364e-06,5.909494e-11,0.9998375,0.000161507
+original/NonDemented/29 (8).jpg,NonDemented,NonDemented,0.99966973,8.0142183e-07,8.48964e-09,0.99966973,0.0003294371
+original/NonDemented/29 (88).jpg,NonDemented,NonDemented,0.9999471,9.086629e-07,4.3595346e-08,0.9999471,5.1998508e-05
+original/NonDemented/29 (96).jpg,NonDemented,NonDemented,0.9999027,5.8208843e-07,9.467774e-08,0.9999027,9.656175e-05
+original/NonDemented/29 (99).jpg,NonDemented,NonDemented,0.8171806,0.013714086,7.739157e-18,0.8171806,0.16910529
+original/NonDemented/30 (16).jpg,NonDemented,NonDemented,0.83417916,7.679095e-07,6.656611e-15,0.83417916,0.16582002
+original/NonDemented/30 (20).jpg,NonDemented,NonDemented,0.9510749,1.8126901e-06,1.4043573e-16,0.9510749,0.048923224
+original/NonDemented/30 (22).jpg,NonDemented,NonDemented,0.99960417,1.3727119e-09,0.00020638487,0.99960417,0.00018946991
+original/NonDemented/30 (47).jpg,NonDemented,NonDemented,0.74398154,1.861607e-07,9.772737e-15,0.74398154,0.25601825
+original/NonDemented/30 (56).jpg,NonDemented,NonDemented,0.98119307,0.001995115,7.789198e-08,0.98119307,0.0168118
+original/NonDemented/30 (58).jpg,NonDemented,NonDemented,0.8818301,0.0010486669,5.6692623e-11,0.8818301,0.11712122
+original/NonDemented/30 (61).jpg,NonDemented,NonDemented,0.9963057,0.0036026032,1.7848739e-10,0.9963057,9.172712e-05
+original/NonDemented/30 (68).jpg,NonDemented,NonDemented,0.64410883,0.27492148,3.739713e-18,0.64410883,0.0809697
+original/NonDemented/30 (78).jpg,NonDemented,NonDemented,0.9841556,2.371857e-05,1.4297913e-14,0.9841556,0.015820641
+original/NonDemented/30 (84).jpg,NonDemented,NonDemented,0.86726916,6.5413333e-06,4.4147384e-19,0.86726916,0.13272434
+original/NonDemented/30 (86).jpg,NonDemented,NonDemented,0.9809592,0.00088310643,1.8216058e-22,0.9809592,0.018157702
+original/NonDemented/30 (93).jpg,NonDemented,NonDemented,0.99850714,5.8426235e-07,3.969709e-16,0.99850714,0.001492248
+original/NonDemented/31 (12).jpg,NonDemented,NonDemented,0.9986413,0.0013493863,2.317161e-14,0.9986413,9.282974e-06
+original/NonDemented/31 (17).jpg,NonDemented,NonDemented,0.99080956,0.0068648322,2.5317288e-06,0.99080956,0.0023230212
+original/NonDemented/31 (35).jpg,NonDemented,VeryMildDemented,0.86757636,0.00018466047,5.490658e-06,0.1322335,0.86757636
+original/NonDemented/31 (38).jpg,NonDemented,NonDemented,0.9257754,0.073287934,0.0006252597,0.9257754,0.00031153348
+original/NonDemented/31 (4).jpg,NonDemented,NonDemented,0.9727816,0.00016744442,4.4342475e-24,0.9727816,0.027050946
+original/NonDemented/31 (41).jpg,NonDemented,VeryMildDemented,0.861356,0.0008035023,4.7395288e-14,0.1378405,0.861356
+original/NonDemented/31 (54).jpg,NonDemented,NonDemented,0.6885099,5.3579e-08,2.694316e-16,0.6885099,0.3114901
+original/NonDemented/31 (55).jpg,NonDemented,ModerateDemented,0.65260077,0.0105434805,0.65260077,0.33065918,0.006196589
+original/NonDemented/31 (84).jpg,NonDemented,NonDemented,0.998758,3.0613293e-05,2.831458e-16,0.998758,0.0012113913
+original/NonDemented/31 (85).jpg,NonDemented,NonDemented,0.99720037,3.8030423e-06,1.2634969e-17,0.99720037,0.002795861
+original/NonDemented/31 (90).jpg,NonDemented,NonDemented,0.9838016,0.0018699652,1.9353555e-15,0.9838016,0.014328456
+original/NonDemented/31 (91).jpg,NonDemented,VeryMildDemented,0.9876107,0.00010608043,2.7566946e-08,0.0122831445,0.9876107
+original/NonDemented/32 (11).jpg,NonDemented,VeryMildDemented,0.84135664,0.15805666,7.5635135e-08,0.0005866181,0.84135664
+original/NonDemented/32 (36).jpg,NonDemented,NonDemented,0.999605,0.00013423707,7.1053535e-14,0.999605,0.00026076997
+original/NonDemented/32 (38).jpg,NonDemented,NonDemented,0.98906106,0.010787991,2.3570145e-05,0.98906106,0.00012739075
+original/NonDemented/32 (54).jpg,NonDemented,NonDemented,0.9990791,7.453842e-05,2.7722542e-12,0.9990791,0.0008463967
+original/NonDemented/32 (62).jpg,NonDemented,NonDemented,0.984162,1.0673642e-05,1.6710373e-15,0.984162,0.015827421
+original/NonDemented/32 (66).jpg,NonDemented,NonDemented,0.9985436,1.10907185e-05,1.0935206e-06,0.9985436,0.0014441188
+original/NonDemented/32 (69).jpg,NonDemented,MildDemented,0.7940999,0.7940999,6.0672126e-19,0.05617222,0.14972782
+original/NonDemented/32 (72).jpg,NonDemented,NonDemented,0.8982918,0.0001783673,1.4766698e-08,0.8982918,0.10152974
+original/NonDemented/32 (81).jpg,NonDemented,NonDemented,0.9935349,0.00036930887,1.6020808e-09,0.9935349,0.0060957507
+original/NonDemented/nonDem1003.jpg,NonDemented,NonDemented,0.9999667,3.0266241e-05,3.302282e-10,0.9999667,3.0573813e-06
+original/NonDemented/nonDem1004.jpg,NonDemented,NonDemented,0.9977342,0.00063712074,2.09852e-18,0.9977342,0.0016287416
+original/NonDemented/nonDem1012.jpg,NonDemented,VeryMildDemented,0.46535125,0.31374812,2.296974e-10,0.22090064,0.46535125
+original/NonDemented/nonDem1019.jpg,NonDemented,NonDemented,0.9313834,0.00010227691,3.2046373e-05,0.9313834,0.06848234
+original/NonDemented/nonDem1021.jpg,NonDemented,NonDemented,0.9991419,0.0003606245,3.2458787e-09,0.9991419,0.00049745326
+original/NonDemented/nonDem1026.jpg,NonDemented,NonDemented,0.9997513,8.084191e-05,2.0331443e-08,0.9997513,0.00016780681
+original/NonDemented/nonDem1031.jpg,NonDemented,NonDemented,0.99522966,8.6039894e-05,6.988258e-14,0.99522966,0.0046842764
+original/NonDemented/nonDem1050.jpg,NonDemented,VeryMildDemented,0.9920994,0.005586234,5.7940347e-06,0.0023085682,0.9920994
+original/NonDemented/nonDem1052.jpg,NonDemented,NonDemented,0.9993349,3.706336e-07,8.693431e-17,0.9993349,0.0006647704
+original/NonDemented/nonDem1053.jpg,NonDemented,NonDemented,0.9893195,0.0009945248,3.7188617e-13,0.9893195,0.009686018
+original/NonDemented/nonDem1060.jpg,NonDemented,NonDemented,0.86087215,3.9587026e-06,1.0153271e-11,0.86087215,0.13912393
+original/NonDemented/nonDem1061.jpg,NonDemented,NonDemented,0.996556,0.00066130026,8.505709e-13,0.996556,0.002782778
+original/NonDemented/nonDem1066.jpg,NonDemented,VeryMildDemented,0.9982665,2.9110159e-05,0.0010106489,0.00069370936,0.9982665
+original/NonDemented/nonDem1071.jpg,NonDemented,MildDemented,0.9737591,0.9737591,4.4649414e-06,0.0060238866,0.020212565
+original/NonDemented/nonDem108.jpg,NonDemented,NonDemented,0.9751843,0.024218021,3.678191e-10,0.9751843,0.0005976281
+original/NonDemented/nonDem1080.jpg,NonDemented,NonDemented,0.9930282,0.00017777122,0.006124375,0.9930282,0.00066964485
+original/NonDemented/nonDem1092.jpg,NonDemented,NonDemented,0.99609786,1.920144e-06,3.6103145e-09,0.99609786,0.0039001955
+original/NonDemented/nonDem11.jpg,NonDemented,NonDemented,0.9997991,6.118342e-08,8.383894e-07,0.9997991,0.00020005231
+original/NonDemented/nonDem1108.jpg,NonDemented,VeryMildDemented,0.96683407,0.00012435894,1.164366e-13,0.033041533,0.96683407
+original/NonDemented/nonDem1115.jpg,NonDemented,NonDemented,0.7414381,0.083878264,4.6898826e-12,0.7414381,0.17468368
+original/NonDemented/nonDem1117.jpg,NonDemented,NonDemented,0.9999298,1.3646915e-07,3.3516347e-12,0.9999298,7.005116e-05
+original/NonDemented/nonDem1124.jpg,NonDemented,VeryMildDemented,0.94707525,0.032839242,1.1720431e-07,0.020085339,0.94707525
+original/NonDemented/nonDem1127.jpg,NonDemented,NonDemented,0.9997234,7.023169e-07,1.5096318e-06,0.9997234,0.00027441655
+original/NonDemented/nonDem1136.jpg,NonDemented,NonDemented,0.5639156,1.303959e-06,1.4834993e-18,0.5639156,0.4360831
+original/NonDemented/nonDem1157.jpg,NonDemented,NonDemented,0.9516045,4.954695e-05,2.6242684e-15,0.9516045,0.048346
+original/NonDemented/nonDem1166.jpg,NonDemented,VeryMildDemented,0.91676474,0.0011691414,2.7452063e-06,0.08206333,0.91676474
+original/NonDemented/nonDem1169.jpg,NonDemented,NonDemented,0.9900524,1.2065237e-08,1.1814684e-05,0.9900524,0.009935758
+original/NonDemented/nonDem1171.jpg,NonDemented,NonDemented,0.9968193,0.0025455656,1.22482815e-08,0.9968193,0.0006351682
+original/NonDemented/nonDem1174.jpg,NonDemented,NonDemented,0.9979537,8.031732e-06,1.3461863e-15,0.9979537,0.0020382488
+original/NonDemented/nonDem1178.jpg,NonDemented,NonDemented,0.99288964,6.888322e-05,2.2354772e-07,0.99288964,0.0070411656
+original/NonDemented/nonDem1179.jpg,NonDemented,NonDemented,0.99560696,2.5101328e-05,4.8360784e-13,0.99560696,0.0043679895
+original/NonDemented/nonDem118.jpg,NonDemented,VeryMildDemented,0.8288385,1.7970438e-05,6.9320863e-06,0.17113653,0.8288385
+original/NonDemented/nonDem1186.jpg,NonDemented,NonDemented,0.9810786,0.018841429,4.7415576e-14,0.9810786,7.9906444e-05
+original/NonDemented/nonDem120.jpg,NonDemented,NonDemented,0.92940825,0.0027437506,7.2292344e-14,0.92940825,0.06784802
+original/NonDemented/nonDem1203.jpg,NonDemented,NonDemented,0.9972802,0.0026871988,8.7895946e-10,0.9972802,3.2617034e-05
+original/NonDemented/nonDem1204.jpg,NonDemented,NonDemented,0.9963527,2.3107357e-06,6.066042e-18,0.9963527,0.003644961
+original/NonDemented/nonDem1206.jpg,NonDemented,NonDemented,0.99824107,0.0015744524,5.6929322e-12,0.99824107,0.00018456351
+original/NonDemented/nonDem1208.jpg,NonDemented,NonDemented,0.48905894,0.34502158,6.1965343e-06,0.48905894,0.16591328
+original/NonDemented/nonDem1213.jpg,NonDemented,NonDemented,0.9352332,4.4411442e-07,1.1754382e-13,0.9352332,0.06476634
+original/NonDemented/nonDem1215.jpg,NonDemented,NonDemented,0.56123936,0.0021421881,5.6870903e-08,0.56123936,0.43661842
+original/NonDemented/nonDem1217.jpg,NonDemented,NonDemented,0.9998449,1.7295703e-07,1.235318e-14,0.9998449,0.00015493899
+original/NonDemented/nonDem1224.jpg,NonDemented,VeryMildDemented,0.49103028,0.040341947,4.5221327e-07,0.46862724,0.49103028
+original/NonDemented/nonDem1237.jpg,NonDemented,NonDemented,0.9997181,7.3418482e-06,1.7787824e-10,0.9997181,0.00027453512
+original/NonDemented/nonDem1241.jpg,NonDemented,NonDemented,0.763279,5.5929545e-06,4.881875e-14,0.763279,0.2367154
+original/NonDemented/nonDem1242.jpg,NonDemented,NonDemented,0.8948138,0.00034998817,6.2038814e-14,0.8948138,0.10483618
+original/NonDemented/nonDem1249.jpg,NonDemented,NonDemented,0.9994827,2.1115777e-06,1.3441686e-05,0.9994827,0.00050171214
+original/NonDemented/nonDem1257.jpg,NonDemented,NonDemented,0.7040285,4.4722762e-07,3.6390376e-13,0.7040285,0.29597107
+original/NonDemented/nonDem1270.jpg,NonDemented,VeryMildDemented,0.64666235,5.79314e-05,0.014828582,0.33845115,0.64666235
+original/NonDemented/nonDem1278.jpg,NonDemented,NonDemented,0.9857521,0.0069341823,1.1360959e-08,0.9857521,0.007313709
+original/NonDemented/nonDem128.jpg,NonDemented,VeryMildDemented,0.96760166,0.030198544,2.2331252e-09,0.0021998468,0.96760166
+original/NonDemented/nonDem1280.jpg,NonDemented,VeryMildDemented,0.5573324,0.0028669054,4.6031968e-05,0.43975464,0.5573324
+original/NonDemented/nonDem1306.jpg,NonDemented,NonDemented,0.9997523,0.0002365597,2.7856717e-11,0.9997523,1.1183398e-05
+original/NonDemented/nonDem1312.jpg,NonDemented,NonDemented,0.9687045,3.455968e-06,8.8362845e-05,0.9687045,0.031203635
+original/NonDemented/nonDem1327.jpg,NonDemented,NonDemented,0.93431985,7.206369e-05,3.725146e-17,0.93431985,0.06560804
+original/NonDemented/nonDem1337.jpg,NonDemented,NonDemented,0.99799657,8.630753e-07,7.307654e-07,0.99799657,0.0020018877
+original/NonDemented/nonDem1345.jpg,NonDemented,NonDemented,0.63505775,0.00010849133,2.8393474e-06,0.63505775,0.3648309
+original/NonDemented/nonDem1361.jpg,NonDemented,NonDemented,0.98892045,5.7312158e-05,1.3238389e-12,0.98892045,0.011022246
+original/NonDemented/nonDem1367.jpg,NonDemented,NonDemented,0.98892593,6.2865815e-06,3.7022706e-18,0.98892593,0.011067808
+original/NonDemented/nonDem1370.jpg,NonDemented,NonDemented,0.8609372,0.004185035,4.07662e-05,0.8609372,0.13483696
+original/NonDemented/nonDem138.jpg,NonDemented,NonDemented,0.9999478,2.1177532e-07,1.0470902e-05,0.9999478,4.1483367e-05
+original/NonDemented/nonDem1381.jpg,NonDemented,NonDemented,0.9528261,1.7573782e-09,8.166731e-07,0.9528261,0.04717308
+original/NonDemented/nonDem1389.jpg,NonDemented,NonDemented,0.9984226,0.00013972807,2.6924414e-09,0.9984226,0.0014376253
+original/NonDemented/nonDem1399.jpg,NonDemented,NonDemented,0.9045324,0.0005762902,3.0375215e-08,0.9045324,0.09489129
+original/NonDemented/nonDem1401.jpg,NonDemented,NonDemented,0.94660187,0.0094445525,1.7621695e-13,0.94660187,0.043953564
+original/NonDemented/nonDem141.jpg,NonDemented,NonDemented,0.9990285,0.00015479547,1.7706238e-11,0.9990285,0.00081669405
+original/NonDemented/nonDem1418.jpg,NonDemented,VeryMildDemented,0.5474006,5.9043414e-05,5.2848095e-09,0.45254034,0.5474006
+original/NonDemented/nonDem1422.jpg,NonDemented,NonDemented,0.8548608,0.14466617,9.1871215e-12,0.8548608,0.00047313594
+original/NonDemented/nonDem1427.jpg,NonDemented,NonDemented,0.9974649,7.773422e-06,3.1512095e-13,0.9974649,0.0025273361
+original/NonDemented/nonDem143.jpg,NonDemented,NonDemented,0.99877065,1.2084977e-06,1.7522807e-07,0.99877065,0.0012279508
+original/NonDemented/nonDem1436.jpg,NonDemented,NonDemented,0.53131545,1.3775852e-06,1.1107574e-16,0.53131545,0.46868315
+original/NonDemented/nonDem1447.jpg,NonDemented,ModerateDemented,0.9917938,0.0002013873,0.9917938,0.007966059,3.8740895e-05
+original/NonDemented/nonDem1448.jpg,NonDemented,NonDemented,0.9495496,5.6645717e-05,0.00014493574,0.9495496,0.05024879
+original/NonDemented/nonDem1459.jpg,NonDemented,NonDemented,0.99963987,4.602857e-09,3.7438306e-06,0.99963987,0.00035638467
+original/NonDemented/nonDem1464.jpg,NonDemented,NonDemented,0.97997814,0.015378368,0.0003642905,0.97997814,0.004279223
+original/NonDemented/nonDem1476.jpg,NonDemented,NonDemented,0.87110144,2.8398888e-06,1.1934969e-06,0.87110144,0.12889454
+original/NonDemented/nonDem1481.jpg,NonDemented,NonDemented,0.9915864,1.9946093e-07,7.599561e-08,0.9915864,0.008413324
+original/NonDemented/nonDem1483.jpg,NonDemented,NonDemented,0.9725923,8.8746056e-05,4.5911808e-10,0.9725923,0.027318895
+original/NonDemented/nonDem1484.jpg,NonDemented,NonDemented,0.9996647,3.716462e-08,2.3145572e-10,0.9996647,0.00033526673
+original/NonDemented/nonDem1485.jpg,NonDemented,NonDemented,0.9886228,2.8188225e-09,2.7293019e-11,0.9886228,0.011377253
+original/NonDemented/nonDem1493.jpg,NonDemented,NonDemented,0.950192,0.005945243,6.686649e-07,0.950192,0.043862175
+original/NonDemented/nonDem1503.jpg,NonDemented,NonDemented,0.9944524,0.0046864273,1.5059057e-13,0.9944524,0.00086115213
+original/NonDemented/nonDem151.jpg,NonDemented,VeryMildDemented,0.43687102,0.2626044,7.2144607e-10,0.3005246,0.43687102
+original/NonDemented/nonDem1511.jpg,NonDemented,NonDemented,0.999829,9.67832e-06,5.6947832e-11,0.999829,0.00016127268
+original/NonDemented/nonDem1515.jpg,NonDemented,MildDemented,0.8850333,0.8850333,0.08510428,0.019879602,0.009982849
+original/NonDemented/nonDem1518.jpg,NonDemented,NonDemented,0.99857926,0.00037442363,8.355107e-07,0.99857926,0.0010454612
+original/NonDemented/nonDem1522.jpg,NonDemented,NonDemented,0.99768406,0.0021467688,3.2741396e-09,0.99768406,0.00016921613
+original/NonDemented/nonDem1523.jpg,NonDemented,NonDemented,0.63028693,9.181335e-06,3.6520557e-12,0.63028693,0.36970392
+original/NonDemented/nonDem1527.jpg,NonDemented,NonDemented,0.9995004,0.00026761644,2.701531e-15,0.9995004,0.00023194386
+original/NonDemented/nonDem1535.jpg,NonDemented,VeryMildDemented,0.6249653,2.32092e-05,2.0050026e-09,0.3750115,0.6249653
+original/NonDemented/nonDem1537.jpg,NonDemented,NonDemented,0.9983214,1.842402e-07,2.1774267e-06,0.9983214,0.0016761925
+original/NonDemented/nonDem1541.jpg,NonDemented,NonDemented,0.8713657,7.920823e-08,1.8916248e-07,0.8713657,0.12863402
+original/NonDemented/nonDem1553.jpg,NonDemented,NonDemented,0.94760275,3.0098103e-05,1.4932497e-09,0.94760275,0.052367087
+original/NonDemented/nonDem1556.jpg,NonDemented,MildDemented,0.9278613,0.9278613,2.4588538e-14,0.009896188,0.06224252
+original/NonDemented/nonDem1563.jpg,NonDemented,NonDemented,0.9741515,0.021301357,5.556994e-12,0.9741515,0.0045471736
+original/NonDemented/nonDem1566.jpg,NonDemented,NonDemented,0.9977559,0.00026469876,1.0253953e-12,0.9977559,0.0019794537
+original/NonDemented/nonDem1572.jpg,NonDemented,VeryMildDemented,0.5285824,0.38231117,1.1768488e-10,0.08910637,0.5285824
+original/NonDemented/nonDem1573.jpg,NonDemented,NonDemented,0.98379695,6.704331e-07,3.6819674e-06,0.98379695,0.01619863
+original/NonDemented/nonDem1574.jpg,NonDemented,NonDemented,0.9962354,2.785834e-08,4.374891e-11,0.9962354,0.0037645958
+original/NonDemented/nonDem1581.jpg,NonDemented,NonDemented,0.9964154,1.29933e-06,2.7159212e-08,0.9964154,0.0035833295
+original/NonDemented/nonDem1591.jpg,NonDemented,VeryMildDemented,0.9686746,6.274169e-05,9.769672e-14,0.031262662,0.9686746
+original/NonDemented/nonDem1598.jpg,NonDemented,NonDemented,0.6944768,3.7339545e-05,2.760633e-07,0.6944768,0.30548555
+original/NonDemented/nonDem1599.jpg,NonDemented,NonDemented,0.95937353,0.019085048,2.9197978e-05,0.95937353,0.02151227
+original/NonDemented/nonDem1602.jpg,NonDemented,NonDemented,0.53849405,0.020458741,3.2613696e-11,0.53849405,0.44104722
+original/NonDemented/nonDem1604.jpg,NonDemented,NonDemented,0.99987864,1.5405885e-08,6.0423845e-12,0.99987864,0.00012138513
+original/NonDemented/nonDem1607.jpg,NonDemented,NonDemented,0.97517526,8.6105465e-05,2.504238e-07,0.97517526,0.024738394
+original/NonDemented/nonDem1612.jpg,NonDemented,NonDemented,0.9443429,4.0514195e-07,2.776019e-06,0.9443429,0.055653892
+original/NonDemented/nonDem1635.jpg,NonDemented,NonDemented,0.99094385,1.4617731e-05,5.0835527e-09,0.99094385,0.009041517
+original/NonDemented/nonDem1639.jpg,NonDemented,NonDemented,0.972647,5.050317e-07,5.26427e-12,0.972647,0.027352523
+original/NonDemented/nonDem1644.jpg,NonDemented,MildDemented,0.97288233,0.97288233,2.2797965e-06,0.0059962845,0.021119092
+original/NonDemented/nonDem1646.jpg,NonDemented,NonDemented,0.8860208,0.00022521951,2.1800443e-14,0.8860208,0.11375396
+original/NonDemented/nonDem1647.jpg,NonDemented,NonDemented,0.75986505,0.0007179726,0.23933998,0.75986505,7.69791e-05
+original/NonDemented/nonDem1664.jpg,NonDemented,NonDemented,0.9182055,0.020895436,0.0033870924,0.9182055,0.05751196
+original/NonDemented/nonDem1674.jpg,NonDemented,NonDemented,0.99617964,9.725121e-08,7.228733e-13,0.99617964,0.0038202645
+original/NonDemented/nonDem1678.jpg,NonDemented,VeryMildDemented,0.81855124,0.006939908,2.5700856e-05,0.17448308,0.81855124
+original/NonDemented/nonDem1679.jpg,NonDemented,NonDemented,0.99164957,5.407301e-08,4.0133166e-08,0.99164957,0.008350271
+original/NonDemented/nonDem1702.jpg,NonDemented,MildDemented,0.9687067,0.9687067,4.847494e-13,0.025201064,0.0060922625
+original/NonDemented/nonDem1705.jpg,NonDemented,NonDemented,0.9886263,2.4653651e-05,7.0843214e-12,0.9886263,0.0113490345
+original/NonDemented/nonDem1710.jpg,NonDemented,NonDemented,0.95948666,1.0177377e-08,2.0882162e-14,0.95948666,0.04051331
+original/NonDemented/nonDem1711.jpg,NonDemented,NonDemented,0.93932104,0.055801626,8.3342104e-11,0.93932104,0.0048773545
+original/NonDemented/nonDem1717.jpg,NonDemented,NonDemented,0.77223074,0.0002834853,1.2820178e-15,0.77223074,0.22748579
+original/NonDemented/nonDem1720.jpg,NonDemented,NonDemented,0.9913491,0.008580808,5.4609806e-09,0.9913491,7.004133e-05
+original/NonDemented/nonDem1721.jpg,NonDemented,VeryMildDemented,0.83594257,0.15982291,1.5346933e-14,0.0042344914,0.83594257
+original/NonDemented/nonDem1724.jpg,NonDemented,VeryMildDemented,0.95939523,0.0005625105,0.012699072,0.027343178,0.95939523
+original/NonDemented/nonDem173.jpg,NonDemented,NonDemented,0.89511913,1.0981779e-05,1.111978e-11,0.89511913,0.10486989
+original/NonDemented/nonDem1739.jpg,NonDemented,NonDemented,0.9704914,0.0004260032,1.9390297e-12,0.9704914,0.029082593
+original/NonDemented/nonDem1743.jpg,NonDemented,NonDemented,0.9712364,0.00033473936,1.4990048e-06,0.9712364,0.028427321
+original/NonDemented/nonDem1755.jpg,NonDemented,NonDemented,0.933982,3.6330894e-07,6.7484016e-14,0.933982,0.066017605
+original/NonDemented/nonDem1756.jpg,NonDemented,NonDemented,0.98159105,0.0019369217,1.3771402e-14,0.98159105,0.016472057
+original/NonDemented/nonDem1759.jpg,NonDemented,NonDemented,0.9996875,9.223514e-06,2.1270366e-12,0.9996875,0.0003033147
+original/NonDemented/nonDem1760.jpg,NonDemented,ModerateDemented,0.9930413,0.00010415582,0.9930413,0.00031181105,0.0065427315
+original/NonDemented/nonDem1763.jpg,NonDemented,NonDemented,0.99993193,4.129031e-05,6.7722505e-10,0.99993193,2.6763297e-05
+original/NonDemented/nonDem1782.jpg,NonDemented,NonDemented,0.9991813,2.2272954e-05,1.4318301e-08,0.9991813,0.00079647097
+original/NonDemented/nonDem1785.jpg,NonDemented,NonDemented,0.97747564,1.5016062e-05,9.352558e-19,0.97747564,0.022509374
+original/NonDemented/nonDem1793.jpg,NonDemented,MildDemented,0.9766287,0.9766287,4.407583e-09,0.016122527,0.0072487392
+original/NonDemented/nonDem1800.jpg,NonDemented,NonDemented,0.9970705,0.00012152692,1.6252343e-14,0.9970705,0.002807956
+original/NonDemented/nonDem1807.jpg,NonDemented,NonDemented,0.95984066,0.0016366945,1.0629279e-09,0.95984066,0.03852269
+original/NonDemented/nonDem1809.jpg,NonDemented,NonDemented,0.994936,1.9485053e-06,1.519213e-14,0.994936,0.0050620614
+original/NonDemented/nonDem1810.jpg,NonDemented,NonDemented,0.9993895,6.9590794e-07,7.8251845e-14,0.9993895,0.0006097856
+original/NonDemented/nonDem1817.jpg,NonDemented,NonDemented,0.9958224,5.5291994e-06,9.22671e-11,0.9958224,0.004172058
+original/NonDemented/nonDem1820.jpg,NonDemented,NonDemented,0.99929774,0.0006814099,8.697669e-11,0.99929774,2.0803549e-05
+original/NonDemented/nonDem1828.jpg,NonDemented,NonDemented,0.9031832,0.082450636,3.523918e-10,0.9031832,0.014366153
+original/NonDemented/nonDem1837.jpg,NonDemented,NonDemented,0.89449066,4.181242e-07,4.4655252e-10,0.89449066,0.10550893
+original/NonDemented/nonDem1840.jpg,NonDemented,NonDemented,0.69584924,3.495668e-09,1.253653e-16,0.69584924,0.30415076
+original/NonDemented/nonDem1841.jpg,NonDemented,NonDemented,0.999398,6.857426e-05,4.012755e-13,0.999398,0.0005333786
+original/NonDemented/nonDem1855.jpg,NonDemented,NonDemented,0.9984983,4.301409e-05,1.3762695e-09,0.9984983,0.001458606
+original/NonDemented/nonDem1857.jpg,NonDemented,NonDemented,0.9834287,0.00012898416,5.4618366e-05,0.9834287,0.016387736
+original/NonDemented/nonDem1860.jpg,NonDemented,ModerateDemented,0.892066,0.021918414,0.892066,0.0058126003,0.08020291
+original/NonDemented/nonDem1866.jpg,NonDemented,NonDemented,0.5220694,0.07496383,0.39912018,0.5220694,0.0038465979
+original/NonDemented/nonDem1876.jpg,NonDemented,NonDemented,0.9983852,1.1084527e-08,0.0013961254,0.9983852,0.00021871126
+original/NonDemented/nonDem1881.jpg,NonDemented,NonDemented,0.9887032,1.123451e-06,1.79933e-08,0.9887032,0.011295621
+original/NonDemented/nonDem1896.jpg,NonDemented,NonDemented,0.9998426,3.1440509e-06,8.088037e-10,0.9998426,0.00015424719
+original/NonDemented/nonDem1906.jpg,NonDemented,NonDemented,0.89693713,6.54925e-05,1.8890337e-11,0.89693713,0.10299735
+original/NonDemented/nonDem192.jpg,NonDemented,NonDemented,0.675713,0.00017503482,1.0669962e-10,0.675713,0.32411194
+original/NonDemented/nonDem1921.jpg,NonDemented,VeryMildDemented,0.96557015,0.029303733,1.1242391e-14,0.005126123,0.96557015
+original/NonDemented/nonDem1923.jpg,NonDemented,MildDemented,0.99701875,0.99701875,5.436658e-06,0.0017583971,0.0012173797
+original/NonDemented/nonDem1924.jpg,NonDemented,NonDemented,0.46299762,0.39791954,2.4100534e-06,0.46299762,0.13908051
+original/NonDemented/nonDem1925.jpg,NonDemented,NonDemented,0.99896425,1.539505e-08,6.427139e-10,0.99896425,0.0010357171
+original/NonDemented/nonDem1933.jpg,NonDemented,NonDemented,0.9999556,1.2118828e-08,2.28073e-08,0.9999556,4.433209e-05
+original/NonDemented/nonDem1937.jpg,NonDemented,NonDemented,0.96179247,5.793038e-07,9.187048e-10,0.96179247,0.03820695
+original/NonDemented/nonDem1944.jpg,NonDemented,MildDemented,0.9462496,0.9462496,7.361422e-07,0.05055028,0.003199333
+original/NonDemented/nonDem1946.jpg,NonDemented,NonDemented,0.896751,5.1534164e-07,3.6481285e-07,0.896751,0.10324816
+original/NonDemented/nonDem1950.jpg,NonDemented,MildDemented,0.7309351,0.7309351,3.989816e-07,0.24792534,0.021139191
+original/NonDemented/nonDem1975.jpg,NonDemented,NonDemented,0.9816153,8.795772e-05,2.6828534e-11,0.9816153,0.01829665
+original/NonDemented/nonDem1977.jpg,NonDemented,NonDemented,0.9152629,0.00022223774,7.772875e-11,0.9152629,0.084514864
+original/NonDemented/nonDem1986.jpg,NonDemented,NonDemented,0.50833565,0.0034993677,2.858423e-11,0.50833565,0.48816502
+original/NonDemented/nonDem1987.jpg,NonDemented,MildDemented,0.93920004,0.93920004,0.008784179,0.0015472395,0.05046848
+original/NonDemented/nonDem1993.jpg,NonDemented,MildDemented,0.97566473,0.97566473,1.36024855e-05,0.0073957234,0.01692587
+original/NonDemented/nonDem1995.jpg,NonDemented,NonDemented,0.9998554,9.651338e-05,5.7902927e-08,0.9998554,4.8092286e-05
+original/NonDemented/nonDem2.jpg,NonDemented,NonDemented,0.8974168,8.8661e-06,8.4185393e-07,0.8974168,0.102573484
+original/NonDemented/nonDem2001.jpg,NonDemented,NonDemented,0.90110135,6.8941754e-06,2.3200187e-06,0.90110135,0.098889425
+original/NonDemented/nonDem2010.jpg,NonDemented,NonDemented,0.987053,3.052376e-05,3.1171927e-17,0.987053,0.012916551
+original/NonDemented/nonDem2011.jpg,NonDemented,NonDemented,0.5770083,0.4229907,6.0806153e-15,0.5770083,9.793993e-07
+original/NonDemented/nonDem2017.jpg,NonDemented,NonDemented,0.7366871,1.3292721e-07,2.7426828e-11,0.7366871,0.26331276
+original/NonDemented/nonDem2027.jpg,NonDemented,NonDemented,0.9997297,1.1778681e-05,1.942438e-16,0.9997297,0.00025850418
+original/NonDemented/nonDem2028.jpg,NonDemented,MildDemented,0.9956043,0.9956043,1.4210874e-09,0.0021092196,0.002286424
+original/NonDemented/nonDem203.jpg,NonDemented,NonDemented,0.9017333,0.09807827,3.2725438e-21,0.9017333,0.0001883786
+original/NonDemented/nonDem2045.jpg,NonDemented,MildDemented,0.72230023,0.72230023,2.3941065e-09,0.106353566,0.17134622
+original/NonDemented/nonDem2047.jpg,NonDemented,MildDemented,0.9979923,0.9979923,2.473325e-08,0.0019973763,1.0358915e-05
+original/NonDemented/nonDem2050.jpg,NonDemented,MildDemented,0.7217914,0.7217914,2.4024743e-07,0.00024041091,0.27796793
+original/NonDemented/nonDem2051.jpg,NonDemented,NonDemented,0.84019995,1.4210699e-09,2.1453047e-08,0.84019995,0.15980004
+original/NonDemented/nonDem2052.jpg,NonDemented,VeryMildDemented,0.6562047,0.00013886164,5.242874e-09,0.3436564,0.6562047
+original/NonDemented/nonDem2053.jpg,NonDemented,MildDemented,0.47986805,0.47986805,9.062733e-07,0.15434508,0.36578602
+original/NonDemented/nonDem2055.jpg,NonDemented,NonDemented,0.9839582,0.002308861,4.9592656e-11,0.9839582,0.013732925
+original/NonDemented/nonDem2057.jpg,NonDemented,VeryMildDemented,0.67222846,0.0012328777,6.4852576e-12,0.32653862,0.67222846
+original/NonDemented/nonDem2062.jpg,NonDemented,NonDemented,0.87241644,1.22311285e-05,1.9151812e-06,0.87241644,0.12756939
+original/NonDemented/nonDem2095.jpg,NonDemented,NonDemented,0.999942,1.5591026e-05,5.6334197e-06,0.999942,3.6808266e-05
+original/NonDemented/nonDem2103.jpg,NonDemented,NonDemented,0.65328324,8.8614106e-05,2.0362405e-20,0.65328324,0.34662813
+original/NonDemented/nonDem2105.jpg,NonDemented,NonDemented,0.9994873,1.00745606e-10,5.164263e-11,0.9994873,0.0005127348
+original/NonDemented/nonDem2107.jpg,NonDemented,VeryMildDemented,0.6312853,7.612322e-05,1.0668609e-07,0.36863846,0.6312853
+original/NonDemented/nonDem211.jpg,NonDemented,NonDemented,0.9984009,2.9506707e-06,5.3329223e-11,0.9984009,0.0015961672
+original/NonDemented/nonDem2116.jpg,NonDemented,VeryMildDemented,0.82604843,0.07844008,4.0209366e-15,0.09551146,0.82604843
+original/NonDemented/nonDem2118.jpg,NonDemented,NonDemented,0.87458134,3.4202534e-05,1.6411134e-15,0.87458134,0.12538445
+original/NonDemented/nonDem2119.jpg,NonDemented,MildDemented,0.54884416,0.54884416,3.848778e-11,0.45111594,3.993004e-05
+original/NonDemented/nonDem2122.jpg,NonDemented,MildDemented,0.8205513,0.8205513,3.270653e-11,0.17918558,0.00026311656
+original/NonDemented/nonDem2125.jpg,NonDemented,NonDemented,0.9999798,3.0530362e-07,3.2077248e-09,0.9999798,1.9926016e-05
+original/NonDemented/nonDem2136.jpg,NonDemented,MildDemented,0.7919927,0.7919927,1.0651962e-10,0.11141604,0.096591264
+original/NonDemented/nonDem2143.jpg,NonDemented,NonDemented,0.922247,2.2358826e-07,5.5342216e-13,0.922247,0.07775273
+original/NonDemented/nonDem2154.jpg,NonDemented,MildDemented,0.9976926,0.9976926,2.6646448e-12,0.00018715732,0.0021202033
+original/NonDemented/nonDem2156.jpg,NonDemented,MildDemented,0.9620407,0.9620407,3.084503e-11,0.003959278,0.034000028
+original/NonDemented/nonDem216.jpg,NonDemented,VeryMildDemented,0.999059,0.0003840698,8.965776e-09,0.00055687106,0.999059
+original/NonDemented/nonDem2164.jpg,NonDemented,VeryMildDemented,0.6096005,0.19972159,7.5319454e-06,0.19067039,0.6096005
+original/NonDemented/nonDem2169.jpg,NonDemented,NonDemented,0.57890236,0.058939893,1.2589983e-08,0.57890236,0.3621578
+original/NonDemented/nonDem2170.jpg,NonDemented,NonDemented,0.6194507,0.0063163033,1.18640635e-07,0.6194507,0.37423286
+original/NonDemented/nonDem2194.jpg,NonDemented,NonDemented,0.84703493,5.9102003e-08,2.9183433e-12,0.84703493,0.15296505
+original/NonDemented/nonDem2197.jpg,NonDemented,MildDemented,0.95479625,0.95479625,1.4607083e-05,0.039940305,0.0052488307
+original/NonDemented/nonDem2198.jpg,NonDemented,VeryMildDemented,0.7963904,1.9253848e-05,9.499106e-16,0.20359036,0.7963904
+original/NonDemented/nonDem2199.jpg,NonDemented,VeryMildDemented,0.39839318,0.29005092,3.9294096e-06,0.3115519,0.39839318
+original/NonDemented/nonDem221.jpg,NonDemented,NonDemented,0.99357253,0.0032023464,3.7509507e-10,0.99357253,0.0032251559
+original/NonDemented/nonDem2214.jpg,NonDemented,NonDemented,0.94280404,6.3876105e-06,1.6743302e-17,0.94280404,0.05718962
+original/NonDemented/nonDem2222.jpg,NonDemented,NonDemented,0.5772293,0.42204946,3.1018129e-12,0.5772293,0.00072118227
+original/NonDemented/nonDem2227.jpg,NonDemented,NonDemented,0.97087324,1.284018e-08,5.4069343e-21,0.97087324,0.02912679
+original/NonDemented/nonDem2233.jpg,NonDemented,NonDemented,0.966441,4.2430108e-11,4.1481218e-11,0.966441,0.03355898
+original/NonDemented/nonDem2236.jpg,NonDemented,MildDemented,0.47123522,0.47123522,1.0485983e-14,0.45291078,0.07585394
+original/NonDemented/nonDem2239.jpg,NonDemented,MildDemented,0.5318211,0.5318211,1.0885717e-09,0.043855954,0.42432296
+original/NonDemented/nonDem224.jpg,NonDemented,NonDemented,0.9922464,0.004714668,0.00065532344,0.9922464,0.0023836026
+original/NonDemented/nonDem2244.jpg,NonDemented,VeryMildDemented,0.7958014,0.17717063,1.0773545e-13,0.02702799,0.7958014
+original/NonDemented/nonDem2251.jpg,NonDemented,NonDemented,0.81228536,2.3493794e-07,5.3038208e-12,0.81228536,0.18771441
+original/NonDemented/nonDem2268.jpg,NonDemented,NonDemented,0.9879693,2.9872728e-05,5.920873e-06,0.9879693,0.011994934
+original/NonDemented/nonDem227.jpg,NonDemented,NonDemented,0.98982376,2.1766199e-07,1.3415204e-11,0.98982376,0.0101760505
+original/NonDemented/nonDem2270.jpg,NonDemented,VeryMildDemented,0.822073,0.00015852836,7.263353e-07,0.17776774,0.822073
+original/NonDemented/nonDem2271.jpg,NonDemented,NonDemented,0.484032,0.2506025,4.2404184e-11,0.484032,0.2653655
+original/NonDemented/nonDem2279.jpg,NonDemented,NonDemented,0.8544222,1.8300527e-05,1.1049469e-15,0.8544222,0.14555952
+original/NonDemented/nonDem2280.jpg,NonDemented,NonDemented,0.6549704,0.00077932124,1.6074145e-15,0.6549704,0.34425035
+original/NonDemented/nonDem2282.jpg,NonDemented,NonDemented,0.9915345,5.639318e-06,8.865156e-12,0.9915345,0.008459866
+original/NonDemented/nonDem2286.jpg,NonDemented,VeryMildDemented,0.7503506,0.015264335,5.461783e-10,0.23438509,0.7503506
+original/NonDemented/nonDem2287.jpg,NonDemented,MildDemented,0.9776878,0.9776878,3.4015755e-09,7.093627e-07,0.022311477
+original/NonDemented/nonDem2289.jpg,NonDemented,NonDemented,0.99537927,1.3854365e-05,3.0915853e-10,0.99537927,0.004606843
+original/NonDemented/nonDem2297.jpg,NonDemented,NonDemented,0.5206165,0.46713066,5.8544245e-09,0.5206165,0.012252858
+original/NonDemented/nonDem2305.jpg,NonDemented,NonDemented,0.9996803,5.259448e-08,1.1773659e-09,0.9996803,0.00031965072
+original/NonDemented/nonDem2317.jpg,NonDemented,NonDemented,0.5414779,0.00010063041,6.9187356e-16,0.5414779,0.4584215
+original/NonDemented/nonDem2320.jpg,NonDemented,NonDemented,0.99689823,3.0710442e-05,8.180837e-15,0.99689823,0.0030710462
+original/NonDemented/nonDem2323.jpg,NonDemented,MildDemented,0.7482241,0.7482241,4.5411587e-05,0.19347748,0.058253054
+original/NonDemented/nonDem2332.jpg,NonDemented,NonDemented,0.99902356,4.4926204e-05,3.03539e-11,0.99902356,0.0009315704
+original/NonDemented/nonDem2334.jpg,NonDemented,NonDemented,0.65360266,3.8325114e-11,1.0702156e-16,0.65360266,0.34639734
+original/NonDemented/nonDem2346.jpg,NonDemented,NonDemented,0.9807253,0.017885296,9.684682e-15,0.9807253,0.0013894328
+original/NonDemented/nonDem2353.jpg,NonDemented,NonDemented,0.98592556,2.7618918e-05,3.3082916e-09,0.98592556,0.014046842
+original/NonDemented/nonDem2354.jpg,NonDemented,MildDemented,0.8407202,0.8407202,1.2737619e-13,0.0017375237,0.15754229
+original/NonDemented/nonDem2359.jpg,NonDemented,NonDemented,0.99224794,3.710318e-05,9.169993e-13,0.99224794,0.0077149435
+original/NonDemented/nonDem2369.jpg,NonDemented,NonDemented,0.7189587,0.22482334,8.891807e-08,0.7189587,0.056217857
+original/NonDemented/nonDem2370.jpg,NonDemented,VeryMildDemented,0.77977806,1.139379e-05,1.38350815e-08,0.22021057,0.77977806
+original/NonDemented/nonDem2377.jpg,NonDemented,NonDemented,0.82213575,0.00013639998,9.849846e-14,0.82213575,0.17772791
+original/NonDemented/nonDem2390.jpg,NonDemented,NonDemented,0.60444623,0.014774364,0.0009013087,0.60444623,0.3798781
+original/NonDemented/nonDem2395.jpg,NonDemented,NonDemented,0.99959457,2.5642907e-05,2.8182215e-11,0.99959457,0.00037980507
+original/NonDemented/nonDem2397.jpg,NonDemented,MildDemented,0.98798364,0.98798364,1.2619458e-11,0.011372813,0.0006435755
+original/NonDemented/nonDem2398.jpg,NonDemented,NonDemented,0.73823,0.24446699,3.942954e-15,0.73823,0.017303081
+original/NonDemented/nonDem241.jpg,NonDemented,NonDemented,0.9574597,0.0001654954,8.472312e-13,0.9574597,0.04237479
+original/NonDemented/nonDem2412.jpg,NonDemented,NonDemented,0.99761134,4.6360246e-06,3.9448056e-10,0.99761134,0.0023840705
+original/NonDemented/nonDem2421.jpg,NonDemented,NonDemented,0.9303107,0.044752598,0.00013384226,0.9303107,0.024802871
+original/NonDemented/nonDem2439.jpg,NonDemented,NonDemented,0.5124534,0.47490877,1.5115731e-06,0.5124534,0.012636446
+original/NonDemented/nonDem2452.jpg,NonDemented,NonDemented,0.7374712,0.00021245806,1.1709195e-10,0.7374712,0.2623164
+original/NonDemented/nonDem2456.jpg,NonDemented,MildDemented,0.898162,0.898162,0.0018744664,0.085932486,0.014031053
+original/NonDemented/nonDem2458.jpg,NonDemented,NonDemented,0.9982376,2.1133892e-05,4.5555756e-14,0.9982376,0.0017412174
+original/NonDemented/nonDem2470.jpg,NonDemented,VeryMildDemented,0.81025267,1.10711056e-07,2.3090688e-10,0.18974723,0.81025267
+original/NonDemented/nonDem249.jpg,NonDemented,NonDemented,0.9999942,3.1026988e-07,6.063882e-07,0.9999942,4.883748e-06
+original/NonDemented/nonDem2492.jpg,NonDemented,NonDemented,0.996226,2.1526266e-07,4.981276e-16,0.996226,0.003773789
+original/NonDemented/nonDem2494.jpg,NonDemented,NonDemented,0.9969114,4.753804e-07,3.4882605e-06,0.9969114,0.003084703
+original/NonDemented/nonDem2498.jpg,NonDemented,VeryMildDemented,0.6330049,0.31793374,4.265145e-18,0.04906139,0.6330049
+original/NonDemented/nonDem2507.jpg,NonDemented,VeryMildDemented,0.8935674,0.093253896,5.080974e-10,0.0131787425,0.8935674
+original/NonDemented/nonDem2516.jpg,NonDemented,NonDemented,0.9194048,2.6040057e-06,2.0108155e-17,0.9194048,0.0805926
+original/NonDemented/nonDem2521.jpg,NonDemented,MildDemented,0.99968356,0.99968356,1.6090956e-06,0.0003121501,2.6756193e-06
+original/NonDemented/nonDem2539.jpg,NonDemented,VeryMildDemented,0.7502394,0.015226513,1.8133904e-11,0.2345341,0.7502394
+original/NonDemented/nonDem2554.jpg,NonDemented,NonDemented,0.9519615,8.422929e-06,6.951751e-06,0.9519615,0.04802318
+original/NonDemented/nonDem2556.jpg,NonDemented,NonDemented,0.877442,1.409378e-06,1.0685421e-14,0.877442,0.12255665
+original/NonDemented/nonDem2559.jpg,NonDemented,NonDemented,0.99638265,2.6580108e-06,1.9032385e-14,0.99638265,0.003614676
+original/NonDemented/nonDem268.jpg,NonDemented,NonDemented,0.95386237,0.0016665121,1.8265836e-06,0.95386237,0.044469323
+original/NonDemented/nonDem291.jpg,NonDemented,VeryMildDemented,0.731844,2.049053e-06,1.8436686e-15,0.26815397,0.731844
+original/NonDemented/nonDem302.jpg,NonDemented,MildDemented,0.7326797,0.7326797,0.112430565,0.12980711,0.025082584
+original/NonDemented/nonDem305.jpg,NonDemented,NonDemented,0.9997232,6.22829e-06,1.8117909e-10,0.9997232,0.00027058995
+original/NonDemented/nonDem309.jpg,NonDemented,NonDemented,0.79076564,1.4880812e-05,9.75246e-20,0.79076564,0.2092195
+original/NonDemented/nonDem31.jpg,NonDemented,NonDemented,0.98578185,0.001986246,6.782863e-07,0.98578185,0.012231263
+original/NonDemented/nonDem32.jpg,NonDemented,VeryMildDemented,0.53011996,5.583372e-08,7.7764734e-16,0.46987996,0.53011996
+original/NonDemented/nonDem321.jpg,NonDemented,NonDemented,0.9907921,0.003922383,1.6224416e-06,0.9907921,0.0052839257
+original/NonDemented/nonDem336.jpg,NonDemented,VeryMildDemented,0.77352273,9.26218e-06,5.0816564e-15,0.22646795,0.77352273
+original/NonDemented/nonDem344.jpg,NonDemented,VeryMildDemented,0.5280432,0.008270427,3.8660977e-09,0.46368635,0.5280432
+original/NonDemented/nonDem354.jpg,NonDemented,NonDemented,0.9984038,0.00022103633,4.6203972e-06,0.9984038,0.001370594
+original/NonDemented/nonDem360.jpg,NonDemented,NonDemented,0.824925,0.17429955,5.3041917e-06,0.824925,0.0007701472
+original/NonDemented/nonDem365.jpg,NonDemented,NonDemented,0.93649566,8.7290225e-08,1.3690919e-10,0.93649566,0.0635043
+original/NonDemented/nonDem369.jpg,NonDemented,NonDemented,0.9939697,2.6314121e-05,1.1450041e-12,0.9939697,0.006004005
+original/NonDemented/nonDem383.jpg,NonDemented,NonDemented,0.99749005,5.825028e-07,3.3035417e-09,0.99749005,0.0025093027
+original/NonDemented/nonDem388.jpg,NonDemented,NonDemented,0.99999464,2.3139135e-06,2.888189e-06,0.99999464,1.6845347e-07
+original/NonDemented/nonDem397.jpg,NonDemented,MildDemented,0.555381,0.555381,1.1457485e-05,0.41908047,0.02552714
+original/NonDemented/nonDem399.jpg,NonDemented,VeryMildDemented,0.98568964,0.012068881,5.053559e-13,0.00224148,0.98568964
+original/NonDemented/nonDem40.jpg,NonDemented,NonDemented,0.99681216,9.87197e-07,5.7648136e-05,0.99681216,0.0031291551
+original/NonDemented/nonDem403.jpg,NonDemented,NonDemented,0.9965668,0.0002802721,7.2321916e-19,0.9965668,0.0031530315
+original/NonDemented/nonDem407.jpg,NonDemented,NonDemented,0.9990846,9.452093e-05,3.9213291e-13,0.9990846,0.0008208825
+original/NonDemented/nonDem417.jpg,NonDemented,NonDemented,0.9989673,0.000683186,2.4992903e-12,0.9989673,0.0003495267
+original/NonDemented/nonDem419.jpg,NonDemented,NonDemented,0.9722809,0.026535228,5.188831e-08,0.9722809,0.001183863
+original/NonDemented/nonDem422.jpg,NonDemented,MildDemented,0.81411654,0.81411654,6.0648717e-12,0.17684352,0.009039989
+original/NonDemented/nonDem423.jpg,NonDemented,NonDemented,0.57066095,0.009138802,2.4766391e-14,0.57066095,0.42020026
+original/NonDemented/nonDem441.jpg,NonDemented,VeryMildDemented,0.640703,0.001483699,4.1134724e-18,0.3578133,0.640703
+original/NonDemented/nonDem45.jpg,NonDemented,ModerateDemented,0.8198518,0.0042277155,0.8198518,0.15870443,0.017216135
+original/NonDemented/nonDem457.jpg,NonDemented,NonDemented,0.98452497,2.764072e-07,1.1147815e-09,0.98452497,0.015474766
+original/NonDemented/nonDem465.jpg,NonDemented,NonDemented,0.98537105,8.2434665e-10,1.5561187e-09,0.98537105,0.014628927
+original/NonDemented/nonDem47.jpg,NonDemented,VeryMildDemented,0.94587,0.053591546,4.271763e-09,0.0005384806,0.94587
+original/NonDemented/nonDem476.jpg,NonDemented,NonDemented,0.9415852,0.00025471757,3.2685927e-21,0.9415852,0.058160033
+original/NonDemented/nonDem486.jpg,NonDemented,NonDemented,0.8622613,0.13764668,1.7986322e-08,0.8622613,9.2053335e-05
+original/NonDemented/nonDem490.jpg,NonDemented,NonDemented,0.99978215,9.6580884e-08,1.8612804e-10,0.99978215,0.00021773652
+original/NonDemented/nonDem491.jpg,NonDemented,VeryMildDemented,0.8105445,1.6378983e-05,3.4921681e-12,0.18943916,0.8105445
+original/NonDemented/nonDem509.jpg,NonDemented,NonDemented,0.9480078,0.00025129362,5.611186e-14,0.9480078,0.051740885
+original/NonDemented/nonDem51.jpg,NonDemented,VeryMildDemented,0.97371835,0.019368634,9.255467e-10,0.006913018,0.97371835
+original/NonDemented/nonDem515.jpg,NonDemented,MildDemented,0.9165731,0.9165731,2.7863103e-10,0.00094357756,0.08248326
+original/NonDemented/nonDem522.jpg,NonDemented,MildDemented,0.99168706,0.99168706,4.968696e-11,0.008114488,0.00019850224
+original/NonDemented/nonDem540.jpg,NonDemented,NonDemented,0.99566084,0.0013178465,0.000115015246,0.99566084,0.0029062757
+original/NonDemented/nonDem543.jpg,NonDemented,NonDemented,0.9993009,2.05285e-05,1.1584821e-11,0.9993009,0.0006786478
+original/NonDemented/nonDem547.jpg,NonDemented,VeryMildDemented,0.9992544,0.00014079064,7.34163e-08,0.0006047064,0.9992544
+original/NonDemented/nonDem55.jpg,NonDemented,NonDemented,0.7360247,0.00010677138,1.0989655e-06,0.7360247,0.26386747
+original/NonDemented/nonDem551.jpg,NonDemented,NonDemented,0.99995273,5.4273632e-06,1.5665566e-05,0.99995273,2.6234216e-05
+original/NonDemented/nonDem554.jpg,NonDemented,NonDemented,0.44724786,0.24924769,6.315367e-09,0.44724786,0.30350444
+original/NonDemented/nonDem562.jpg,NonDemented,NonDemented,0.95390964,1.04960534e-07,8.369244e-14,0.95390964,0.046090234
+original/NonDemented/nonDem566.jpg,NonDemented,MildDemented,0.9715952,0.9715952,6.052605e-14,0.013000346,0.015404476
+original/NonDemented/nonDem575.jpg,NonDemented,NonDemented,0.9995055,9.936778e-06,7.0806637e-12,0.9995055,0.00048460843
+original/NonDemented/nonDem591.jpg,NonDemented,VeryMildDemented,0.9593726,6.1090805e-07,3.708268e-12,0.04062686,0.9593726
+original/NonDemented/nonDem593.jpg,NonDemented,NonDemented,0.9991251,0.00019844525,3.5328974e-08,0.9991251,0.0006763906
+original/NonDemented/nonDem596.jpg,NonDemented,NonDemented,0.9996876,7.2888963e-07,6.6709077e-10,0.9996876,0.0003116656
+original/NonDemented/nonDem629.jpg,NonDemented,NonDemented,0.8771588,1.4398524e-06,1.3702419e-11,0.8771588,0.12283977
+original/NonDemented/nonDem634.jpg,NonDemented,NonDemented,0.994662,3.0732426e-05,6.2104674e-22,0.994662,0.0053072814
+original/NonDemented/nonDem636.jpg,NonDemented,NonDemented,0.82747567,6.996285e-08,2.9685221e-08,0.82747567,0.17252418
+original/NonDemented/nonDem642.jpg,NonDemented,VeryMildDemented,0.9613551,2.7434917e-05,5.3985517e-18,0.038617488,0.9613551
+original/NonDemented/nonDem646.jpg,NonDemented,NonDemented,0.9775638,0.021201387,1.2839142e-14,0.9775638,0.0012348191
+original/NonDemented/nonDem655.jpg,NonDemented,NonDemented,0.9958828,1.7960528e-07,5.2986866e-16,0.9958828,0.0041170074
+original/NonDemented/nonDem657.jpg,NonDemented,NonDemented,0.9897043,5.763867e-06,4.8221813e-14,0.9897043,0.010289865
+original/NonDemented/nonDem66.jpg,NonDemented,NonDemented,0.9992942,8.810357e-05,1.5381943e-06,0.9992942,0.00061614823
+original/NonDemented/nonDem666.jpg,NonDemented,MildDemented,0.85040516,0.85040516,3.6391773e-16,0.13927555,0.010319309
+original/NonDemented/nonDem668.jpg,NonDemented,NonDemented,0.99605805,0.0023428055,6.7739217e-12,0.99605805,0.0015991554
+original/NonDemented/nonDem670.jpg,NonDemented,NonDemented,0.78281933,4.4572116e-06,1.4032372e-11,0.78281933,0.21717624
+original/NonDemented/nonDem671.jpg,NonDemented,NonDemented,0.97823846,0.021708291,1.4058966e-10,0.97823846,5.321483e-05
+original/NonDemented/nonDem677.jpg,NonDemented,NonDemented,0.99606776,0.0029679902,5.696457e-17,0.99606776,0.0009642471
+original/NonDemented/nonDem678.jpg,NonDemented,NonDemented,0.99720347,0.00023376915,4.5261817e-10,0.99720347,0.0025627415
+original/NonDemented/nonDem681.jpg,NonDemented,NonDemented,0.9994885,0.00050236075,1.2015825e-07,0.9994885,9.113423e-06
+original/NonDemented/nonDem689.jpg,NonDemented,NonDemented,0.5102359,0.017090231,2.048116e-13,0.5102359,0.47267386
+original/NonDemented/nonDem696.jpg,NonDemented,NonDemented,0.99953693,1.05928475e-08,1.3785032e-09,0.99953693,0.00046303333
+original/NonDemented/nonDem700.jpg,NonDemented,NonDemented,0.9980485,1.0302074e-05,2.2736084e-13,0.9980485,0.001941284
+original/NonDemented/nonDem702.jpg,NonDemented,VeryMildDemented,0.9173527,0.024076324,4.373403e-07,0.05857058,0.9173527
+original/NonDemented/nonDem703.jpg,NonDemented,NonDemented,0.98138386,5.4214856e-06,1.1319304e-17,0.98138386,0.018610733
+original/NonDemented/nonDem705.jpg,NonDemented,NonDemented,0.9979615,4.978843e-07,1.9128064e-08,0.9979615,0.0020380002
+original/NonDemented/nonDem707.jpg,NonDemented,NonDemented,0.99064994,0.0075793588,2.9523354e-14,0.99064994,0.0017707604
+original/NonDemented/nonDem72.jpg,NonDemented,MildDemented,0.91953397,0.91953397,0.028923787,0.00034426764,0.05119807
+original/NonDemented/nonDem721.jpg,NonDemented,NonDemented,0.98846716,1.5197119e-05,1.3854358e-10,0.98846716,0.011517661
+original/NonDemented/nonDem730.jpg,NonDemented,NonDemented,0.6056247,0.00046069865,1.4989243e-20,0.6056247,0.39391464
+original/NonDemented/nonDem741.jpg,NonDemented,NonDemented,0.9957252,0.0028809507,2.6898046e-18,0.9957252,0.001393867
+original/NonDemented/nonDem742.jpg,NonDemented,VeryMildDemented,0.9812201,1.9968267e-05,3.3502598e-17,0.018759899,0.9812201
+original/NonDemented/nonDem745.jpg,NonDemented,NonDemented,0.67404586,1.6854275e-06,5.2413868e-12,0.67404586,0.32595247
+original/NonDemented/nonDem747.jpg,NonDemented,ModerateDemented,0.8368621,0.00013517549,0.8368621,0.014288532,0.14871427
+original/NonDemented/nonDem755.jpg,NonDemented,NonDemented,0.61304796,2.1346086e-06,1.6214961e-15,0.61304796,0.3869499
+original/NonDemented/nonDem759.jpg,NonDemented,NonDemented,0.9723248,1.1050724e-05,1.8002589e-09,0.9723248,0.027664179
+original/NonDemented/nonDem764.jpg,NonDemented,NonDemented,0.93073756,3.9992392e-05,1.0183742e-12,0.93073756,0.06922245
+original/NonDemented/nonDem768.jpg,NonDemented,NonDemented,0.9328118,0.0064117126,6.704437e-12,0.9328118,0.060776424
+original/NonDemented/nonDem777.jpg,NonDemented,NonDemented,0.94532335,0.03727585,5.5978013e-20,0.94532335,0.0174008
+original/NonDemented/nonDem781.jpg,NonDemented,NonDemented,0.9990098,1.9533893e-06,4.953761e-09,0.9990098,0.0009882541
+original/NonDemented/nonDem782.jpg,NonDemented,NonDemented,0.997757,0.00050458097,2.3863178e-19,0.997757,0.0017383619
+original/NonDemented/nonDem786.jpg,NonDemented,NonDemented,0.99929994,0.00014020583,1.113652e-10,0.99929994,0.00055978907
+original/NonDemented/nonDem788.jpg,NonDemented,NonDemented,0.9986462,0.001341413,1.833761e-14,0.9986462,1.2393679e-05
+original/NonDemented/nonDem796.jpg,NonDemented,NonDemented,0.9995597,1.692314e-06,1.2033733e-13,0.9995597,0.0004386205
+original/NonDemented/nonDem8.jpg,NonDemented,NonDemented,0.57833445,0.41918927,5.6069987e-13,0.57833445,0.0024762359
+original/NonDemented/nonDem80.jpg,NonDemented,VeryMildDemented,0.692956,0.0008011279,0.012754616,0.29348832,0.692956
+original/NonDemented/nonDem804.jpg,NonDemented,NonDemented,0.9996167,1.3221315e-05,4.983154e-19,0.9996167,0.00037012028
+original/NonDemented/nonDem805.jpg,NonDemented,NonDemented,0.99766624,1.0352893e-05,2.0136205e-10,0.99766624,0.0023233995
+original/NonDemented/nonDem806.jpg,NonDemented,NonDemented,0.53288925,0.46710628,1.2957452e-11,0.53288925,4.433178e-06
+original/NonDemented/nonDem81.jpg,NonDemented,NonDemented,0.9775962,1.1841859e-08,1.0546147e-10,0.9775962,0.022403779
+original/NonDemented/nonDem82.jpg,NonDemented,NonDemented,0.984985,9.942815e-10,4.4225365e-10,0.984985,0.015014968
+original/NonDemented/nonDem822.jpg,NonDemented,MildDemented,0.872125,0.872125,1.6537685e-08,0.10183102,0.026043998
+original/NonDemented/nonDem828.jpg,NonDemented,MildDemented,0.596145,0.596145,5.679205e-08,2.3236415e-05,0.4038317
+original/NonDemented/nonDem836.jpg,NonDemented,NonDemented,0.99007505,4.3182535e-08,6.4400346e-08,0.99007505,0.009924861
+original/NonDemented/nonDem844.jpg,NonDemented,VeryMildDemented,0.9974253,0.001528739,5.7193933e-08,0.0010459027,0.9974253
+original/NonDemented/nonDem865.jpg,NonDemented,NonDemented,0.99556524,0.0033415759,5.1776107e-17,0.99556524,0.0010931662
+original/NonDemented/nonDem868.jpg,NonDemented,NonDemented,0.98682785,9.709686e-05,3.8186573e-14,0.98682785,0.01307502
+original/NonDemented/nonDem876.jpg,NonDemented,NonDemented,0.99971455,8.273083e-05,1.7134477e-15,0.99971455,0.0002027412
+original/NonDemented/nonDem880.jpg,NonDemented,NonDemented,0.9995119,0.00040407424,1.0578292e-06,0.9995119,8.293793e-05
+original/NonDemented/nonDem887.jpg,NonDemented,NonDemented,0.9758562,0.008308509,6.1937108e-06,0.9758562,0.015829092
+original/NonDemented/nonDem888.jpg,NonDemented,NonDemented,0.9999762,2.3273795e-05,5.1716274e-12,0.9999762,5.084142e-07
+original/NonDemented/nonDem899.jpg,NonDemented,VeryMildDemented,0.5991025,0.021392671,0.0005696106,0.37893516,0.5991025
+original/NonDemented/nonDem905.jpg,NonDemented,NonDemented,0.98763007,1.9481222e-06,8.142064e-15,0.98763007,0.012368045
+original/NonDemented/nonDem906.jpg,NonDemented,NonDemented,0.65099686,0.3489512,1.144426e-16,0.65099686,5.1962867e-05
+original/NonDemented/nonDem911.jpg,NonDemented,NonDemented,0.99985677,1.4117475e-05,4.604563e-14,0.99985677,0.0001291768
+original/NonDemented/nonDem912.jpg,NonDemented,NonDemented,0.9920252,0.0005506453,9.874548e-09,0.9920252,0.0074241455
+original/NonDemented/nonDem914.jpg,NonDemented,NonDemented,0.6316647,1.058562e-08,1.5130262e-16,0.6316647,0.3683353
+original/NonDemented/nonDem916.jpg,NonDemented,MildDemented,0.9452402,0.9452402,6.0452365e-10,0.045550294,0.00920955
+original/NonDemented/nonDem92.jpg,NonDemented,NonDemented,0.9219462,0.00056749163,7.94013e-09,0.9219462,0.07748624
+original/NonDemented/nonDem928.jpg,NonDemented,VeryMildDemented,0.6374245,0.3625131,4.5441873e-05,1.6880087e-05,0.6374245
+original/NonDemented/nonDem930.jpg,NonDemented,NonDemented,0.652975,0.00629243,4.76067e-19,0.652975,0.34073254
+original/NonDemented/nonDem932.jpg,NonDemented,NonDemented,0.9990521,0.0007449525,9.0199826e-13,0.9990521,0.0002028892
+original/NonDemented/nonDem937.jpg,NonDemented,NonDemented,0.9980361,0.0016683917,1.6706339e-10,0.9980361,0.00029561395
+original/NonDemented/nonDem941.jpg,NonDemented,NonDemented,0.990243,0.0006329965,2.738451e-15,0.990243,0.009123998
+original/NonDemented/nonDem944.jpg,NonDemented,VeryMildDemented,0.9875767,0.01238599,1.8708674e-12,3.723094e-05,0.9875767
+original/NonDemented/nonDem950.jpg,NonDemented,MildDemented,0.632019,0.632019,0.000753423,0.0926885,0.2745391
+original/NonDemented/nonDem952.jpg,NonDemented,NonDemented,0.9995145,1.7074226e-05,4.9964157e-15,0.9995145,0.00046839623
+original/NonDemented/nonDem960.jpg,NonDemented,NonDemented,0.7334317,0.0005452848,1.497335e-10,0.7334317,0.26602298
+original/NonDemented/nonDem961.jpg,NonDemented,NonDemented,0.9694053,0.02683067,2.1795356e-10,0.9694053,0.0037639895
+original/NonDemented/nonDem973.jpg,NonDemented,NonDemented,0.9995925,1.3117222e-05,1.5327718e-14,0.9995925,0.00039439948
+original/NonDemented/nonDem98.jpg,NonDemented,NonDemented,0.82148045,3.622379e-05,6.974036e-14,0.82148045,0.17848335
+original/NonDemented/nonDem981.jpg,NonDemented,NonDemented,0.99988115,2.8228642e-06,5.3318894e-10,0.99988115,0.00011607538
+original/NonDemented/nonDem990.jpg,NonDemented,NonDemented,0.99795926,0.0013728355,9.878603e-13,0.99795926,0.0006679507
+original/VeryMildDemented/26 (50).jpg,VeryMildDemented,VeryMildDemented,0.6635149,0.00014111168,1.3843502e-06,0.33634257,0.6635149
+original/VeryMildDemented/26 (51).jpg,VeryMildDemented,NonDemented,0.9693463,0.006255412,1.2890835e-12,0.9693463,0.024398375
+original/VeryMildDemented/26 (57).jpg,VeryMildDemented,VeryMildDemented,0.90963465,0.00254639,7.486065e-20,0.08781893,0.90963465
+original/VeryMildDemented/26 (59).jpg,VeryMildDemented,MildDemented,0.99880266,0.99880266,2.8163184e-08,0.000808551,0.00038877554
+original/VeryMildDemented/26 (64).jpg,VeryMildDemented,VeryMildDemented,0.5883641,0.004331443,1.7816049e-21,0.4073044,0.5883641
+original/VeryMildDemented/27 (11).jpg,VeryMildDemented,NonDemented,0.6546399,3.6991873e-06,4.2520855e-11,0.6546399,0.34535637
+original/VeryMildDemented/27 (14).jpg,VeryMildDemented,VeryMildDemented,0.6042222,0.3937727,3.6230035e-06,0.002001519,0.6042222
+original/VeryMildDemented/27 (17).jpg,VeryMildDemented,MildDemented,0.64881605,0.64881605,1.3412737e-12,3.5888488e-06,0.35118032
+original/VeryMildDemented/27 (2).jpg,VeryMildDemented,VeryMildDemented,0.9986296,3.7822474e-07,3.2598364e-05,0.0013373909,0.9986296
+original/VeryMildDemented/27 (20).jpg,VeryMildDemented,VeryMildDemented,0.8670379,0.035647616,0.04848081,0.048833683,0.8670379
+original/VeryMildDemented/27 (27).jpg,VeryMildDemented,VeryMildDemented,0.8469621,9.711912e-08,4.8971908e-14,0.1530378,0.8469621
+original/VeryMildDemented/27 (29).jpg,VeryMildDemented,VeryMildDemented,0.98218393,6.7582885e-05,0.0016502809,0.016098196,0.98218393
+original/VeryMildDemented/27 (33).jpg,VeryMildDemented,NonDemented,0.8284208,9.373847e-07,1.5961696e-14,0.8284208,0.17157827
+original/VeryMildDemented/27 (38).jpg,VeryMildDemented,VeryMildDemented,0.9961155,8.931065e-06,1.7707009e-06,0.0038737808,0.9961155
+original/VeryMildDemented/27 (41).jpg,VeryMildDemented,MildDemented,0.9998916,0.9998916,2.9159235e-09,5.088116e-06,0.00010337745
+original/VeryMildDemented/27 (42).jpg,VeryMildDemented,MildDemented,0.6135168,0.6135168,2.069155e-12,0.111674905,0.2748083
+original/VeryMildDemented/27 (48).jpg,VeryMildDemented,VeryMildDemented,0.99792916,0.0008957211,1.5252609e-15,0.0011750818,0.99792916
+original/VeryMildDemented/27 (57).jpg,VeryMildDemented,VeryMildDemented,0.96956414,0.00012939746,4.163703e-18,0.03030641,0.96956414
+original/VeryMildDemented/27 (69).jpg,VeryMildDemented,NonDemented,0.9501397,2.4686865e-06,4.1923202e-16,0.9501397,0.0498578
+original/VeryMildDemented/27.jpg,VeryMildDemented,MildDemented,0.8298378,0.8298378,1.4321649e-09,6.1697654e-05,0.17010053
+original/VeryMildDemented/28 (13).jpg,VeryMildDemented,NonDemented,0.6268222,7.1183996e-07,9.7113755e-11,0.6268222,0.37317705
+original/VeryMildDemented/28 (19).jpg,VeryMildDemented,NonDemented,0.60490596,0.08058198,1.3652636e-12,0.60490596,0.314512
+original/VeryMildDemented/28 (20).jpg,VeryMildDemented,VeryMildDemented,0.5175027,0.07750505,0.19721183,0.20778032,0.5175027
+original/VeryMildDemented/28 (23).jpg,VeryMildDemented,VeryMildDemented,0.8881212,3.7374355e-06,2.5363772e-16,0.11187507,0.8881212
+original/VeryMildDemented/28 (25).jpg,VeryMildDemented,VeryMildDemented,0.96418536,1.094249e-06,2.1734613e-10,0.035813507,0.96418536
+original/VeryMildDemented/28 (28).jpg,VeryMildDemented,VeryMildDemented,0.7536082,0.24495754,0.0007189209,0.00071530865,0.7536082
+original/VeryMildDemented/28 (33).jpg,VeryMildDemented,NonDemented,0.98034835,0.00017961924,1.676745e-12,0.98034835,0.019472023
+original/VeryMildDemented/28 (36).jpg,VeryMildDemented,MildDemented,0.54878193,0.54878193,7.601599e-05,2.934e-06,0.4511391
+original/VeryMildDemented/28 (43).jpg,VeryMildDemented,VeryMildDemented,0.89176756,0.00011862982,2.3307631e-18,0.10811377,0.89176756
+original/VeryMildDemented/28 (52).jpg,VeryMildDemented,VeryMildDemented,0.8241583,0.000978744,4.074e-07,0.17486253,0.8241583
+original/VeryMildDemented/28 (57).jpg,VeryMildDemented,VeryMildDemented,0.9755847,0.00934216,3.4885858e-20,0.015073139,0.9755847
+original/VeryMildDemented/28 (69).jpg,VeryMildDemented,NonDemented,0.9843089,4.0372884e-06,1.9632236e-10,0.9843089,0.015687164
+original/VeryMildDemented/29 (10).jpg,VeryMildDemented,VeryMildDemented,0.5436681,9.594119e-07,3.3790954e-12,0.45633098,0.5436681
+original/VeryMildDemented/29 (24).jpg,VeryMildDemented,VeryMildDemented,0.6781794,0.15241353,1.5197602e-07,0.16940694,0.6781794
+original/VeryMildDemented/29 (4).jpg,VeryMildDemented,VeryMildDemented,0.816179,0.1835584,1.348075e-07,0.00026247825,0.816179
+original/VeryMildDemented/29 (49).jpg,VeryMildDemented,NonDemented,0.9052705,1.3767133e-06,4.9070626e-15,0.9052705,0.09472811
+original/VeryMildDemented/29 (63).jpg,VeryMildDemented,NonDemented,0.99991,4.753517e-05,1.3829871e-11,0.99991,4.241776e-05
+original/VeryMildDemented/29 (67).jpg,VeryMildDemented,VeryMildDemented,0.94046885,0.030927883,2.3183872e-13,0.028603258,0.94046885
+original/VeryMildDemented/29 (9).jpg,VeryMildDemented,NonDemented,0.6290873,0.06372242,0.021198906,0.6290873,0.2859914
+original/VeryMildDemented/30 (11).jpg,VeryMildDemented,NonDemented,0.87434095,4.4729557e-05,1.542149e-13,0.87434095,0.12561433
+original/VeryMildDemented/30 (13).jpg,VeryMildDemented,NonDemented,0.6414108,4.0693108e-06,2.6021772e-07,0.6414108,0.3585848
+original/VeryMildDemented/30 (17).jpg,VeryMildDemented,MildDemented,0.95705,0.95705,2.1175512e-09,0.01364402,0.029305954
+original/VeryMildDemented/30 (25).jpg,VeryMildDemented,VeryMildDemented,0.9160131,7.0369026e-07,1.1556527e-09,0.08398613,0.9160131
+original/VeryMildDemented/30 (27).jpg,VeryMildDemented,NonDemented,0.9294502,0.004366742,1.9880665e-10,0.9294502,0.06618306
+original/VeryMildDemented/30 (39).jpg,VeryMildDemented,NonDemented,0.8542001,0.05779561,2.3254163e-08,0.8542001,0.08800419
+original/VeryMildDemented/30 (41).jpg,VeryMildDemented,MildDemented,0.9521486,0.9521486,1.6175713e-08,0.00015482049,0.047696583
+original/VeryMildDemented/30 (42).jpg,VeryMildDemented,MildDemented,0.6606896,0.6606896,3.178051e-11,0.00018444077,0.33912602
+original/VeryMildDemented/30 (65).jpg,VeryMildDemented,VeryMildDemented,0.9974138,0.0018765723,2.6106717e-08,0.00070959784,0.9974138
+original/VeryMildDemented/30 (68).jpg,VeryMildDemented,NonDemented,0.5140554,3.6168825e-05,1.2979615e-08,0.5140554,0.48590842
+original/VeryMildDemented/30 (7).jpg,VeryMildDemented,VeryMildDemented,0.9892446,0.010701229,9.188941e-08,5.4092703e-05,0.9892446
+original/VeryMildDemented/30 (9).jpg,VeryMildDemented,ModerateDemented,0.50702655,0.05704276,0.50702655,0.043489087,0.39244166
+original/VeryMildDemented/31 (2).jpg,VeryMildDemented,VeryMildDemented,0.9999053,5.684081e-05,1.878646e-07,3.7707126e-05,0.9999053
+original/VeryMildDemented/31 (30).jpg,VeryMildDemented,NonDemented,0.7634723,3.5591933e-05,0.0005264184,0.7634723,0.23596567
+original/VeryMildDemented/31 (32).jpg,VeryMildDemented,VeryMildDemented,0.964533,0.03534659,2.6163024e-08,0.00012043827,0.964533
+original/VeryMildDemented/31 (37).jpg,VeryMildDemented,MildDemented,0.8021301,0.8021301,7.2791534e-10,0.03510402,0.16276582
+original/VeryMildDemented/31 (42).jpg,VeryMildDemented,VeryMildDemented,0.8241947,0.17476602,1.34712765e-08,0.001039217,0.8241947
+original/VeryMildDemented/31 (46).jpg,VeryMildDemented,VeryMildDemented,0.95608425,0.00025427874,9.179316e-11,0.043661457,0.95608425
+original/VeryMildDemented/31 (53).jpg,VeryMildDemented,MildDemented,0.7938708,0.7938708,5.214452e-12,0.0003863861,0.20574276
+original/VeryMildDemented/32 (13).jpg,VeryMildDemented,NonDemented,0.717994,3.4728742e-05,4.4914124e-08,0.717994,0.28197122
+original/VeryMildDemented/32 (21).jpg,VeryMildDemented,VeryMildDemented,0.9996092,6.1624996e-05,1.4311117e-07,0.00032909302,0.9996092
+original/VeryMildDemented/32 (38).jpg,VeryMildDemented,MildDemented,0.5426626,0.5426626,3.627335e-06,0.008965134,0.4483686
+original/VeryMildDemented/32 (39).jpg,VeryMildDemented,NonDemented,0.8826433,1.8629098e-07,1.3936087e-09,0.8826433,0.117356494
+original/VeryMildDemented/32 (40).jpg,VeryMildDemented,MildDemented,0.9869408,0.9869408,2.227338e-09,0.013036938,2.2250739e-05
+original/VeryMildDemented/32 (41).jpg,VeryMildDemented,MildDemented,0.9765657,0.9765657,0.018679526,2.737295e-06,0.004752002
+original/VeryMildDemented/32 (43).jpg,VeryMildDemented,VeryMildDemented,0.733107,0.004266592,1.35975545e-11,0.26262638,0.733107
+original/VeryMildDemented/32 (46).jpg,VeryMildDemented,NonDemented,0.7919881,0.00017372373,1.0407714e-10,0.7919881,0.20783818
+original/VeryMildDemented/32 (48).jpg,VeryMildDemented,NonDemented,0.98976594,8.59274e-05,6.476671e-09,0.98976594,0.010148086
+original/VeryMildDemented/32 (54).jpg,VeryMildDemented,VeryMildDemented,0.9993252,9.846115e-07,4.56907e-06,0.0006692027,0.9993252
+original/VeryMildDemented/32 (68).jpg,VeryMildDemented,NonDemented,0.993573,8.774274e-06,9.6454995e-09,0.993573,0.0064181993
+original/VeryMildDemented/verymildDem0.jpg,VeryMildDemented,VeryMildDemented,0.6150503,3.842061e-07,1.9462378e-09,0.38494924,0.6150503
+original/VeryMildDemented/verymildDem1002.jpg,VeryMildDemented,VeryMildDemented,0.997632,0.0021359834,1.5962838e-05,0.00021604417,0.997632
+original/VeryMildDemented/verymildDem1007.jpg,VeryMildDemented,VeryMildDemented,0.7133322,0.022326788,2.0036129e-14,0.26434103,0.7133322
+original/VeryMildDemented/verymildDem1009.jpg,VeryMildDemented,MildDemented,0.962348,0.962348,4.9533616e-10,0.0012716972,0.03638031
+original/VeryMildDemented/verymildDem1012.jpg,VeryMildDemented,VeryMildDemented,0.6206265,0.0028922984,0.2922154,0.084265836,0.6206265
+original/VeryMildDemented/verymildDem1015.jpg,VeryMildDemented,VeryMildDemented,0.5095014,0.23548548,1.7354884e-09,0.2550132,0.5095014
+original/VeryMildDemented/verymildDem1025.jpg,VeryMildDemented,VeryMildDemented,0.70629144,0.2816374,9.704345e-18,0.012071185,0.70629144
+original/VeryMildDemented/verymildDem1027.jpg,VeryMildDemented,MildDemented,0.9477723,0.9477723,2.146526e-17,0.0049263523,0.047301352
+original/VeryMildDemented/verymildDem104.jpg,VeryMildDemented,VeryMildDemented,0.65273356,0.3468105,2.2442943e-10,0.0004559557,0.65273356
+original/VeryMildDemented/verymildDem1052.jpg,VeryMildDemented,NonDemented,0.9539557,2.928687e-06,3.805664e-12,0.9539557,0.046041362
+original/VeryMildDemented/verymildDem1055.jpg,VeryMildDemented,NonDemented,0.98500377,0.014928183,1.0794002e-12,0.98500377,6.8001675e-05
+original/VeryMildDemented/verymildDem1057.jpg,VeryMildDemented,MildDemented,0.6799753,0.6799753,2.1665578e-09,0.00019590334,0.31982887
+original/VeryMildDemented/verymildDem106.jpg,VeryMildDemented,MildDemented,0.8703496,0.8703496,0.0012250458,0.021649923,0.10677549
+original/VeryMildDemented/verymildDem1061.jpg,VeryMildDemented,VeryMildDemented,0.9971417,5.4323293e-05,1.5057303e-10,0.002803935,0.9971417
+original/VeryMildDemented/verymildDem1065.jpg,VeryMildDemented,MildDemented,0.78973454,0.78973454,0.0042395378,0.0005296743,0.20549624
+original/VeryMildDemented/verymildDem1066.jpg,VeryMildDemented,VeryMildDemented,0.910379,7.895349e-06,1.38573905e-05,0.08959927,0.910379
+original/VeryMildDemented/verymildDem1069.jpg,VeryMildDemented,MildDemented,0.90299886,0.90299886,1.9037883e-12,0.09611081,0.000890291
+original/VeryMildDemented/verymildDem1071.jpg,VeryMildDemented,VeryMildDemented,0.6752148,0.0351817,5.2688113e-17,0.2896035,0.6752148
+original/VeryMildDemented/verymildDem1075.jpg,VeryMildDemented,VeryMildDemented,0.7429613,1.3593251e-05,1.2035054e-11,0.25702515,0.7429613
+original/VeryMildDemented/verymildDem1086.jpg,VeryMildDemented,MildDemented,0.91467434,0.91467434,1.3605297e-09,0.0006096877,0.084716015
+original/VeryMildDemented/verymildDem1090.jpg,VeryMildDemented,VeryMildDemented,0.9827089,0.006963417,2.3798675e-08,0.0103276465,0.9827089
+original/VeryMildDemented/verymildDem1091.jpg,VeryMildDemented,ModerateDemented,0.9871761,0.001807305,0.9871761,6.527337e-06,0.011010069
+original/VeryMildDemented/verymildDem1101.jpg,VeryMildDemented,NonDemented,0.8121666,0.16309421,1.7356354e-17,0.8121666,0.024739252
+original/VeryMildDemented/verymildDem1103.jpg,VeryMildDemented,MildDemented,0.88957816,0.88957816,6.8829133e-13,0.08992569,0.02049617
+original/VeryMildDemented/verymildDem1105.jpg,VeryMildDemented,VeryMildDemented,0.8542011,0.14578941,5.391374e-11,9.547242e-06,0.8542011
+original/VeryMildDemented/verymildDem1107.jpg,VeryMildDemented,NonDemented,0.9151171,6.213181e-07,4.5163252e-12,0.9151171,0.0848823
+original/VeryMildDemented/verymildDem111.jpg,VeryMildDemented,MildDemented,0.95839983,0.95839983,4.13625e-11,0.00029816694,0.041301973
+original/VeryMildDemented/verymildDem1118.jpg,VeryMildDemented,VeryMildDemented,0.9940537,0.003710821,1.373213e-10,0.002235482,0.9940537
+original/VeryMildDemented/verymildDem1121.jpg,VeryMildDemented,VeryMildDemented,0.8962022,0.001298305,0.101968296,0.0005312242,0.8962022
+original/VeryMildDemented/verymildDem1127.jpg,VeryMildDemented,MildDemented,0.8296113,0.8296113,7.149922e-13,0.00023700914,0.17015168
+original/VeryMildDemented/verymildDem1166.jpg,VeryMildDemented,VeryMildDemented,0.95176363,0.0018893653,0.019211011,0.027135925,0.95176363
+original/VeryMildDemented/verymildDem1170.jpg,VeryMildDemented,NonDemented,0.99500895,0.00041716316,2.1195752e-09,0.99500895,0.0045738923
+original/VeryMildDemented/verymildDem1171.jpg,VeryMildDemented,NonDemented,0.72622675,0.10359647,1.7831906e-16,0.72622675,0.17017671
+original/VeryMildDemented/verymildDem1173.jpg,VeryMildDemented,VeryMildDemented,0.9746212,0.019488148,5.3933963e-10,0.0058906456,0.9746212
+original/VeryMildDemented/verymildDem1174.jpg,VeryMildDemented,MildDemented,0.828228,0.828228,0.011026432,0.00018681474,0.16055872
+original/VeryMildDemented/verymildDem118.jpg,VeryMildDemented,VeryMildDemented,0.8779429,1.0171564e-06,7.3367934e-14,0.12205599,0.8779429
+original/VeryMildDemented/verymildDem1187.jpg,VeryMildDemented,VeryMildDemented,0.99915016,9.87178e-05,2.8801674e-13,0.00075113,0.99915016
+original/VeryMildDemented/verymildDem1188.jpg,VeryMildDemented,VeryMildDemented,0.9774483,0.017064128,1.3082706e-14,0.005487572,0.9774483
+original/VeryMildDemented/verymildDem1192.jpg,VeryMildDemented,NonDemented,0.93630856,0.015522467,2.242606e-12,0.93630856,0.048169006
+original/VeryMildDemented/verymildDem1197.jpg,VeryMildDemented,VeryMildDemented,0.6375684,0.33991843,2.4296262e-10,0.022513146,0.6375684
+original/VeryMildDemented/verymildDem1201.jpg,VeryMildDemented,VeryMildDemented,0.99350905,0.001082235,5.9825814e-15,0.0054086796,0.99350905
+original/VeryMildDemented/verymildDem1208.jpg,VeryMildDemented,VeryMildDemented,0.81148815,0.00071341766,2.0626365e-11,0.18779846,0.81148815
+original/VeryMildDemented/verymildDem1209.jpg,VeryMildDemented,VeryMildDemented,0.47721517,0.057909023,2.7130743e-16,0.46487582,0.47721517
+original/VeryMildDemented/verymildDem121.jpg,VeryMildDemented,VeryMildDemented,0.9506684,0.028918099,1.4463468e-15,0.020413548,0.9506684
+original/VeryMildDemented/verymildDem1221.jpg,VeryMildDemented,NonDemented,0.9150753,0.025920615,2.3846218e-09,0.9150753,0.059004087
+original/VeryMildDemented/verymildDem1233.jpg,VeryMildDemented,VeryMildDemented,0.95557535,3.1490647e-06,0.00023388257,0.044187646,0.95557535
+original/VeryMildDemented/verymildDem1237.jpg,VeryMildDemented,MildDemented,0.96846026,0.96846026,2.857655e-13,0.005053678,0.026486032
+original/VeryMildDemented/verymildDem1247.jpg,VeryMildDemented,NonDemented,0.95393735,9.764284e-07,1.9555161e-08,0.95393735,0.046061635
+original/VeryMildDemented/verymildDem1260.jpg,VeryMildDemented,NonDemented,0.52812415,1.1333856e-08,2.0315858e-14,0.52812415,0.4718759
+original/VeryMildDemented/verymildDem1268.jpg,VeryMildDemented,VeryMildDemented,0.68766516,0.30422905,1.4300227e-13,0.008105848,0.68766516
+original/VeryMildDemented/verymildDem1274.jpg,VeryMildDemented,NonDemented,0.9241217,0.00010820335,1.6295887e-11,0.9241217,0.07577008
+original/VeryMildDemented/verymildDem1277.jpg,VeryMildDemented,VeryMildDemented,0.42110458,0.3123877,1.0111349e-07,0.2665076,0.42110458
+original/VeryMildDemented/verymildDem1279.jpg,VeryMildDemented,NonDemented,0.87103313,0.037400715,1.4408035e-15,0.87103313,0.09156614
+original/VeryMildDemented/verymildDem1281.jpg,VeryMildDemented,NonDemented,0.5932081,0.0001757103,3.6567153e-19,0.5932081,0.40661624
+original/VeryMildDemented/verymildDem1292.jpg,VeryMildDemented,VeryMildDemented,0.61979204,0.37269017,1.150851e-09,0.007517785,0.61979204
+original/VeryMildDemented/verymildDem1300.jpg,VeryMildDemented,VeryMildDemented,0.9660194,0.004772539,8.833023e-07,0.029207237,0.9660194
+original/VeryMildDemented/verymildDem1307.jpg,VeryMildDemented,VeryMildDemented,0.5106036,0.47965795,1.786375e-08,0.009738372,0.5106036
+original/VeryMildDemented/verymildDem1309.jpg,VeryMildDemented,NonDemented,0.9936857,1.8783915e-07,4.697477e-11,0.9936857,0.0063140816
+original/VeryMildDemented/verymildDem131.jpg,VeryMildDemented,VeryMildDemented,0.52541673,0.00021195093,3.813973e-06,0.47436756,0.52541673
+original/VeryMildDemented/verymildDem1314.jpg,VeryMildDemented,MildDemented,0.92912936,0.92912936,1.9069957e-05,8.227694e-06,0.07084335
+original/VeryMildDemented/verymildDem1315.jpg,VeryMildDemented,MildDemented,0.993798,0.993798,1.0285093e-08,0.0035431942,0.0026587788
+original/VeryMildDemented/verymildDem1316.jpg,VeryMildDemented,VeryMildDemented,0.99459726,0.004648991,7.500951e-10,0.0007537061,0.99459726
+original/VeryMildDemented/verymildDem1319.jpg,VeryMildDemented,VeryMildDemented,0.976432,2.1147216e-05,2.5147057e-10,0.023546826,0.976432
+original/VeryMildDemented/verymildDem1327.jpg,VeryMildDemented,VeryMildDemented,0.9150395,0.00039422713,2.1154009e-11,0.08456624,0.9150395
+original/VeryMildDemented/verymildDem1329.jpg,VeryMildDemented,VeryMildDemented,0.9860911,4.8336977e-05,5.652182e-12,0.013860597,0.9860911
+original/VeryMildDemented/verymildDem1331.jpg,VeryMildDemented,ModerateDemented,0.866604,7.2792595e-06,0.866604,0.0021155493,0.13127317
+original/VeryMildDemented/verymildDem1337.jpg,VeryMildDemented,MildDemented,0.8836996,0.8836996,9.365616e-15,0.00011508059,0.11618536
+original/VeryMildDemented/verymildDem1338.jpg,VeryMildDemented,VeryMildDemented,0.86066717,0.13667445,1.1769176e-15,0.002658415,0.86066717
+original/VeryMildDemented/verymildDem1340.jpg,VeryMildDemented,NonDemented,0.73651415,1.2975946e-06,1.0618837e-05,0.73651415,0.26347393
+original/VeryMildDemented/verymildDem1343.jpg,VeryMildDemented,VeryMildDemented,0.6563036,0.0108475415,6.214265e-08,0.3328488,0.6563036
+original/VeryMildDemented/verymildDem1379.jpg,VeryMildDemented,NonDemented,0.6339177,2.031902e-07,2.205693e-09,0.6339177,0.36608213
+original/VeryMildDemented/verymildDem1391.jpg,VeryMildDemented,NonDemented,0.9468603,7.828967e-05,0.00069480017,0.9468603,0.05236656
+original/VeryMildDemented/verymildDem1396.jpg,VeryMildDemented,VeryMildDemented,0.58169097,0.3201603,1.8691354e-21,0.098148726,0.58169097
+original/VeryMildDemented/verymildDem1398.jpg,VeryMildDemented,VeryMildDemented,0.9654722,0.03339645,3.1244491e-09,0.0011313424,0.9654722
+original/VeryMildDemented/verymildDem14.jpg,VeryMildDemented,VeryMildDemented,0.9179797,0.07609786,3.1763168e-15,0.0059223734,0.9179797
+original/VeryMildDemented/verymildDem1404.jpg,VeryMildDemented,MildDemented,0.87394947,0.87394947,5.574614e-08,0.028589593,0.09746088
+original/VeryMildDemented/verymildDem1415.jpg,VeryMildDemented,VeryMildDemented,0.99162215,0.008207035,1.1053888e-09,0.00017080492,0.99162215
+original/VeryMildDemented/verymildDem1417.jpg,VeryMildDemented,MildDemented,0.8966138,0.8966138,1.5818414e-07,0.10194845,0.0014375822
+original/VeryMildDemented/verymildDem1422.jpg,VeryMildDemented,MildDemented,0.96958184,0.96958184,4.2509737e-12,0.0011467015,0.029271454
+original/VeryMildDemented/verymildDem1447.jpg,VeryMildDemented,NonDemented,0.8783652,0.04504544,3.9867797e-12,0.8783652,0.07658938
+original/VeryMildDemented/verymildDem1449.jpg,VeryMildDemented,VeryMildDemented,0.710633,0.010068925,1.7686992e-07,0.27929798,0.710633
+original/VeryMildDemented/verymildDem145.jpg,VeryMildDemented,NonDemented,0.9998694,2.2852215e-05,2.0154043e-11,0.9998694,0.00010770387
+original/VeryMildDemented/verymildDem1452.jpg,VeryMildDemented,VeryMildDemented,0.75196505,0.23786896,2.4242473e-07,0.010165741,0.75196505
+original/VeryMildDemented/verymildDem1461.jpg,VeryMildDemented,NonDemented,0.90870607,3.8657568e-06,7.816541e-08,0.90870607,0.09128997
+original/VeryMildDemented/verymildDem1466.jpg,VeryMildDemented,VeryMildDemented,0.984963,0.012401754,3.9087789e-16,0.002635258,0.984963
+original/VeryMildDemented/verymildDem1467.jpg,VeryMildDemented,VeryMildDemented,0.9188712,0.08096653,4.5560144e-12,0.0001622536,0.9188712
+original/VeryMildDemented/verymildDem1469.jpg,VeryMildDemented,VeryMildDemented,0.99927795,3.332762e-06,4.9650534e-10,0.00071873574,0.99927795
+original/VeryMildDemented/verymildDem1473.jpg,VeryMildDemented,NonDemented,0.9122272,0.0001709604,0.0067182076,0.9122272,0.08088359
+original/VeryMildDemented/verymildDem148.jpg,VeryMildDemented,VeryMildDemented,0.97324014,0.0019991149,2.2534e-12,0.024760764,0.97324014
+original/VeryMildDemented/verymildDem1481.jpg,VeryMildDemented,MildDemented,0.8723875,0.8723875,4.5745774e-06,0.015783204,0.11182462
+original/VeryMildDemented/verymildDem1505.jpg,VeryMildDemented,MildDemented,0.8775672,0.8775672,1.4954756e-07,0.0057810484,0.116651624
+original/VeryMildDemented/verymildDem1516.jpg,VeryMildDemented,VeryMildDemented,0.89985937,0.059409216,5.4372517e-06,0.040725965,0.89985937
+original/VeryMildDemented/verymildDem1517.jpg,VeryMildDemented,VeryMildDemented,0.8889406,0.00026683387,1.4590293e-10,0.1107926,0.8889406
+original/VeryMildDemented/verymildDem1519.jpg,VeryMildDemented,VeryMildDemented,0.7037006,0.00015936918,3.439801e-08,0.29613996,0.7037006
+original/VeryMildDemented/verymildDem1526.jpg,VeryMildDemented,VeryMildDemented,0.9869217,0.010248448,2.325883e-08,0.0028298278,0.9869217
+original/VeryMildDemented/verymildDem1530.jpg,VeryMildDemented,ModerateDemented,0.99552387,0.00014926864,0.99552387,0.0041954545,0.00013141904
+original/VeryMildDemented/verymildDem1535.jpg,VeryMildDemented,VeryMildDemented,0.6325342,0.25761887,4.2167272e-07,0.1098464,0.6325342
+original/VeryMildDemented/verymildDem1539.jpg,VeryMildDemented,VeryMildDemented,0.9976913,5.7055786e-05,5.617946e-14,0.0022516877,0.9976913
+original/VeryMildDemented/verymildDem154.jpg,VeryMildDemented,VeryMildDemented,0.9811487,0.012181355,2.1602291e-11,0.0066699227,0.9811487
+original/VeryMildDemented/verymildDem155.jpg,VeryMildDemented,VeryMildDemented,0.8470351,0.14426975,0.008184962,0.00051018293,0.8470351
+original/VeryMildDemented/verymildDem156.jpg,VeryMildDemented,MildDemented,0.860825,0.860825,9.1745905e-10,0.025242638,0.113932356
+original/VeryMildDemented/verymildDem1565.jpg,VeryMildDemented,NonDemented,0.92682457,1.8973267e-08,4.3776774e-13,0.92682457,0.07317543
+original/VeryMildDemented/verymildDem1570.jpg,VeryMildDemented,MildDemented,0.5001216,0.5001216,0.024006559,8.6194515e-05,0.47578573
+original/VeryMildDemented/verymildDem1571.jpg,VeryMildDemented,NonDemented,0.7912765,0.0017113335,1.638857e-08,0.7912765,0.20701216
+original/VeryMildDemented/verymildDem1579.jpg,VeryMildDemented,NonDemented,0.67097473,0.00026375204,3.4233405e-10,0.67097473,0.32876155
+original/VeryMildDemented/verymildDem1582.jpg,VeryMildDemented,VeryMildDemented,0.84968656,0.09320275,1.559754e-17,0.0571107,0.84968656
+original/VeryMildDemented/verymildDem1585.jpg,VeryMildDemented,MildDemented,0.8177537,0.8177537,7.943751e-08,0.16948397,0.01276229
+original/VeryMildDemented/verymildDem1597.jpg,VeryMildDemented,NonDemented,0.89527017,1.1378823e-08,1.0193332e-09,0.89527017,0.104729794
+original/VeryMildDemented/verymildDem1609.jpg,VeryMildDemented,VeryMildDemented,0.99421066,2.2174763e-05,3.0625775e-09,0.005767099,0.99421066
+original/VeryMildDemented/verymildDem1613.jpg,VeryMildDemented,NonDemented,0.8533988,6.789686e-06,7.562251e-08,0.8533988,0.14659436
+original/VeryMildDemented/verymildDem1629.jpg,VeryMildDemented,VeryMildDemented,0.82067496,0.17438947,0.0026588822,0.0022766734,0.82067496
+original/VeryMildDemented/verymildDem1630.jpg,VeryMildDemented,MildDemented,0.9971808,0.9971808,2.440172e-09,0.0006977115,0.002121545
+original/VeryMildDemented/verymildDem1632.jpg,VeryMildDemented,VeryMildDemented,0.9800164,1.0553424e-05,3.00254e-10,0.019973053,0.9800164
+original/VeryMildDemented/verymildDem1637.jpg,VeryMildDemented,VeryMildDemented,0.6867631,1.5810996e-07,2.8734886e-11,0.31323668,0.6867631
+original/VeryMildDemented/verymildDem1638.jpg,VeryMildDemented,VeryMildDemented,0.6724972,0.3274985,4.657546e-10,4.345732e-06,0.6724972
+original/VeryMildDemented/verymildDem1644.jpg,VeryMildDemented,MildDemented,0.9391785,0.9391785,4.0001664e-09,0.04090897,0.019912519
+original/VeryMildDemented/verymildDem1645.jpg,VeryMildDemented,MildDemented,0.9930324,0.9930324,8.783803e-08,0.0017522894,0.0052151796
+original/VeryMildDemented/verymildDem1660.jpg,VeryMildDemented,NonDemented,0.63889134,4.3677346e-07,3.91584e-09,0.63889134,0.36110818
+original/VeryMildDemented/verymildDem1669.jpg,VeryMildDemented,NonDemented,0.6937173,0.00010162568,9.81548e-19,0.6937173,0.3061811
+original/VeryMildDemented/verymildDem1673.jpg,VeryMildDemented,NonDemented,0.9676981,4.8775993e-05,9.481208e-10,0.9676981,0.03225312
+original/VeryMildDemented/verymildDem1689.jpg,VeryMildDemented,VeryMildDemented,0.8514986,0.14797497,8.4330474e-17,0.000526409,0.8514986
+original/VeryMildDemented/verymildDem17.jpg,VeryMildDemented,VeryMildDemented,0.9350645,0.059819587,7.329326e-07,0.005115178,0.9350645
+original/VeryMildDemented/verymildDem1714.jpg,VeryMildDemented,MildDemented,0.852146,0.852146,1.9238787e-07,0.118430056,0.02942372
+original/VeryMildDemented/verymildDem1715.jpg,VeryMildDemented,MildDemented,0.85856044,0.85856044,7.563374e-08,0.09167651,0.049763016
+original/VeryMildDemented/verymildDem1721.jpg,VeryMildDemented,VeryMildDemented,0.98286426,0.0005298044,1.8717267e-13,0.016605971,0.98286426
+original/VeryMildDemented/verymildDem1733.jpg,VeryMildDemented,MildDemented,0.96436685,0.96436685,2.5166955e-07,0.027053058,0.008579841
+original/VeryMildDemented/verymildDem174.jpg,VeryMildDemented,VeryMildDemented,0.95225024,0.023088567,5.2818222e-11,0.024661196,0.95225024
+original/VeryMildDemented/verymildDem1747.jpg,VeryMildDemented,VeryMildDemented,0.99711984,0.0015213843,0.0009851134,0.00037362913,0.99711984
+original/VeryMildDemented/verymildDem1758.jpg,VeryMildDemented,VeryMildDemented,0.7339769,0.21789356,1.2771449e-07,0.048129395,0.7339769
+original/VeryMildDemented/verymildDem1761.jpg,VeryMildDemented,VeryMildDemented,0.997043,0.0018757028,4.3544055e-06,0.0010769082,0.997043
+original/VeryMildDemented/verymildDem177.jpg,VeryMildDemented,MildDemented,0.8467751,0.8467751,1.6059552e-08,0.00076548336,0.15245937
+original/VeryMildDemented/verymildDem1779.jpg,VeryMildDemented,MildDemented,0.4634872,0.4634872,1.5975626e-10,0.090399474,0.44611326
+original/VeryMildDemented/verymildDem1783.jpg,VeryMildDemented,MildDemented,0.7108948,0.7108948,5.1665373e-11,0.016406046,0.2726991
+original/VeryMildDemented/verymildDem1784.jpg,VeryMildDemented,MildDemented,0.9968269,0.9968269,5.739196e-08,0.0022224484,0.0009506642
+original/VeryMildDemented/verymildDem199.jpg,VeryMildDemented,VeryMildDemented,0.99412405,0.0054162527,2.4237082e-13,0.0004596637,0.99412405
+original/VeryMildDemented/verymildDem2.jpg,VeryMildDemented,NonDemented,0.98075926,3.237446e-06,8.487144e-10,0.98075926,0.019237524
+original/VeryMildDemented/verymildDem20.jpg,VeryMildDemented,NonDemented,0.5466749,0.0013248227,2.9555067e-10,0.5466749,0.45200026
+original/VeryMildDemented/verymildDem201.jpg,VeryMildDemented,VeryMildDemented,0.60246277,2.535956e-05,1.2079468e-11,0.39751193,0.60246277
+original/VeryMildDemented/verymildDem205.jpg,VeryMildDemented,NonDemented,0.57557356,0.3878933,1.9145746e-13,0.57557356,0.036533218
+original/VeryMildDemented/verymildDem217.jpg,VeryMildDemented,VeryMildDemented,0.9961819,0.0028607347,5.157288e-09,0.0009573421,0.9961819
+original/VeryMildDemented/verymildDem235.jpg,VeryMildDemented,NonDemented,0.9635816,1.4284711e-05,6.731887e-10,0.9635816,0.036404062
+original/VeryMildDemented/verymildDem237.jpg,VeryMildDemented,MildDemented,0.7242528,0.7242528,6.147149e-05,0.26914224,0.006543556
+original/VeryMildDemented/verymildDem238.jpg,VeryMildDemented,VeryMildDemented,0.9764384,0.02149399,2.0229766e-08,0.0020676113,0.9764384
+original/VeryMildDemented/verymildDem259.jpg,VeryMildDemented,NonDemented,0.614165,0.14491244,2.8770506e-05,0.614165,0.24089384
+original/VeryMildDemented/verymildDem274.jpg,VeryMildDemented,VeryMildDemented,0.9242252,0.0002823734,7.1188924e-17,0.07549244,0.9242252
+original/VeryMildDemented/verymildDem276.jpg,VeryMildDemented,VeryMildDemented,0.9957828,0.0036079849,6.5704535e-14,0.0006092386,0.9957828
+original/VeryMildDemented/verymildDem278.jpg,VeryMildDemented,VeryMildDemented,0.5808555,0.25352946,4.3177025e-07,0.16561462,0.5808555
+original/VeryMildDemented/verymildDem279.jpg,VeryMildDemented,VeryMildDemented,0.90848523,0.0003404031,3.5784847e-15,0.091174334,0.90848523
+original/VeryMildDemented/verymildDem280.jpg,VeryMildDemented,NonDemented,0.6517878,0.33998847,2.991661e-13,0.6517878,0.008223642
+original/VeryMildDemented/verymildDem286.jpg,VeryMildDemented,VeryMildDemented,0.99603206,0.00014543206,2.0859986e-06,0.003820388,0.99603206
+original/VeryMildDemented/verymildDem295.jpg,VeryMildDemented,VeryMildDemented,0.9977265,0.00055633544,1.3882034e-06,0.0017158451,0.9977265
+original/VeryMildDemented/verymildDem297.jpg,VeryMildDemented,VeryMildDemented,0.90144277,4.3196196e-05,2.1792645e-14,0.09851404,0.90144277
+original/VeryMildDemented/verymildDem307.jpg,VeryMildDemented,NonDemented,0.6647113,0.24492328,6.0999986e-07,0.6647113,0.09036485
+original/VeryMildDemented/verymildDem31.jpg,VeryMildDemented,NonDemented,0.50051266,0.011887641,2.1477344e-09,0.50051266,0.4875997
+original/VeryMildDemented/verymildDem329.jpg,VeryMildDemented,VeryMildDemented,0.7202087,0.26229998,3.806462e-05,0.017453272,0.7202087
+original/VeryMildDemented/verymildDem33.jpg,VeryMildDemented,VeryMildDemented,0.85031056,0.09096957,4.5003767e-06,0.058715377,0.85031056
+original/VeryMildDemented/verymildDem333.jpg,VeryMildDemented,VeryMildDemented,0.9925161,0.005863958,2.8023472e-10,0.0016198934,0.9925161
+original/VeryMildDemented/verymildDem335.jpg,VeryMildDemented,VeryMildDemented,0.9890221,0.0016205187,4.821873e-16,0.009357383,0.9890221
+original/VeryMildDemented/verymildDem344.jpg,VeryMildDemented,VeryMildDemented,0.5364628,1.83613e-05,5.480815e-19,0.46351883,0.5364628
+original/VeryMildDemented/verymildDem351.jpg,VeryMildDemented,NonDemented,0.4989943,0.004741507,6.957882e-08,0.4989943,0.49626413
+original/VeryMildDemented/verymildDem352.jpg,VeryMildDemented,NonDemented,0.9995561,2.9239232e-05,6.91747e-09,0.9995561,0.0004146437
+original/VeryMildDemented/verymildDem354.jpg,VeryMildDemented,NonDemented,0.9479866,0.00017445236,2.091606e-19,0.9479866,0.051839013
+original/VeryMildDemented/verymildDem356.jpg,VeryMildDemented,VeryMildDemented,0.99922234,0.00033483334,4.635088e-06,0.00043820177,0.99922234
+original/VeryMildDemented/verymildDem357.jpg,VeryMildDemented,VeryMildDemented,0.9252211,0.074684106,1.0349952e-07,9.470769e-05,0.9252211
+original/VeryMildDemented/verymildDem359.jpg,VeryMildDemented,NonDemented,0.85736287,2.389017e-08,1.1607283e-12,0.85736287,0.14263718
+original/VeryMildDemented/verymildDem364.jpg,VeryMildDemented,NonDemented,0.5564605,0.036741253,7.267164e-13,0.5564605,0.40679824
+original/VeryMildDemented/verymildDem377.jpg,VeryMildDemented,MildDemented,0.78757614,0.78757614,3.98901e-12,0.13255057,0.0798733
+original/VeryMildDemented/verymildDem38.jpg,VeryMildDemented,VeryMildDemented,0.99504775,0.00010571613,2.1412485e-09,0.0048465426,0.99504775
+original/VeryMildDemented/verymildDem382.jpg,VeryMildDemented,VeryMildDemented,0.9855881,0.00056840637,1.3284864e-09,0.013843515,0.9855881
+original/VeryMildDemented/verymildDem397.jpg,VeryMildDemented,VeryMildDemented,0.9425176,0.00014874699,1.0191905e-15,0.057333663,0.9425176
+original/VeryMildDemented/verymildDem399.jpg,VeryMildDemented,VeryMildDemented,0.99301016,0.002774694,1.4478925e-13,0.004215158,0.99301016
+original/VeryMildDemented/verymildDem40.jpg,VeryMildDemented,VeryMildDemented,0.7544715,0.24524607,1.5384675e-12,0.0002824332,0.7544715
+original/VeryMildDemented/verymildDem402.jpg,VeryMildDemented,VeryMildDemented,0.9774085,0.00012608679,4.1628093e-17,0.022465354,0.9774085
+original/VeryMildDemented/verymildDem409.jpg,VeryMildDemented,NonDemented,0.6391429,0.0025545899,4.082037e-07,0.6391429,0.35830215
+original/VeryMildDemented/verymildDem41.jpg,VeryMildDemented,MildDemented,0.96310747,0.96310747,2.0876018e-10,0.0006584852,0.03623406
+original/VeryMildDemented/verymildDem420.jpg,VeryMildDemented,NonDemented,0.9974248,1.2596183e-06,1.4483755e-09,0.9974248,0.002573954
+original/VeryMildDemented/verymildDem429.jpg,VeryMildDemented,NonDemented,0.9959143,4.968106e-07,2.7539323e-12,0.9959143,0.0040852427
+original/VeryMildDemented/verymildDem43.jpg,VeryMildDemented,NonDemented,0.9922226,0.0002772638,3.24732e-08,0.9922226,0.0075001647
+original/VeryMildDemented/verymildDem433.jpg,VeryMildDemented,VeryMildDemented,0.99733603,0.00033518404,7.0652206e-11,0.0023288054,0.99733603
+original/VeryMildDemented/verymildDem434.jpg,VeryMildDemented,NonDemented,0.9328826,0.004658055,2.4758847e-12,0.9328826,0.062459342
+original/VeryMildDemented/verymildDem442.jpg,VeryMildDemented,VeryMildDemented,0.791237,0.11407633,1.2791288e-17,0.0946867,0.791237
+original/VeryMildDemented/verymildDem462.jpg,VeryMildDemented,NonDemented,0.96216416,6.7868996e-06,2.7056774e-18,0.96216416,0.03782907
+original/VeryMildDemented/verymildDem465.jpg,VeryMildDemented,NonDemented,0.8931372,0.007329823,1.0148253e-10,0.8931372,0.09953298
+original/VeryMildDemented/verymildDem471.jpg,VeryMildDemented,VeryMildDemented,0.5033756,0.49644917,2.3556044e-17,0.00017526378,0.5033756
+original/VeryMildDemented/verymildDem473.jpg,VeryMildDemented,VeryMildDemented,0.992164,0.00091185095,1.7175478e-12,0.006924148,0.992164
+original/VeryMildDemented/verymildDem482.jpg,VeryMildDemented,MildDemented,0.8455943,0.8455943,1.1329418e-11,0.13895288,0.01545288
+original/VeryMildDemented/verymildDem483.jpg,VeryMildDemented,NonDemented,0.9995436,7.627671e-08,9.488071e-07,0.9995436,0.0004553851
+original/VeryMildDemented/verymildDem497.jpg,VeryMildDemented,MildDemented,0.68688834,0.68688834,2.8504485e-07,8.6571714e-07,0.3131106
+original/VeryMildDemented/verymildDem507.jpg,VeryMildDemented,VeryMildDemented,0.73810387,0.0009815583,1.6111353e-14,0.2609145,0.73810387
+original/VeryMildDemented/verymildDem511.jpg,VeryMildDemented,NonDemented,0.5135267,0.0014437456,3.8820024e-12,0.5135267,0.48502958
+original/VeryMildDemented/verymildDem513.jpg,VeryMildDemented,MildDemented,0.92459613,0.92459613,0.061540864,0.00072592054,0.013137041
+original/VeryMildDemented/verymildDem529.jpg,VeryMildDemented,VeryMildDemented,0.8545617,0.0074538575,0.13412103,0.0038634327,0.8545617
+original/VeryMildDemented/verymildDem530.jpg,VeryMildDemented,VeryMildDemented,0.76466066,0.2342608,4.2387785e-07,0.0010781257,0.76466066
+original/VeryMildDemented/verymildDem533.jpg,VeryMildDemented,NonDemented,0.99922234,0.00017188757,4.093007e-06,0.99922234,0.00060173747
+original/VeryMildDemented/verymildDem534.jpg,VeryMildDemented,NonDemented,0.9980776,0.0017939864,1.8233332e-13,0.9980776,0.00012850548
+original/VeryMildDemented/verymildDem540.jpg,VeryMildDemented,NonDemented,0.9949685,7.6371236e-07,4.4770223e-09,0.9949685,0.005030716
+original/VeryMildDemented/verymildDem541.jpg,VeryMildDemented,VeryMildDemented,0.8534871,0.14603303,4.6051287e-18,0.0004798664,0.8534871
+original/VeryMildDemented/verymildDem543.jpg,VeryMildDemented,VeryMildDemented,0.9988247,0.000102816986,1.0939973e-09,0.0010724077,0.9988247
+original/VeryMildDemented/verymildDem548.jpg,VeryMildDemented,NonDemented,0.99169964,1.9610228e-07,4.0494869e-10,0.99169964,0.008300152
+original/VeryMildDemented/verymildDem557.jpg,VeryMildDemented,VeryMildDemented,0.9936883,0.00491318,2.0072158e-14,0.0013985147,0.9936883
+original/VeryMildDemented/verymildDem562.jpg,VeryMildDemented,VeryMildDemented,0.6416547,0.0038578669,1.1149366e-10,0.3544875,0.6416547
+original/VeryMildDemented/verymildDem563.jpg,VeryMildDemented,NonDemented,0.9950457,0.00044555575,2.2276307e-09,0.9950457,0.0045087724
+original/VeryMildDemented/verymildDem566.jpg,VeryMildDemented,VeryMildDemented,0.9978401,1.12209045e-05,2.4066455e-06,0.00214623,0.9978401
+original/VeryMildDemented/verymildDem577.jpg,VeryMildDemented,VeryMildDemented,0.8625326,0.0015056876,2.0942261e-17,0.13596173,0.8625326
+original/VeryMildDemented/verymildDem586.jpg,VeryMildDemented,VeryMildDemented,0.87325674,5.3545396e-06,1.2332639e-10,0.12673794,0.87325674
+original/VeryMildDemented/verymildDem588.jpg,VeryMildDemented,VeryMildDemented,0.75993735,0.23943932,1.4140119e-13,0.00062329916,0.75993735
+original/VeryMildDemented/verymildDem595.jpg,VeryMildDemented,VeryMildDemented,0.96883494,0.0067312857,2.1347958e-12,0.024433786,0.96883494
+original/VeryMildDemented/verymildDem600.jpg,VeryMildDemented,VeryMildDemented,0.93554264,0.06429967,1.1287128e-06,0.00015650809,0.93554264
+original/VeryMildDemented/verymildDem603.jpg,VeryMildDemented,NonDemented,0.9881559,0.000364256,1.9534884e-06,0.9881559,0.011477865
+original/VeryMildDemented/verymildDem609.jpg,VeryMildDemented,VeryMildDemented,0.99635786,0.00025497263,3.762477e-12,0.0033871592,0.99635786
+original/VeryMildDemented/verymildDem61.jpg,VeryMildDemented,VeryMildDemented,0.8938668,2.612419e-05,1.4135405e-07,0.10610694,0.8938668
+original/VeryMildDemented/verymildDem611.jpg,VeryMildDemented,MildDemented,0.8059175,0.8059175,7.329402e-12,0.13271514,0.06136733
+original/VeryMildDemented/verymildDem612.jpg,VeryMildDemented,NonDemented,0.9424113,2.7834709e-05,2.6153557e-11,0.9424113,0.057560842
+original/VeryMildDemented/verymildDem616.jpg,VeryMildDemented,NonDemented,0.93556094,0.00077625545,7.613332e-15,0.93556094,0.06366273
+original/VeryMildDemented/verymildDem634.jpg,VeryMildDemented,VeryMildDemented,0.99134123,0.0033321292,6.5734766e-13,0.005326584,0.99134123
+original/VeryMildDemented/verymildDem636.jpg,VeryMildDemented,VeryMildDemented,0.946255,0.013340129,1.2224549e-06,0.04040361,0.946255
+original/VeryMildDemented/verymildDem641.jpg,VeryMildDemented,NonDemented,0.99250746,1.058734e-08,0.0067702015,0.99250746,0.0007223844
+original/VeryMildDemented/verymildDem654.jpg,VeryMildDemented,VeryMildDemented,0.9634124,0.036098387,1.9767303e-14,0.000489214,0.9634124
+original/VeryMildDemented/verymildDem674.jpg,VeryMildDemented,NonDemented,0.7266746,0.002602165,2.6692322e-05,0.7266746,0.27069646
+original/VeryMildDemented/verymildDem675.jpg,VeryMildDemented,VeryMildDemented,0.7491829,0.25021085,8.326324e-17,0.0006062195,0.7491829
+original/VeryMildDemented/verymildDem678.jpg,VeryMildDemented,MildDemented,0.9802746,0.9802746,0.010710369,0.0017832093,0.007231817
+original/VeryMildDemented/verymildDem682.jpg,VeryMildDemented,VeryMildDemented,0.97148484,1.3493534e-05,2.7142156e-12,0.02850169,0.97148484
+original/VeryMildDemented/verymildDem695.jpg,VeryMildDemented,VeryMildDemented,0.99971807,0.00013635674,0.000104965904,4.061146e-05,0.99971807
+original/VeryMildDemented/verymildDem696.jpg,VeryMildDemented,VeryMildDemented,0.99789274,5.381401e-05,2.8751046e-16,0.0020534452,0.99789274
+original/VeryMildDemented/verymildDem705.jpg,VeryMildDemented,NonDemented,0.99706554,1.5181101e-05,5.2325194e-10,0.99706554,0.0029192988
+original/VeryMildDemented/verymildDem718.jpg,VeryMildDemented,VeryMildDemented,0.9728733,0.006018976,4.755657e-11,0.02110778,0.9728733
+original/VeryMildDemented/verymildDem725.jpg,VeryMildDemented,NonDemented,0.92156,2.3934812e-05,7.2387563e-16,0.92156,0.07841612
+original/VeryMildDemented/verymildDem726.jpg,VeryMildDemented,NonDemented,0.7513591,5.3453114e-05,2.6982108e-12,0.7513591,0.24858743
+original/VeryMildDemented/verymildDem728.jpg,VeryMildDemented,VeryMildDemented,0.9338804,0.0003925677,3.534625e-08,0.065726995,0.9338804
+original/VeryMildDemented/verymildDem731.jpg,VeryMildDemented,NonDemented,0.48060468,0.44648638,1.8532836e-06,0.48060468,0.07290715
+original/VeryMildDemented/verymildDem741.jpg,VeryMildDemented,ModerateDemented,0.7952345,0.0012461853,0.7952345,0.19795273,0.005566618
+original/VeryMildDemented/verymildDem749.jpg,VeryMildDemented,NonDemented,0.76209575,0.013187082,3.4400996e-10,0.76209575,0.22471718
+original/VeryMildDemented/verymildDem776.jpg,VeryMildDemented,VeryMildDemented,0.9346423,0.00022670471,8.6675944e-05,0.06504428,0.9346423
+original/VeryMildDemented/verymildDem781.jpg,VeryMildDemented,VeryMildDemented,0.69657284,5.470875e-05,7.999448e-08,0.3033724,0.69657284
+original/VeryMildDemented/verymildDem788.jpg,VeryMildDemented,VeryMildDemented,0.8418602,0.11257821,4.6482717e-11,0.045561604,0.8418602
+original/VeryMildDemented/verymildDem789.jpg,VeryMildDemented,MildDemented,0.64506894,0.64506894,2.4916582e-05,0.14291312,0.21199307
+original/VeryMildDemented/verymildDem79.jpg,VeryMildDemented,NonDemented,0.9228624,7.8776364e-05,2.687635e-16,0.9228624,0.077058755
+original/VeryMildDemented/verymildDem800.jpg,VeryMildDemented,MildDemented,0.97694176,0.97694176,7.6018844e-11,0.0008822501,0.022175938
+original/VeryMildDemented/verymildDem816.jpg,VeryMildDemented,MildDemented,0.6716986,0.6716986,0.13748187,4.922881e-07,0.19081905
+original/VeryMildDemented/verymildDem843.jpg,VeryMildDemented,NonDemented,0.6402366,0.00015753758,7.3964806e-08,0.6402366,0.35960576
+original/VeryMildDemented/verymildDem852.jpg,VeryMildDemented,VeryMildDemented,0.95272774,0.00011773866,9.453898e-11,0.04715451,0.95272774
+original/VeryMildDemented/verymildDem857.jpg,VeryMildDemented,VeryMildDemented,0.8716633,0.127287,4.838116e-12,0.0010497314,0.8716633
+original/VeryMildDemented/verymildDem864.jpg,VeryMildDemented,VeryMildDemented,0.9917165,0.00081945,4.7141043e-14,0.007464083,0.9917165
+original/VeryMildDemented/verymildDem866.jpg,VeryMildDemented,VeryMildDemented,0.87271255,2.9352415e-05,5.9729694e-19,0.12725814,0.87271255
+original/VeryMildDemented/verymildDem871.jpg,VeryMildDemented,VeryMildDemented,0.71587145,0.0032809782,2.893641e-09,0.28084758,0.71587145
+original/VeryMildDemented/verymildDem879.jpg,VeryMildDemented,NonDemented,0.98497087,9.952375e-07,0.0015360463,0.98497087,0.013492083
+original/VeryMildDemented/verymildDem886.jpg,VeryMildDemented,VeryMildDemented,0.98765266,0.0048030354,0.007541599,2.720084e-06,0.98765266
+original/VeryMildDemented/verymildDem892.jpg,VeryMildDemented,MildDemented,0.96878,0.96878,8.745967e-19,0.020381397,0.010838636
+original/VeryMildDemented/verymildDem902.jpg,VeryMildDemented,NonDemented,0.9296064,0.0067394394,0.0012180478,0.9296064,0.062436156
+original/VeryMildDemented/verymildDem904.jpg,VeryMildDemented,VeryMildDemented,0.96144116,0.018638246,6.3326156e-13,0.019920563,0.96144116
+original/VeryMildDemented/verymildDem913.jpg,VeryMildDemented,VeryMildDemented,0.7103487,4.6230607e-06,3.2011525e-11,0.2896466,0.7103487
+original/VeryMildDemented/verymildDem914.jpg,VeryMildDemented,VeryMildDemented,0.9485661,0.048548285,7.522327e-12,0.0028856772,0.9485661
+original/VeryMildDemented/verymildDem916.jpg,VeryMildDemented,VeryMildDemented,0.9960203,0.00012393338,1.4488583e-06,0.0038543164,0.9960203
+original/VeryMildDemented/verymildDem92.jpg,VeryMildDemented,VeryMildDemented,0.9407383,0.059242036,2.1320818e-06,1.7519245e-05,0.9407383
+original/VeryMildDemented/verymildDem922.jpg,VeryMildDemented,VeryMildDemented,0.9961825,0.0015425904,7.708621e-13,0.0022748774,0.9961825
+original/VeryMildDemented/verymildDem937.jpg,VeryMildDemented,MildDemented,0.5202466,0.5202466,5.958514e-11,0.0031251898,0.47662815
+original/VeryMildDemented/verymildDem941.jpg,VeryMildDemented,VeryMildDemented,0.78283536,4.184049e-05,1.579394e-09,0.21712273,0.78283536
+original/VeryMildDemented/verymildDem953.jpg,VeryMildDemented,NonDemented,0.99712574,0.00066978775,2.3240114e-08,0.99712574,0.0022044675
+original/VeryMildDemented/verymildDem963.jpg,VeryMildDemented,MildDemented,0.9715193,0.9715193,6.2286097e-16,0.01304743,0.015433184
+original/VeryMildDemented/verymildDem967.jpg,VeryMildDemented,VeryMildDemented,0.74553496,5.7804355e-06,9.8998405e-12,0.25445926,0.74553496
+original/VeryMildDemented/verymildDem972.jpg,VeryMildDemented,NonDemented,0.82173306,0.015941666,0.00012036068,0.82173306,0.16220498
+original/VeryMildDemented/verymildDem975.jpg,VeryMildDemented,VeryMildDemented,0.9921575,0.0016565407,0.0061756778,1.0279219e-05,0.9921575
+original/VeryMildDemented/verymildDem986.jpg,VeryMildDemented,VeryMildDemented,0.6325442,0.02638614,0.0005285841,0.34054106,0.6325442
+original/VeryMildDemented/verymildDem987.jpg,VeryMildDemented,MildDemented,0.6277697,0.6277697,2.5356672e-07,0.00015624099,0.3720738
+original/VeryMildDemented/verymildDem998.jpg,VeryMildDemented,VeryMildDemented,0.8738143,0.0022796416,6.6444297e-15,0.1239061,0.8738143

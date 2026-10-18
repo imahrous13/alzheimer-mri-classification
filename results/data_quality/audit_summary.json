@@ -1,0 +1,213 @@
+{
+  "total_files": 40384,
+  "readable_files": 40384,
+  "unreadable_files": 0,
+  "datasets": [
+    "augmented",
+    "original"
+  ],
+  "classes": [
+    "MildDemented",
+    "ModerateDemented",
+    "NonDemented",
+    "VeryMildDemented"
+  ],
+  "unexpected_labels": [],
+  "missing_labels": [],
+  "exact_duplicate_rows": 657,
+  "perceptual_duplicate_rows": 14981,
+  "cross_dataset_exact_hash_groups": 0,
+  "cross_dataset_perceptual_hash_groups": 3626,
+  "class_counts": [
+    {
+      "dataset": "augmented",
+      "label": "MildDemented",
+      "count": 8960
+    },
+    {
+      "dataset": "augmented",
+      "label": "ModerateDemented",
+      "count": 6464
+    },
+    {
+      "dataset": "augmented",
+      "label": "NonDemented",
+      "count": 9600
+    },
+    {
+      "dataset": "augmented",
+      "label": "VeryMildDemented",
+      "count": 8960
+    },
+    {
+      "dataset": "original",
+      "label": "MildDemented",
+      "count": 896
+    },
+    {
+      "dataset": "original",
+      "label": "ModerateDemented",
+      "count": 64
+    },
+    {
+      "dataset": "original",
+      "label": "NonDemented",
+      "count": 3200
+    },
+    {
+      "dataset": "original",
+      "label": "VeryMildDemented",
+      "count": 2240
+    }
+  ],
+  "top_dimensions": [
+    {
+      "dataset": "augmented",
+      "width": 200,
+      "height": 190,
+      "count": 27584
+    },
+    {
+      "dataset": "augmented",
+      "width": 180,
+      "height": 180,
+      "count": 6400
+    },
+    {
+      "dataset": "original",
+      "width": 176,
+      "height": 208,
+      "count": 6400
+    }
+  ],
+  "intensity_summary": [
+    {
+      "dataset": "augmented",
+      "label": "MildDemented",
+      "mean_intensity_mean": 71.7017,
+      "mean_intensity_median": 70.3309,
+      "mean_intensity_std": 17.8183,
+      "std_intensity_mean": 75.7477,
+      "std_intensity_median": 77.9018,
+      "std_intensity_std": 11.8697,
+      "entropy_mean": 5.1687,
+      "entropy_median": 5.1694,
+      "entropy_std": 0.3968,
+      "sharpness_mean": 293.8585,
+      "sharpness_median": 274.104,
+      "sharpness_std": 118.021
+    },
+    {
+      "dataset": "augmented",
+      "label": "ModerateDemented",
+      "mean_intensity_mean": 72.6477,
+      "mean_intensity_median": 70.6765,
+      "mean_intensity_std": 18.1923,
+      "std_intensity_mean": 77.3684,
+      "std_intensity_median": 78.6957,
+      "std_intensity_std": 11.8239,
+      "entropy_mean": 5.0917,
+      "entropy_median": 5.1194,
+      "entropy_std": 0.327,
+      "sharpness_mean": 261.7408,
+      "sharpness_median": 245.5018,
+      "sharpness_std": 98.5175
+    },
+    {
+      "dataset": "augmented",
+      "label": "NonDemented",
+      "mean_intensity_mean": 80.5517,
+      "mean_intensity_median": 80.9289,
+      "mean_intensity_std": 16.6489,
+      "std_intensity_mean": 81.4262,
+      "std_intensity_median": 83.6991,
+      "std_intensity_std": 11.408,
+      "entropy_mean": 5.321,
+      "entropy_median": 5.2735,
+      "entropy_std": 0.4828,
+      "sharpness_mean": 301.3466,
+      "sharpness_median": 298.6694,
+      "sharpness_std": 111.382
+    },
+    {
+      "dataset": "augmented",
+      "label": "VeryMildDemented",
+      "mean_intensity_mean": 75.4231,
+      "mean_intensity_median": 75.6185,
+      "mean_intensity_std": 17.4983,
+      "std_intensity_mean": 78.169,
+      "std_intensity_median": 81.057,
+      "std_intensity_std": 12.2421,
+      "entropy_mean": 5.2682,
+      "entropy_median": 5.2231,
+      "entropy_std": 0.4633,
+      "sharpness_mean": 298.1888,
+      "sharpness_median": 288.9664,
+      "sharpness_std": 115.2826
+    },
+    {
+      "dataset": "original",
+      "label": "MildDemented",
+      "mean_intensity_mean": 67.4352,
+      "mean_intensity_median": 68.7914,
+      "mean_intensity_std": 5.5025,
+      "std_intensity_mean": 80.3403,
+      "std_intensity_median": 81.7833,
+      "std_intensity_std": 6.0023,
+      "entropy_mean": 5.0758,
+      "entropy_median": 5.1327,
+      "entropy_std": 0.1378,
+      "sharpness_mean": 694.6287,
+      "sharpness_median": 668.8396,
+      "sharpness_std": 186.8814
+    },
+    {
+      "dataset": "original",
+      "label": "ModerateDemented",
+      "mean_intensity_mean": 69.5591,
+      "mean_intensity_median": 69.6609,
+      "mean_intensity_std": 5.2399,
+      "std_intensity_mean": 82.7659,
+      "std_intensity_median": 82.3508,
+      "std_intensity_std": 5.1368,
+      "entropy_mean": 5.085,
+      "entropy_median": 5.1253,
+      "entropy_std": 0.1326,
+      "sharpness_mean": 604.3967,
+      "sharpness_median": 583.4561,
+      "sharpness_std": 92.0675
+    },
+    {
+      "dataset": "original",
+      "label": "NonDemented",
+      "mean_intensity_mean": 74.2989,
+      "mean_intensity_median": 75.3072,
+      "mean_intensity_std": 6.5723,
+      "std_intensity_mean": 85.1318,
+      "std_intensity_median": 86.0898,
+      "std_intensity_std": 6.4827,
+      "entropy_mean": 5.0444,
+      "entropy_median": 5.0933,
+      "entropy_std": 0.1442,
+      "sharpness_mean": 648.3145,
+      "sharpness_median": 632.4313,
+      "sharpness_std": 157.7303
+    },
+    {
+      "dataset": "original",
+      "label": "VeryMildDemented",
+      "mean_intensity_mean": 70.0753,
+      "mean_intensity_median": 71.3268,
+      "mean_intensity_std": 7.1356,
+      "std_intensity_mean": 82.0588,
+      "std_intensity_median": 83.5705,
+      "std_intensity_std": 7.4838,
+      "entropy_mean": 5.061,
+      "entropy_median": 5.1149,
+      "entropy_std": 0.1451,
+      "sharpness_mean": 646.9279,
+      "sharpness_median": 634.812,
+      "sharpness_std": 157.6285
+    }
+  ]
+}

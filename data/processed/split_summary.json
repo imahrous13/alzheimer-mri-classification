@@ -1,0 +1,131 @@
+{
+  "seed": 42,
+  "phash_hamming_radius": 0,
+  "validation_fraction_of_original_groups": 0.15,
+  "test_fraction_of_original_groups": 0.15,
+  "rows": 40384,
+  "leakage_groups": 30091,
+  "augmented_rows_excluded_by_leakage_guard": 2491,
+  "split_counts": [
+    {
+      "split": "excluded_leakage_guard",
+      "dataset": "augmented",
+      "label": "MildDemented",
+      "count": 770
+    },
+    {
+      "split": "excluded_leakage_guard",
+      "dataset": "augmented",
+      "label": "ModerateDemented",
+      "count": 540
+    },
+    {
+      "split": "excluded_leakage_guard",
+      "dataset": "augmented",
+      "label": "NonDemented",
+      "count": 561
+    },
+    {
+      "split": "excluded_leakage_guard",
+      "dataset": "augmented",
+      "label": "VeryMildDemented",
+      "count": 620
+    },
+    {
+      "split": "test",
+      "dataset": "original",
+      "label": "MildDemented",
+      "count": 134
+    },
+    {
+      "split": "test",
+      "dataset": "original",
+      "label": "ModerateDemented",
+      "count": 10
+    },
+    {
+      "split": "test",
+      "dataset": "original",
+      "label": "NonDemented",
+      "count": 485
+    },
+    {
+      "split": "test",
+      "dataset": "original",
+      "label": "VeryMildDemented",
+      "count": 334
+    },
+    {
+      "split": "train",
+      "dataset": "augmented",
+      "label": "MildDemented",
+      "count": 8190
+    },
+    {
+      "split": "train",
+      "dataset": "augmented",
+      "label": "ModerateDemented",
+      "count": 5924
+    },
+    {
+      "split": "train",
+      "dataset": "augmented",
+      "label": "NonDemented",
+      "count": 9039
+    },
+    {
+      "split": "train",
+      "dataset": "augmented",
+      "label": "VeryMildDemented",
+      "count": 8340
+    },
+    {
+      "split": "train",
+      "dataset": "original",
+      "label": "MildDemented",
+      "count": 625
+    },
+    {
+      "split": "train",
+      "dataset": "original",
+      "label": "ModerateDemented",
+      "count": 44
+    },
+    {
+      "split": "train",
+      "dataset": "original",
+      "label": "NonDemented",
+      "count": 2236
+    },
+    {
+      "split": "train",
+      "dataset": "original",
+      "label": "VeryMildDemented",
+      "count": 1571
+    },
+    {
+      "split": "validation",
+      "dataset": "original",
+      "label": "MildDemented",
+      "count": 137
+    },
+    {
+      "split": "validation",
+      "dataset": "original",
+      "label": "ModerateDemented",
+      "count": 10
+    },
+    {
+      "split": "validation",
+      "dataset": "original",
+      "label": "NonDemented",
+      "count": 479
+    },
+    {
+      "split": "validation",
+      "dataset": "original",
+      "label": "VeryMildDemented",
+      "count": 335
+    }
+  ]
+}
